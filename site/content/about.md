@@ -1,12 +1,16 @@
 ---
-date: "2020-01-01"
-description: A description of the page
 menu: main
-title: About Hugo Tanka
+title: Tyyppiarvo
 ---
 
-Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, [mea qualisque consetetur cu](https://example.com). Suspendisse volutpat sem a risus euismod convallis.
+Tyyppiarvo on Helsingin yliopiston tilastotieteen opiskelijoiden eli Moodi ry:n vuosina 1985--2019 julkaistu järjestölehti. Tällä hetkellä Tyyppiarvolla ei ole aktiivista julkaisutoimintaa, mutta lehteä ei ole virallisesti lakkautettukaan. Mikäli Tyyppiarvon elvyttäminen kiinnostaa, ole yhteydessä Moodi ry:n hallitukseen. 
 
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro. [Erat democritum mei no](https://example.com), homero quodsi aliquando id mel, ridens civibus molestiae et nam.
+Lehti julkaisi historiansa aikana juttuja tilastotieteen opiskelijoille merkitsevistä aiheista ja pyrki julistamaan tilastotieteen ilosanomaa myös yliopiston ulkopuolella. Tyyppiarvo kertoi opiskelijoille läheisiä tarinoita ajankohtaisista asioista ja tapahtumista, opiskelijoiden mielipiteitä, henkilökunnan näkemyksiä, haastatteluja, tilastotietoa sekä turhaa tietoa.
 
-Ea eam postea facilisi. Nullam forensibus consequuntur usu ea, no ius consul delectus periculis. Eam veri numquam an. Et partiendo gubergren eam. Quod iudicabit has ex, eam diam facilisi eu, elitr aliquip no eum.
+Tyyppiarvo ”luottaa tilastotieteen vetovoimaan, mutta suuntaa ulospäin”, tiivisti raati, kun lehti voitti HYYn järjestölehtikilpailun vuonna 2013.
+
+Vuonna 2016 Tyyppiarvo siirtyi entistä vahvemmin verkkoon. Tyyppiarvo.comista pystyi lukemaana Moodiin ja tilastotieteeseen liittyviä artikkeleita lähes reaaliaikaisesti. 
+
+Nämä artikkelit, jotka on julkaistu Tyyppiarvo.comissa 2016--2019 välisenä aikana löytyvät tältä sivustolta. Tätä vanhemmat painetut lehdet löytyvät skannattuna PDF:nä [Lehtiarkistosta](). 
+
+Tämän arkistosivun toteutuksesta ja ylläpidosta vastaa Joni Oksanen.
