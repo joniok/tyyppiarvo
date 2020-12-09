@@ -8,16 +8,6 @@
     <language>fi</language>
     <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tyyppiarvo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Hugo Tanka</title>
-      <link>https://tyyppiarvo.netlify.app/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tyyppiarvo.netlify.app/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
-    </item>
-    
-    <item>
       <title>MoPSille kultaa Kannunvalajien jalkapalloturnauksessa!</title>
       <link>https://tyyppiarvo.netlify.app/blog/2019-11-07-mopsille-kultaa-kannunvalajien-jalkapalloturnauksessa/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
@@ -1343,6 +1333,27 @@ Hyvin tehty visualisaatio voi sisältää enemmänkin informaatiota ja on parhai
       <description>Unisportin urheilusarjoissa ei ole kyse aina pelkästä urheilusta, vaan jostain paljon suuremmasta: sitoutumisesta ja kunnioituksesta. Siitä, kuka jaksaa taistella joukkueelle silloinkin, kun ei huvita. Eli siitä, kuka saa kuusi pelaajaa perjantaina iltakymmeneltä sateiseen Espooseen.
 Ja juuri tässä mitattiin eilen MoPSi-Basketin taso. Kun MoPSi marssitti Otahallin palloilusalin muovimatolle peräti kuusi pelaajaa, sai vastustaja AC Niittokone paikalle vain kolme peluria. Ottelu tuomittiin jo ennen sen alkamista MoPSin 20-0-voitoksi.
 Koska pelaajia oli salissa vain yhdeksän, siirtyivät Matrix-vahvistus Ilari Saunamäki ja ottelun tuomari Niittokoneen riveihin, &amp;ldquo;jotta ei oltaisi tultu tänne ihan turhaan&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Lehtiarkisto</title>
+      <link>https://tyyppiarvo.netlify.app/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyyppiarvo.netlify.app/archive/</guid>
+      <description>Kaikki lehdet on myös arkistoitu ja saatavilla Google Drivessä. Lehdet ovat ladattavissa yksitellen pdf-muodossa sekä pakattuna zip-tiedostona. Erityiskiitos Reijo Sundille vuosien 1985-2006 (numerot 1-73) skannaamisesta.
+Suurin osa lehdistä on myös luettavissa ISSUU-verkkopalvelussa: issuu.com/Tyyppiarvo.
+Auta arkiston täydentämisessä! Jos sinulla on tallessa tästä kokoelmasta puuttuvia lehtiä, ottaisitko yhteyttä Moodin hallitukseen. Alkuperäisiä lehtiä säilytetään Moodin arkistoissa syvällä Kumpulanmäen uumenissa.</description>
+    </item>
+    
+    <item>
+      <title>Tyyppiarvo</title>
+      <link>https://tyyppiarvo.netlify.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyyppiarvo.netlify.app/about/</guid>
+      <description>Tyyppiarvo on Helsingin yliopiston tilastotieteen opiskelijoiden eli Moodi ry:n vuosina 1985&amp;ndash;2019 julkaistu järjestölehti. Tällä hetkellä Tyyppiarvolla ei ole aktiivista julkaisutoimintaa, mutta lehteä ei ole virallisesti lakkautettukaan. Mikäli Tyyppiarvon elvyttäminen kiinnostaa, ole yhteydessä Moodi ry:n hallitukseen.
+Lehti julkaisi historiansa aikana juttuja tilastotieteen opiskelijoille merkitsevistä aiheista ja pyrki julistamaan tilastotieteen ilosanomaa myös yliopiston ulkopuolella. Tyyppiarvo kertoi opiskelijoille läheisiä tarinoita ajankohtaisista asioista ja tapahtumista, opiskelijoiden mielipiteitä, henkilökunnan näkemyksiä, haastatteluja, tilastotietoa sekä turhaa tietoa.</description>
     </item>
     
   </channel>
