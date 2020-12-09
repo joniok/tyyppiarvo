@@ -6,6 +6,12 @@ This website can be found at [`tyyppiarvo.netlify.app`](https://tyyppiarvo.netli
 
 ---
 
+Tämä sivusto tehty [Blogdownilla](https://bookdown.org/yihui/blogdown/). Alkuperäisen Wordpress-sivuston data on [käännetty Markdowniksi](https://github.com/lonekorean/wordpress-export-to-markdown) joulukuussa 2020. Artikkelit vaativat tämän lisäksi jonkin verran editointia etenkin Wordpressin eri plug-ineilla toteutettujen sisältöjen osalta. Sivustoon liittyviä parannus- ja muutosehdotuksia vastaan otetaan erittäin mielellään!
+
+## Muokkausohjeet
+
+Ks. [blogdown: Creating Websites with R Markdown kappale 1.7](https://bookdown.org/yihui/blogdown/workflow.html).
+
 ## Todo
 
 ## Artikkelien Markdown-käännös
