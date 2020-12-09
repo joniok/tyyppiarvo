@@ -1,8 +1,7 @@
 baseurl: https://example.com
-title: Hugo Tanka Theme Demo
-author: Nan Xiao
+title: Tyyppiarvo
 canonifyurls: yes
-languagecode: en
+languagecode: fi
 theme: hugo-tanka
 enableEmoji: yes
 hasCJKLanguage: no
@@ -22,7 +21,7 @@ params:
     - python
     - stan
   progressively: no
-  sitename: Hugo Tanka Theme
+  sitename: Tyyppiarvon arkisto
   uselatex: yes
 markup:
   goldmark:
@@ -30,18 +29,15 @@ markup:
       unsafe: yes
 menu:
   primary:
-    - name: Home
+    - name: Etusivu
       url: /
       weight: 1
-    - name: About
+    - name: Tyyppiarvo
       url: /about/
       weight: 2
-    - name: GitHub
-      url: https://github.com/nanxstats
+    - name: Lehtiarkisto
+      url: /archive/
       weight: 3
-    - name: Twitter
-      url: https://twitter.com/nanxstats
-      weight: 4
-    - name: Subscribe
-      url: /index.xml
+    - name: GitHub
+      url: https://github.com/joniok/tyyppiarvo
       weight: 5

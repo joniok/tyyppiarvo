@@ -1,6 +1,7 @@
 ---
 title: "MoPSille kultaa Kannunvalajien jalkapalloturnauksessa!"
 date: "2019-11-07"
+author: Krapula-Ahti
 ---
 
 _Krapula-Ahti_
