@@ -35,7 +35,7 @@ menu:
     - name: Tyyppiarvo
       url: /about/
       weight: 2
-    - name: Lehtiarkisto
+    - name: Lehdet
       url: /archive/
       weight: 3
     - name: Moodi
