@@ -11,6 +11,6 @@ Tyyppiarvo ”luottaa tilastotieteen vetovoimaan, mutta suuntaa ulospäin”, ti
 
 Vuonna 2016 Tyyppiarvo siirtyi entistä vahvemmin verkkoon. Tyyppiarvo.comista pystyi lukemaana Moodiin ja tilastotieteeseen liittyviä artikkeleita lähes reaaliaikaisesti. 
 
-Nämä artikkelit, jotka on julkaistu Tyyppiarvo.comissa 2016--2019 välisenä aikana löytyvät tältä sivustolta. Tätä vanhemmat painetut lehdet löytyvät skannattuna PDF:nä [Lehtiarkistosta](). 
+Nämä artikkelit, jotka on julkaistu Tyyppiarvo.comissa 2016--2019 välisenä aikana löytyvät tältä sivustolta. Tätä vanhemmat painetut lehdet löytyvät skannattuna PDF:nä [Lehtiarkistosta](). Tämän arkistosivun toteutuksesta ja ylläpidosta vastaa Joni Oksanen.
 
-Tämän arkistosivun toteutuksesta ja ylläpidosta vastaa Joni Oksanen.
+**Lämmin kiitos kaikille Tyyppiarvon toimittamiseen osallistuneille henkilöille!**
