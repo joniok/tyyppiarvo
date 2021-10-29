@@ -1,6 +1,7 @@
 ---
 title: "Poika palasi Survomoon! - MoPSi maksoi vuoden takaisen nöyryytyksen takaisin Kevätklassikossa"
 date: "2018-05-21"
+author: "Krapula-Ahti"
 ---
 
 **MoPSi     8**
@@ -21,4 +22,4 @@ Tehokkaasta hyökkäyspelistä huolimatta MoPSin voiton salaisuus oli loistava p
 
 Voitokas Kevätklassikko jää mitä todennäköisimmin MoPSin koiralauman viimeiseksi otteluksi vähään aikaan, kun ensi kauden Unisport-sarjoissa myös Moodin Palloseura mukautuu poliittisen pelin tempaamana osaksi uusia tiedekuntarakenteita ja yhdistyy matemaattisten tieteiden joukkueen Matrixin kanssa. Uskolliset fanit pääsevät kuitenkin vielä tulevinakin keväinä seuraamaan aina yhtä kuumia ja kiihkeitä koitoksia paikallisvihollisten MoPSin ja KTTOn välillä.
 
-\[caption id="" align="aligncenter" width="601"\]![](http://gdurl.com/LdaG) Voitokas MoPSi yhteiskuvassa ottelun jälkeen.\[/caption\]
+![Voitokas MoPSi yhteiskuvassa ottelun jälkeen.](./WhatsApp%20Image%202018-05-21%20at%2016.13.52.jpeg)

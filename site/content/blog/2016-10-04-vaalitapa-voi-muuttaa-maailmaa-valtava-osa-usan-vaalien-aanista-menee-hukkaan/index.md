@@ -1,13 +1,14 @@
 ---
 title: "Vaalitapa voi muuttaa maailmaa — valtava osa USA:n vaalien äänistä menee hukkaan"
 date: "2016-10-04"
+author: "Heikki Hyhkö"
 ---
 
-\[caption id="" align="alignnone" width="404"\]![Al Gore tuskin lukeutuu Yhdysvaltojen nykyisen vaalitavan suurimpiin faneihin. Kuva: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/64/Al_Gore_at_SapphireNow_2010.jpg) Al Gore tuskin lukeutuu Yhdysvaltojen nykyisen vaalitavan suurimpiin faneihin. Kuva: Wikimedia Commons\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/6/64/Al_Gore_at_SapphireNow_2010.jpg)
+
+_Al Gore tuskin lukeutuu Yhdysvaltojen nykyisen vaalitavan suurimpiin faneihin. Kuva: Wikimedia Commons_
 
 * * *
-
-**Heikki Hyhkö, teksti, data ja kuvaajat**
 
 Yhdysvaltojen presidentinvaalien tulosta ei tiedä vielä kukaan, mutta yksi asia on varmaa. Valtava osa maailman vaikutusvaltaisimman henkilön vaalin äänistä menee hukkaan.
 
@@ -19,11 +20,13 @@ Lähes kaikissa osavaltioissa osavaltion kaikki valitsijamiehet menevät osavalt
 
  
 
-\[caption id="" align="alignnone" width="959"\]![Osavaltioiden valitsijamiehin lukumäärät vuosien 2012 - 2012 presidentinvaalissa](https://upload.wikimedia.org/wikipedia/commons/c/cf/Electoral_map_2012-2020.svg) Osavaltioiden valitsijamiehin lukumäärät vuosien 2012 - 2020 presidentinvaalissa. kuva: wikimedia commons\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Electoral_map_2012-2020.svg)
+
+_Osavaltioiden valitsijamiehin lukumäärät vuosien 2012 - 2020 presidentinvaalissa. kuva: wikimedia commons_
 
 Presidentiksi valitaan ehdokas, joka saa ehdottoman enemmistön valitsijamiesten äänistä (Electoral Votes). Tällaiseen vaalijärjestelmään on kaiketi päädytty, koska osavaltioita pidetään itsenäisinä valtioina ja uusintavaalien järjestämistä, jos ehdotonta enemmistöä ei saavuteta, pidetään kohtuuttoman vaikeana.
 
-**Mihin informaatio hukkuu?**
+## Mihin informaatio hukkuu?
 
 Osavaltioissa on siis etukäteen määritelty määrä valitsijamiehiä, jotka osavaltion voittanut ehdokas haalii itselleen. Aluksi ääniä laskemalla muodostetaan numeerinen muuttuja Äänimäärä, jonka avulla muodostetaan luokittelumuuttuja Vaalivoittaja/Häviäjä. Tämän jälkeen määritellään ratkaiseva numeerinen muuttuja Valtsijamiesten määrä.  Tässä prosessissa hävitetään merkittävä määrä alkuperäistä äänestysinformaatiota.
 
@@ -33,7 +36,9 @@ Esimerkki on tietysti karkeimmasta päästä, mutta vuodesta 1992 alkaen kaikiss
 
  
 
-\[caption id="" align="alignnone" width="756"\]![Kuvan teksti](http://gdurl.com/QhYU) Punaisella on merkitty voittajan (V) ja häviäjän (H) äänistä hukkaan menneet osuudet eri vuosina.\[/caption\]
+![](./hukatut.png)
+
+_Punaisella on merkitty voittajan (V) ja häviäjän (H) äänistä hukkaan menneet osuudet eri vuosina._
 
 Hukkaan menneet äänet koostuvat voittajan, häviäjän ja muiden ehdokkaiden\* äänistä. Muille ehdokkaille annetut äänet menevät automaattisesti hukkaan, jos ajatellaan vain presidentin valintaa.
 
@@ -41,7 +46,7 @@ Esimerkiksi **Ross Perot** sai noin 10 prosenttia äänistä molemilla kerroilla
 
 Oleellisemmat menetykset syntyvät pääehdokkaiden saamista äänistä hävityissä osavaltioissa. Voittaja on menettänyt keskimäärin 15 prosenttia kannatuksestaan ja häviäjä vastaavasti keskimäärin 25 prosenttia kannatuksestaan hävityissä osavaltioissa. Jos presidentti valittaisiin suoralla kansanvaalilla tai osavaltiot jakaisivat valitsijamiehet saadun kannatuksen mukaan, tällaisia menetyksiä ei syntyisi.
 
-**Olisivatko tulokset muuttuneet?**
+## Olisivatko tulokset muuttuneet?
 
 Tarkasteltaessa vuoden 1960 jälkeisiä vaaleja vain yhden kerran olisi suoralla kansanvaalilla ”tullut valituksi” eri presidentti. Tämä vaatii tietysti reilusti mutkien oikomista, kun käytetään spekulatiivisessa vaalitavassa nykyisellä vaalijärjestelmällä laskettuja ääniä. Lisäksi oletetaan, että enemmän ääniä saanut valitaan huomioimatta ns. muiden ehdokkaiden ääniä.
 
@@ -49,9 +54,11 @@ Jos nämä oletukset kuitenkin tehdään, olisi **Al Gore** voittanut **George 
 
 Jos valitsijamiehet olisi tuolloin valittu osavaltioittaisissa suhteutettuna äänimääriin, niin Bush olisi saanut 261 valitsijamiestä, kun Gore olisi saanut vain 260. Loput 17 valitsijamiestä olisivat menneet muille ehdokkaille (lähinnä **Ralph Naderille**). Kaikki vuoden 1960 jälkeiset vaalit olisivat olleet huomattavasti tiukempia, jos olisi käytetty jompaa kumpaa yllä mainituista vaalitavoista. Näissä neljässätoista presidentinvaalissa viidesti voittajan ääniosuus on ollut alle 50%.
 
-\[caption id="" align="alignnone" width="756"\]![kuvateksti](http://gdurl.com/VjwL) Ehdokkaiden saamat ääniosuudet vaaleissa. Värit eivät viittaa republikaaneihin ja demokraatteihin, vaan voittaneisiin ja hävinneisiin ehdokkaisiin. EV tarkoittaa Electoral Votes -määrää.\[/caption\]
+![](./ääniosuudet.png)
 
-**Mikä muuttuisi, jos vaalijärjestelmää muutettaisiin?** 
+_Ehdokkaiden saamat ääniosuudet vaaleissa. Värit eivät viittaa republikaaneihin ja demokraatteihin, vaan voittaneisiin ja hävinneisiin ehdokkaisiin. EV tarkoittaa Electoral Votes -määrää._
+
+## Mikä muuttuisi, jos vaalijärjestelmää muutettaisiin?
 
 Suora vaikutus vaalitavan muutoksessa olisi, että annetut äänet tällaisessa henkilövaalissa eivät menisi hukkaan.
 
@@ -59,7 +66,7 @@ Mutta vielä suurempi merkitys olisi sillä, että jomman kumman pääpuolueen h
 
 Tällöin myös niin sanotut ”Swing States” -osavaltiot menettäisivät merkitystään. Näissä osavaltioissa pääpuolueiden kannatus on suunnilleen tasoissa ja ehdokkaat kampanjoivat niissä ahkerasti. Toisenlaisessa järjestelmässä valtaosa kampanjoinnista suunnattaisiin suuriin osavaltioihin ja kansalliselle tasolle. Toki edellä mainittuja vaikutuksia hieman loiventasi ns. varman voittajan kannattajien aktivoituminen. Kaikki nämä vaikutukset olisivat kuitenkin mitä luultavimmin äänestysaktiivisuutta nostavia.
 
-**Miten tämä vertautuu Suomeen?**
+## Miten tämä vertautuu Suomeen?
 
 Presidentinvaaleihin ei tietenkään mitenkään, koska meillä on jo suora kansanvaali, mutta eduskuntavaaleissa meilläkin hukataan merkittävästi ääniä pienissä vaalipiireissä. Joissain vaalipiireissä edes kaikkien eduskuntapuolueiden äänimäärät eivät ylitä äänikynnystä, joten ääniä hukataan. On myös mahdollista, että kansallisesti riittävää suosiota nauttiva lista/puolue ei välttämättä ylitä äänikynnystä missään. Nämä hukatut äänet potentiaalisesti lisäävät nukkuvien puolueen kannatusta.
 
@@ -70,7 +77,3 @@ Palataan lopuksi vielä amerikkalaiseen vaalitapaan. Jos joskus tulevaisuudessa 
 Kannattaisitko sinä?
 
 \*Muilla ehdokkailla tarkoitetaan pääpuolueiden ulkopuolisia ehdokkaita.
-
-\[table id=8 /\]
-
-\[table id=7 /\]

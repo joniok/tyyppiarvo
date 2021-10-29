@@ -1,15 +1,15 @@
 ---
 title: "\"Suutu jo!\" - Moodin maastavetokilpailun Nassim Taleb -trophyn nappasi yllätysnimi"
 date: "2017-05-20"
+author: "Ville Hyvönen, Aapeli Nevala, Petteri Mäntymaa"
 ---
 
 * * *
 
-**Teksti: Ville Hyvönen, editointi: Aapeli Nevala,**
+**Teksti: Ville Hyvönen, editointi: Aapeli Nevala,
+kuvat: Petteri Mäntymaa/Aapeli Nevala**
 
-**kuvat: Petteri Mäntymaa/Aapeli Nevala**
-
-![](http://gdurl.com/OC_z)
+<!-- ![](http://gdurl.com/OC_z) -->
 
 Moodin jo ensimmäisellä kerralla perinteisen maastanostokilpailun etukäteen suurin jännitysmomentti liittyi osallistujien määrään: kova uhoaminen on jatkunut jo viikkoja, ja kisaan on ilmoittautunut niin entisiä painnonnostomestareita kuin yli 200 kilon vetäjiäkin.
 
@@ -43,7 +43,7 @@ Ennen kolmatta ja viimeistä nostokierrosta kilpailijat vetäytyvät pitämään
 
 Mäntymaa huolehtii myös, että tapahtuuhan mahdollinen punnitus ilman vaatteita. Ilman muuta…
 
-\[caption id="" align="alignnone" width="477"\]![](http://gdurl.com/pDVU) Tältä näyttää mavekuningas Petteri Mäntymaa sivuttain (tekninistä vaikeuksista johtuen).\[/caption\]
+<!-- \[caption id="" align="alignnone" width="477"\]![](http://gdurl.com/pDVU) Tältä näyttää mavekuningas Petteri Mäntymaa sivuttain (tekninistä vaikeuksista johtuen).\[/caption\] -->
 
 Lopulta on aika lukea äänen viimeiset korotukset: Hyvönen 165, Mäntymaa 167.5, ja Nevala peräti 172.5. Kaikki on siis täysin auki ennen viimeistä nostokierrosta: Jos Nevala nostaa hurjan lopetusrautansa, hän on varma voittaja. Jos taas Nevala epäonnistuu, mutta Mäntymaa onnistuu, hän vie kilpailun. Sen sijaan jos Hyvönen nostaa 165, ja sekä Nevala että Mäntymaa epäonnistuvat suorituksisaan, hän päätyy tasatulokseen Nevalan kanssa, ja vie kevyempänä nostajana Nassim Nicholas Taleb -trophyn ja Survon käyttäjäyhdistyksen sponsoroiman 10 000 euron bonusshekin.
 
@@ -53,7 +53,7 @@ Sen sijaan Mäntymaa osoittaa rautaisen luontonsa ja kiskoo pelkällä raivolla 
 
 Kilpailu huipentuu Nevalan viimeiseen nostoon. Tyylilleen uskollisena vanha Ilta-Sanomien urheilutoimittaja “keskittyy” ennen suoritustaan raportoimalla väliaikatietoja Moodin Palloseuran WhatsApp-ryhmään.
 
-\[caption id="" align="alignnone" width="452"\]![](http://gdurl.com/rSYV) Rautaa (ja teknisiä ongelmia)\[/caption\]
+<!-- \[caption id="" align="alignnone" width="452"\]![](http://gdurl.com/rSYV) Rautaa (ja teknisiä ongelmia)\[/caption\] -->
 
 Kun Nevala lopulta astelee nostolavalle, koko Unisportin salin valtaa syvä hiljaisuus kaikkien keskittyessä hartaasti seuraamaan ratkaisevaa nostoa. Porilainen karpaasi ponnistaa voimansa äärimmilleen, mutta kuten Hyvösellä, tanko pysyy liimattuna lattiaan. Siten vuoden 2017 Nassim Nicholas Taleb trophyn vie yllättäjä Petteri Mäntymaa vie varsin kovalla tuloksella 167.5 kiloa.
 

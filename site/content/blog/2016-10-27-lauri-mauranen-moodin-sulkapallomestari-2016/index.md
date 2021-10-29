@@ -1,6 +1,7 @@
 ---
 title: "Lauri Mauranen Moodin sulkapallomestari 2016!"
 date: "2016-10-27"
+author: "Krapula-Ahti"
 ---
 
 Perinteinen Moodin sulkapalloturnaus kamppailtiin torstaina ensimmäistä kertaa Kumpulan sulkapallopyhätössä. Paikalle oli saapunut kunnioitettavat 12 pelaajaa kamppailemaan tilastotieteilijöiden sulkapalloherruudesta. Moodilaisten lisäksi syksyn kovimmassa mailapelitapahtumassa oli mukana kolme matemaatikkoa, sekä yksi sveitsiläinen valtiotieteilijä.
@@ -19,296 +20,155 @@ Kuten arvata saattaa, pitkä turnaus vaati pelaajilta veronsa, etenkin kun jatko
 
 Pronssiottelussakin nähtiin tekniikan voitto voimasta, kun Aron Zürcher nappasi palkintosukat VOOhon kaatamalla Lauhan helpohkosti 2-0 (21-5, 21-15).
 
-\[caption id="" align="alignnone" width="500"\]![Mitalikolmikko palkintopallilla. Turnauksen voitti Lauri Mauranen (keskellä), toiseksi sijoittui Ville Hyvönen (vasemmalla) ja kolmanneksi Aron Zürcher (oikealla). Unisport palkitsi voittajat mukilla, hikinauhoilla ja sukilla. Lisäksi voittajalle luovutettiin turnauksen palkintopokaali.](http://gdurl.com/1_3e) Mitalikolmikko palkintopallilla. Turnauksen voitti Lauri Mauranen (keskellä), toiseksi sijoittui Ville Hyvönen (vasemmalla) ja kolmanneksi Aron Zürcher (oikealla). Unisport palkitsi voittajat mukilla, hikinauhoilla ja sukilla. Lisäksi voittajalle luovutettiin turnauksen palkintopokaali.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="500"\]![Mitalikolmikko palkintopallilla. Turnauksen voitti Lauri Mauranen (keskellä), toiseksi sijoittui Ville Hyvönen (vasemmalla) ja kolmanneksi Aron Zürcher (oikealla). Unisport palkitsi voittajat mukilla, hikinauhoilla ja sukilla. Lisäksi voittajalle luovutettiin turnauksen palkintopokaali.](http://gdurl.com/1_3e) Mitalikolmikko palkintopallilla. Turnauksen voitti Lauri Mauranen (keskellä), toiseksi sijoittui Ville Hyvönen (vasemmalla) ja kolmanneksi Aron Zürcher (oikealla). Unisport palkitsi voittajat mukilla, hikinauhoilla ja sukilla. Lisäksi voittajalle luovutettiin turnauksen palkintopokaali.\[/caption\] -->
 
 Tyyppiarvo onnittelee mitalisteja sekä kiittää kaikkia osallistuneita! Erityiskiitokset myös Unisportille tapahtuman sponsoroinnista sekä toimitsijana huhkineelle **Joni** **Oksaselle**.
 
 Ohessa vielä statistiikkaa turnauksesta:
 
-KENTTÄ
-
-1
-
-2
-
-3
-
-4
-
-AIKA
-
-11:00
-
-Patrik - Tuomo
-
-Ville - Joonas
-
-Lauri - Elias
-
-Santeri - Daniel
-
-2-0 (11-8,11-7)
-
-2-0 (11-4,11-4)
-
-2-0 (11-2, 11-2)
-
-2-0 (11-3, 11-4)
-
-11:20
-
-Ville - Patrik
-
-Aron - Elias
-
-Aapeli - Lauri
-
-Azira - Viljami
-
-2-1 (9-11,12-10,11-5)
-
-2-0 (11-3, 11-6)
-
-0-2 (1-11, 1-11)
-
-0-2 (2-11, 6-11)
-
-11:40
-
-Tuomo - Joonas
-
-Aapeli - Aron
-
-Santeri - Azira
-
-Daniel - Viljami
-
-2-0 (11-6, 11-1)
-
-0-2 (10-12, 1-11)
-
-2-0 (11-2, 11-4)
-
-0-2 (4-11, 6-11)
-
-12:00
-
-Ville - Tuomo
-
-Joonas - Patrik
-
-Elias - Aapeli
-
-Daniel - Azira
-
-2-1 (7-11, 12-10, 13-11)
-
-0-2 (6-11, 3-11)
-
-0-2 (5-11, 8-11)
-
-2-0 (11-1, 11-2)
-
-12:20
-
-Lauri - Aron \*
-
-Viljami - Santeri
-
-VAPAATA PELAILUA
-
-2-0 (21-15, 21-18)
-
-0-2 (4-11, 7-11)
-
-12:30
-
-**Aron** - Santeri
-
-**Patrik** - Viljami
-
-2-0(21-9, 21-11)
-
-2-0 (21-5, 21-3)
-
-13:05
-
-**Ville** - Aron
-
-**Lauri**\- Patrik
-
-2-0 (21-17, 21-18)
-
-2-0 (21-6, 21-3)
-
-13:30
-
-FINAALI
-
-PRONSSIOTTELU
-
-**Lauri** - Ville
-
-Patrik - **Aron**
-
-2-0 (21-3, 21-6)
-
-0-2 (5-21, 15-21)
+<table>
+<tbody>
+<tr>
+<td width="71">KENTTÄ</td>
+<td width="144">1</td>
+<td width="143">2</td>
+<td width="145">3</td>
+<td width="144">4</td>
+</tr>
+<tr>
+<td>AIKA</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>Patrik - Tuomo</td>
+<td>Ville - Joonas</td>
+<td>Lauri - Elias</td>
+<td>Santeri - Daniel</td>
+</tr>
+<tr>
+<td></td>
+<td>2-0 (11-8,11-7)</td>
+<td>2-0 (11-4,11-4)</td>
+<td>2-0 (11-2, 11-2)</td>
+<td>2-0 (11-3, 11-4)</td>
+</tr>
+<tr>
+<td>11:20</td>
+<td>Ville - Patrik</td>
+<td>Aron - Elias</td>
+<td>Aapeli - Lauri</td>
+<td>Azira - Viljami</td>
+</tr>
+<tr>
+<td></td>
+<td>2-1 (9-11,12-10,11-5)</td>
+<td>2-0 (11-3, 11-6)</td>
+<td>0-2 (1-11, 1-11)</td>
+<td>0-2 (2-11, 6-11)</td>
+</tr>
+<tr>
+<td>11:40</td>
+<td>Tuomo - Joonas</td>
+<td>Aapeli - Aron</td>
+<td>Santeri - Azira</td>
+<td>Daniel - Viljami</td>
+</tr>
+<tr>
+<td></td>
+<td>2-0 (11-6, 11-1)</td>
+<td>0-2 (10-12, 1-11)</td>
+<td>2-0 (11-2, 11-4)</td>
+<td>0-2 (4-11, 6-11)</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>Ville - Tuomo</td>
+<td>Joonas - Patrik</td>
+<td>Elias - Aapeli</td>
+<td>Daniel - Azira</td>
+</tr>
+<tr>
+<td></td>
+<td>2-1 (7-11, 12-10, 13-11)</td>
+<td>0-2 (6-11, 3-11)</td>
+<td>0-2 (5-11, 8-11)</td>
+<td>2-0 (11-1, 11-2)</td>
+</tr>
+<tr>
+<td>12:20</td>
+<td>Lauri - Aron *</td>
+<td>Viljami - Santeri</td>
+<td colspan="2" rowspan="8">VAPAATA PELAILUA</td>
+</tr>
+<tr>
+<td></td>
+<td>2-0 (21-15, 21-18)</td>
+<td>0-2 (4-11, 7-11)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12:30</td>
+<td><strong>Aron</strong> - Santeri</td>
+<td><strong>Patrik</strong> - Viljami</td>
+</tr>
+<tr>
+<td></td>
+<td>2-0(21-9, 21-11)</td>
+<td>2-0 (21-5, 21-3)</td>
+</tr>
+<tr>
+<td>13:05</td>
+<td><strong>Ville</strong> - Aron</td>
+<td><strong>Lauri</strong>- Patrik</td>
+</tr>
+<tr>
+<td></td>
+<td>2-0 (21-17, 21-18)</td>
+<td>2-0 (21-6, 21-3)</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>FINAALI</td>
+<td>PRONSSIOTTELU</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Lauri</strong> - Ville</td>
+<td>Patrik - <strong>Aron</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>2-0 (21-3, 21-6)</td>
+<td>0-2 (5-21, 15-21)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
  
 
-Lohko
-
-Nimi
-
-Pisteet
-
-Erät +
-
-Erät -
-
-Erät +/-
-
-A
-
-**Ville Hyvönen**
-
-6
-
-6
-
-2
-
-4
-
-A
-
-**Patrik Lauha**
-
-4
-
-5
-
-2
-
-3
-
-A
-
-Tuomo Nieminen
-
-2
-
-3
-
-4
-
-\-1
-
-A
-
-Joonas Kurki
-
-0
-
-0
-
-6
-
-\-6
-
-B
-
-**Lauri Mauranen**
-
-6
-
-6
-
-0
-
-6
-
-B
-
-**Aron Zürcher**
-
-4
-
-4
-
-2
-
-2
-
-B
-
-Aapeli Nevala
-
-2
-
-2
-
-4
-
-\-2
-
-B
-
-Elias Mäkelä
-
-0
-
-0
-
-6
-
-\-6
-
-C
-
-**Santeri Mikkonen**
-
-6
-
-6
-
-0
-
-6
-
-C
-
-**Viljami Paloposki**
-
-4
-
-4
-
-2
-
-2
-
-C
-
-Daniel Kari
-
-2
-
-2
-
-4
-
-\-2
-
-C
-
-Azira Abbasli
-
-0
-
-0
-
-6
-
-\-6
+| Lohko | Nimi | Pisteet | Erät + | Erät - | Erät +/- |
+| -- | -- | -- | -- | -- | -- |
+| A | **Ville Hyvönen** | 6 | 6 | 2 | 4 |
+| A | **Patrik Lauha** | 4 | 5 | 2 | 3 |
+| A | Tuomo Nieminen | 2 | 3 | 4 | \-1 |
+| A | Joonas Kurki | 0 | 0 | 6 | \-6 |
+| B | **Lauri Mauranen** | 6 | 6 | 0 | 6 |
+| B | **Aron Zürcher** | 4 | 4 | 2 | 2 |
+| B | Aapeli Nevala | 2 | 2 | 4 | \-2 |
+| B | Elias Mäkelä | 0 | 0 | 6 | \-6 |
+| C | **Santeri Mikkonen** | 6 | 6 | 0 | 6 |
+| C | **Viljami Paloposki** | 4 | 4 | 2 | 2 |
+| C | Daniel Kari | 2 | 2 | 4 | \-2 |
+| C | Azira Abbasli | 0 | 0 | 6 | \-6 |

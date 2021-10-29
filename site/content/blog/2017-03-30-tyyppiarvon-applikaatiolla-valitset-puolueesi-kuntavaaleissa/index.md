@@ -1,15 +1,14 @@
 ---
 title: "Tyyppiarvon applikaatiolla valitset puolueesi kuntavaaleissa"
 date: "2017-03-30"
+author: "Tuomo Nieminen"
 ---
 
 _Suomi jakautuu kuntiin, joilla on itsehallinto. Kunnan toiminnasta ja taloudesta päättää kunnanvaltuusto, joka valitaan kuntavaaleissa neljäksi vuodeksi kerrallaan. Seuraavien kuntavaalien äänestyspäivä on 9.4.2017 ja ennakkoäänestys on jo alkanut. Tyyppiarvo kehitti nyt vaalien alla HS:n vaalikonedataan perustuvan applikaation, joka mahdollistaa laajan kuntapoliittisen tarkastelun._
 
 * * *
 
-**Tuomo Nieminen**
-
-\[caption id="" align="aligncenter" width="407"\][![](http://gdurl.com/RzyBi)](https://tuomonieminen.shinyapps.io/kunnat17/) Kuvakaappaus Tyyppiarvon data science -tiimin kehittämästä "kunnat17" -applikaatiosta\[/caption\]
+[![Kuvakaappaus Tyyppiarvon data science -tiimin kehittämästä "kunnat17" -applikaatiosta](./kunnat2017_app.PNG)](https://tuomonieminen.shinyapps.io/kunnat17/)
 
 **90-luvun lopulla** kehitetyt vaalikoneet ovat nykyään yleinen tapa hakea vaalien alla sopivaa ehdokasta. Noin puolet suomalaisista käyttää vaalikoneita ja niitä suosivat etenkin nuoret aikuiset, joista esimerkiksi noin 70% käytti vaalikonetta vuoden 2015 eduskuntavaalien yhteydessä.
 
@@ -31,11 +30,11 @@ _Huom. Applikaatiossa on käyttörajoitus, joka saattaa estää pääsyn tietyn 
 
 Applikaation ideana on valita ensin kunta ja sitten mahdolliset kiinnostuksen kohteena olevat vertailtavat puolueet. Kaikkien ehdokkaiden vastauksia on mahdollista tarkastella jättämällä "Kaikki" yhdeksi valinnaksi puoluevalinnan yhteydessä. Valinnan voi poistaa näppäimillä "Backspace" tai "Delete".
 
-![](http://gdurl.com/cki1)
+![](./valinnat.PNG)
 
 Valintojen jälkeen "kunnat17" -applikaatio näyttää jokaisen HS vaalikoneen väitteen kohdalla ehdokkaiden vastausten jakaumat puolueittain kuvassa, joka esittelee 5 väitettä kerrallaan. Alla kuvakaappauksessa on Vihreiden, Kokoomuksen ja muiden ehdokkaiden vastaukset väitteeseen "Julkisia palveluita tulisi ulkoistaa ensistä enemmän yksityisten yritysten tuotettavaksi".
 
-![](http://gdurl.com/zJQd)
+![](./vastaukset.PNG)
 
 Kuvasta nähdään, että kyseinen väite erottaa Kokoomuksen ehdokkaat Vihreistä ja muiden puolueiden ehdokkaista. Kokoomuksen ehdokkaat suhtautuvat huomattavasti myönteisemmin esitettyyn väitteeseen.
 
@@ -43,7 +42,7 @@ Ryhmä "Muut" sisältää niiden ehdokkaiden vastaukset, jotka eivät kuulu Koko
 
 Applikaatio tarjoaa myös mahdollisuuden ladata esitettyjä kuvia korkealaatuisina.
 
-![](http://gdurl.com/QTKe)
+![](./lataus.PNG)
 
 Tyyppiarvon toimitus toivottaa lukijoilleen hauskoja kuntapoliittisia hetkiä applikaation parissa!
 

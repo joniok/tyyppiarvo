@@ -1,13 +1,12 @@
 ---
 title: "Opintoblogi: Hyppy liikkuvaan junaan"
 date: "2017-01-23"
+author: "Riku Laine"
 ---
 
 _Opintoblogissa tilastotieteen opintoasioista vastaavat henkilöt kirjoittavat ajankohtaisista opintoihin liittyvistä asioista._
 
 * * *
-
-**Riku Laine**
 
 Uusi vuosi ja uudet naamat! Kaikissa työryhmissä ollaan taas saatu sopiva myllerrys aikaan ja opiskelijat kiertävät jakkaralta seuraavalle koittaen löytää istumapaikan ennen musiikin loppumista.
 
@@ -15,7 +14,9 @@ Halusimme tehdä lyhyen katsauksen tulevan vuoden opintotoimintaan, jotta tiedä
 
 Riku Laine – allekirjoittanut – toimii Moodin opintovastaavana yhdessä Sofia Lahdensuon kanssa. Pidämme yllä aktiivisia suhteita laitoksen ja molempien tiedekuntien henkilöstöön sekä opiskelijoihin. Sosiaalitieteiden laitosneuvoston varajäsenenä toimii Joni Oksanen ja uusien opinto-ohjelmien johtoryhmissä toimivat viime vuoden opintovastaava Petteri Mäntymaa (matemaattisten tieteiden kandiohjelma) sekä sivuaineopiskelija Topias Tolonen (matematiikan ja tilastotieteen maisteriohjelma).
 
-\[caption id="" align="alignnone" width="505"\]![](https://upload.wikimedia.org/wikipedia/commons/b/b4/London_Eye_Twilight_April_2006.jpg) Kuvan iso pyörä, London Eye, ei liity tapaukseen. Kuva: Wikimedia Commons.\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/b/b4/London_Eye_Twilight_April_2006.jpg) 
+
+_Kuvan iso pyörä, London Eye, ei liity tapaukseen. Kuva: Wikimedia Commons._
 
 Meneillään olevan vuoden pääteemoiksi ovat karsiutuneet yhteydet Kannunvalajiin ja Iso pyörä -viestintä. Näistä ensimmäinen tullee olemaan helppoa, kun moodilaiset ovat vallanneet Kannun hallituskabinetin. Pääasiassa tavoitteenamme on kuitenkin pitää valtiotieteellisessä tiedekunnassa tieto siitä, että tilastotiede pysyy oleellisena osana heidän opetustaan vielä jonkin aikaa
 

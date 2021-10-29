@@ -1,6 +1,7 @@
 ---
 title: "MoPSi melkein kaikkialla SC Judge Dreddiä parempi!"
 date: "2017-03-17"
+author: "Krapula-Ahti"
 ---
 
 **MoPSi                                3**
@@ -19,13 +20,13 @@ Avausmaalin jälkeen ottelussa siirryttiin jotakuinkin odotettuun pelinkulkuun. 
 
 Toisella jaksolla Judge Dredd jatkoi siitä mihin ensimmäisellä jäi, mutta ei onnistunut horjuttamaan MoPSin tiivistä puolustusta ja erinomaisesti torjunutta **Mikko Uski**a. Pykälistit hakkasivat päätään muuriin, ja aivan erän viime sekunneilla vihreäpaidat räjäyttivät potin, kun mahakkaaksi mieheksi yllättävän liukkaasti liikkuva Komu katkaisi Dreddin pehmeän syötön alaspäin, karkasi läpiajoon ja kiersi näytöstyyliin Dreddin kassarin. Todellinen pukukoppimaali!
 
-\[caption id="" align="alignnone" width="216"\]![](http://gdurl.com/7_TY) Mikko Uski piti torjunnoillaan jälleen MoPSia pystyssä.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![](http://gdurl.com/7_TY) Mikko Uski piti torjunnoillaan jälleen MoPSia pystyssä.\[/caption\] -->
 
 Kaikissa MoPSin maaleissa mukana osunut Komu osui toistamiseen kolmannen erän alkupuolella. Mallikkaasti pelanneet **Lauha**n veljekset esittelivät sedinmäistä kemiaansa ja Komu tälläsi pallon komean kuvion päätteeksi neliön keskeltä yläpesään. Osuma jäi kuitenkin MoPSin viimeiseksi ja huippupaikkoja liukuhihnalta luonut Dredd hyödynsi koiralauman kevyehkön väsähtämisen ja passivoitumisen takoen kolme nopeaa maalia. Tuloksen voidaan jopa sanoa olevan ansaittu.
 
 MoPSi sai lopussa vielä huipputontin tasoittaa, mutta Pykälän maalivahti onnistui onnekkaasti kaatumaan selälleen pallon päälle. Pelivälinettä ei enää löydetty pelattavaksi, vaikka MoPSin härkämäinen agitaattori **Daniel Kari** osoittikin hienoa taisteluilmettä kuokkimalla palloa maalivahdin alta reilusti tilanteen päättymisen jälkeen.
 
-\[caption id="" align="alignnone" width="216"\]![](http://gdurl.com/SDSd) Aggressiivinen Daniel Kari aiheutti torikokouksen ottelun loppuhetkillä.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![](http://gdurl.com/SDSd) Aggressiivinen Daniel Kari aiheutti torikokouksen ottelun loppuhetkillä.\[/caption\] -->
 
 Ottelu päättyi MoPSin tappioon, minkä myötä joukkueen jatkohaaveet kariutuivat. Realistiset mahdollisuudet olivat tosin jo ennen illan otteluakin nollamittaiset. Jotta kadunmiehet ymmärtäisivät koiralauman upean suorituksen arvon, Tyyppiarvon toimitus päätti kysyä muutaman asiantuntijan mielipidettä kiistämättä MoPSin kauden parhaasta esityksestä.
 
@@ -33,46 +34,9 @@ Tyyppiarvon salibandytoimituksen asiantuntija **Kari Puhtala** hehkutti koirien 
 
 Matematiikka- ja analyysitoimituksen **Rik** **Pataluha** muistutti, että mikäli tarkastellaan ottelun alusta loppuun yltävän suljetun joukon osajoukkoa, joka käsittää alkuperäisen joukon poislukien ne yksittäiset alkiot, joiden kohdalla Judge Dredd teki viimeisen erän maalinsa, voidaan sanoa että MoPSi voitti ottelun melkein kaikkialla kyseisen ottelun rajaamassa avaruudessa. Lisäksi kotikatsomoiden innokkaat aikasarja-analyytikot voivat herkutella oheisella taulukolla, joka vertaa joukkueiden vuoron perään tekemien maalien määriä ja Fibonaccin lukujonoa:
 
-Joukkue
-
-Judge Dredd
-
-MoPSi
-
-Judge Dredd
-
-MoPSi
-
-Judge Dredd
-
-MoPSi
-
-Maalien määrä
-
-0
-
-1
-
-1
-
-2
-
-3
-
-(?)
-
-Fibonaccin lukujono
-
-0
-
-1
-
-1
-
-2
-
-3
-
-5
+| Joukkue | Judge Dredd | MoPSi | Judge Dredd | MoPSi | Judge Dredd | MoPSi |
+| -- | -- | -- | -- | -- | -- | -- |
+| Maalien määrä | 0 | 1 | 1 | 2 | 3 | (?) |
+| Fibonaccin lukujono | 0 | 1 | 1 | 2 | 3 | 5 |
 
 Ottelussa MoPSia edustivat Uski, Kari, Komu, Mikkelä, Lehtonen, **Patrik** ja **Markus** Lauha, **Basti Nyberg** ja **Risko Rikkinen**.

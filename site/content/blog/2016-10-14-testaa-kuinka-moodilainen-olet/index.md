@@ -1,9 +1,10 @@
 ---
 title: "Onko moodilaisuus sinulle jo ongelma? Tee testi ja selvitä kuinka moodilainen olet!"
 date: "2016-10-14"
+author: "Aapeli Nevala"
 ---
 
-![](http://gdurl.com/GQdH)
+<!-- ![](http://gdurl.com/GQdH) -->
 
 Oletko miettinyt oman moodilaisuutesi astetta? Niin mekin, niin mekin. Onneksi tähänkin kvalitatiiviseen ongelmaan on nyt kvantitatiivinen ratkaisu, sillä:
 

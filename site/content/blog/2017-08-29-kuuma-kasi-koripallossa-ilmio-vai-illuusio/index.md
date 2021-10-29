@@ -1,15 +1,16 @@
 ---
 title: "Kuuma käsi koripallossa: ilmiö vai illuusio?"
 date: "2017-08-29"
+author: "Topi Halme"
 ---
-
-**Topi Halme**
 
 kirjoittaja on niin lineaariset mallit kuin kolmosen heitotkin hallitseva todennäköisyyspuristi, joka vaikuttaa Helsingin Yliopiston lisäksi Korisliigaan hiljattain nousseen Espoo Unitedin joukkueessa
 
  
 
-\[caption id="" align="aligncenter" width="498"\]![](http://gdurl.com/50io) Kuuma käsi on Stephen Currylle tuttu ilmiö. Kuva: Wikimedia Commons\[/caption\]
+![](./Stephen_Curry_dribbling_2016_(cropped).jpg)
+
+_Kuuma käsi on Stephen Currylle tuttu ilmiö. Kuva: Wikimedia Commons_
 
 Meillä ihmisillä on hyvät aivot. Muista eliöistä poiketen osaamme hahmottaa isoja kokonaisuuksia, ajatella kriittisesti ja pahoittaa mielemme sosiaalisessa mediassa. Toisin kuin citykanit, pystymme vierailemaan avaruudessa ja tuntemaan huonoa omatuntoa lihansyönnistä. Sen sijaan satunnaisuuden ja todennäköisyyksien todellista luonnetta olemme edelleen surkeita ymmärtämään vielä kiky-uudistuksen jälkeenkin. Luulemme näkevämme säännönmukaisuuksia täysin sattumanvaraisissa ilmiöissä ja ylipäätään aliarvioimme puhtaan sattuman merkitystä elämässä.
 
@@ -31,7 +32,9 @@ Tutkimuksessa tutkittiin aluksi heittoja 80-luvun NBA-otteluista – eikä löyd
 
  
 
-\[caption id="" align="aligncenter" width="500"\]![GVT:n alkuperäisessä ei löydetty merkittävää eroa edes onnistumisputken ja hutiputken jälkeisten heittojen onnistumisprosenteista, onnistumisputken ja keskiarvon erosta puhumattakaan](https://putanumonit.files.wordpress.com/2016/02/gilovich-cornell.png) GVT:n alkuperäisessä tutkimuksessa ei löydetty merkittävää eroa edes onnistumisputken ja hutiputken jälkeisten heittojen onnistumisprosenteista, onnistumisputken ja keskiarvon erosta puhumattakaan\[/caption\]
+![](./gilovich-cornell.png) 
+
+_GVT:n alkuperäisessä tutkimuksessa ei löydetty merkittävää eroa edes onnistumisputken ja hutiputken jälkeisten heittojen onnistumisprosenteista, onnistumisputken ja keskiarvon erosta puhumattakaan_
 
 Siitäkin huolimatta, että kuuman käden epäselvä olemassaolo koripallossa ei välttämättä kuulu ihmiskunnan suurimpien ratkaisemattomien ongelmien joukkoon, tutkimustulos oli merkittävä tiedepiireissä. Jos ilmiö pystytään todistamaan harhaksi koripallossa, jossa _ihan joka ikinen_ luulee sen olevan olemassa, on se luultavasti harhaa myös monella muulla alalla. [Google Scholar](https://scholar.google.fi/scholar?q=The+Hot+Hand+in+Basketball:+On+the+Misperception+of+Random+Sequences&hl=fi&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiLrrft6fnVAhVJCZoKHSh4BMAQgQMILTAA)\-palvelussa GVT:n paperiin on viitattu muissa tieteellisissä artikkeleissa 1393 kertaa, ja kuuma käsi-uskomuksen esiintymistä esimerkiksi osake- ja investointimarkkinoilla on sittemmin tutkittu tarkasti. Itse Nobel-palkittu psykologi-taloustieteilijä Daniel Kahneman toteaa hittikirjassaan ”[Ajattelu, nopeasti ja hitaasti](https://books.google.fi/books/about/Thinking_Fast_and_Slow.html?id=ZuKTvERuPG8C&redir_esc=y)” että ”kuuma käsi on vain massiivinen, laajalle levinnyt kognitiivinen illuusio”, viitaten juuri koripalloon todisteena.
 

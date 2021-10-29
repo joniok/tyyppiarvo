@@ -1,13 +1,12 @@
 ---
 title: "Työelämäblogi: Miten päästä jouhevasti työelämään?"
 date: "2017-09-26"
+author: "Faiz Alsuhail"
 ---
 
 _Kirjoittaja on Tilastokeskuksessa Tilastolliset menetelmät -vastuualueen esimiehenä työskentelevä entinen moodilainen, joka valmistui maisteriksi vuonna 2006._
 
 * * *
-
-**Faiz Alsuhail**
 
 **1\. Tärkeintä ei ole mitä olet opiskellut, vaan mitä osaat!**
 
@@ -45,4 +44,6 @@ Loppuvaiheen tilasto-opiskelijana olet kovempaa valuuttaa, kuin ehkä arvaatkaan
 
 Muista myös, että olet harjoittelijana ja uutena työntekijänä täysvaltainen työyhteisön jäsen. Hyvä tilastotieteilijä tuntee datansa ja ohjelmistonsa, mutta hyvä työntekijä on sellainen, joka kehittää työpaikkaansa laaja-alaisesti. Mieti, miten muuttaisit työpaikkasi kulttuuria, tapoja ja toimintamalleja – tuo ajatuksesi rohkeasti esiin!
 
-\[caption id="" align="aligncenter" width="200"\]![](http://gdurl.com/iTU2) Faiz Alsuhail\[/caption\]
+![](./faiz_alsuhail.jpg)
+
+_Faiz Alsuhail_

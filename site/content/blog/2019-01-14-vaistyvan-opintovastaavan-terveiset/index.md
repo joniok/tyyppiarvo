@@ -1,9 +1,8 @@
 ---
 title: "Väistyvän opintovastaavan terveiset"
 date: "2019-01-14"
+author: "Tuuli Kauppala"
 ---
-
-**Tuuli Kauppala**
 
 Hei kaikille, ja toivottavasti vuosi on vaihtunut iloisissa merkeissä! Opintovastaavuuteni on kirinyt tiensä päähän, ja halusin kirjoittaa siitä teille pienen yhteenvedon.
 

@@ -1,6 +1,7 @@
 ---
 title: "MoPSin huikea doubleheader huipentui… tai no, ei huipentunut"
 date: "2017-01-11"
+author: "Krapula-Ahti"
 ---
 
 Moodin Palloseuran vuosi 2017 alkoi erityisissä tunnelmissa: Unisport-organisaatio oli asemoinut uuden vuoden avausottelupäivälle peräti kaksi peliä (!), ensin sählyssä Maantieteen opiskelijoiden MaO Reippailijoita vastaan, sitten futsalissa Yhiksen Torspoa vastaan.
@@ -9,7 +10,7 @@ Yhdysvaltojen baseball-sarja MLB:stä tuttu kahden ottelun formaatti herättikin
 
 Jo ottelun alkuhetkillä oli selvää, että vaikka sählykentän pinta-ala tiedettiin ainakin sigma-äärelliseksi, ehkä jopa äärelliseksi, näkyivät jouluruuat vielä osan MoPSi-pelaajan vyötäröillä ja osa hyökkääjistä joutui ravaamaan vaihdossa jatkuvasti.
 
-![](https://doc-0c-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ephvla12qvbuvher7og9pk7thdl77b5n/1484150400000/08849784491103088722/*/0B_b9XIivn7p3WkFVSksxc25zdkE)
+<!-- ![](https://doc-0c-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ephvla12qvbuvher7og9pk7thdl77b5n/1484150400000/08849784491103088722/*/0B_b9XIivn7p3WkFVSksxc25zdkE) -->
 
 Sen sijaan puolustuskaksikko Santeri Mikkonen ja Sebastian Veijola lähti otteluun kunnianhimoisella “ei vaihdeta kertaakaan” -taktiikalla. Mikkonen tuli vaihtoon avauserän puolivälissä, Veijola ei kertaakaan.
 

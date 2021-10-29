@@ -1,26 +1,26 @@
 ---
 title: "Tyyppiarvo selvitti: Onko ylipaino ylivoimaa?"
 date: "2016-11-16"
-coverImage: "DSC_9544.jpg"
+author: "Patrik Lauha, Joni Oksanen"
 ---
 
-\[caption id="attachment\_1234" align="aligncenter" width="600"\]![](http://tyyppiarvo.com/wp-content/uploads/2016/11/DSC_9544.jpg) Paavo Ylipaino HCK:n riveissä ottelussa Vaasan Sportia vastaan 13.10.2012. Kuva: Kristian Salminen, kristian.salminen@jatkoaika.com\[/caption\]
+![](./DSC_9544.jpg)
+
+_Paavo Ylipaino HCK:n riveissä ottelussa Vaasan Sportia vastaan 13.10.2012. Kuva: Kristian Salminen, kristian.salminen@jatkoaika.com_
 
 * * *
-
-**Patrik Lauha & Joni Oksanen**
 
 "Paino on voimaa ja ylipaino on ylivoimaa", kuuluu tuttu sanonta. Väitteen todenmukaisuutta ei kuitenkaan tiettävästi ole aiemmin kyseenalaistettu tai tieteellisesti arvioitu.
 
 Tyyppiarvon jääkiekkotoimitus päätti ylipainoisen päätoimittajan Aapeli Nevalan (BMI 25,8) kehotuksesta tarttua haasteeseen ja tutkia jääkiekkoliiga NHL:n kauden 2015-2016 tilastojen avulla, onko ylipaino todella ylivoimaa. Lätkätoimituksen ylipainoinen data-analyytikko Joni Oksanen (BMI 27,2) ja normaalipainoinen kynäniekka Patrik Lauha (BMI 24,4) pureutuivat syvälle tilastoihin ja kaivoivat esille yksiselitteisen selkeät tulokset: ylipaino ei ole ylivoimaa, vaan pikemminkin alivoimaa.
 
-**Ylipaino ei ole ylivoimaa**
+## Ylipaino ei ole ylivoimaa
 
 Huomiota herättävää on, että tilastoissa mukana olleista pelaajista jopa 778 / 898 eli 87% oli ylipainoisia. Tämä johtuu siitä, että jääkiekkoilijoilta vaaditaan lihaksikasta ruumiinrakennetta, joka vääristää painoindeksiä ylöspäin. Koko NHL:n suurin painoindeksi löytyy Toronto Maple Leafsin järkälemäiseltä puolustajalta Roman Polákilta. Miehen BMI\* on kunnioitettavat 32,1, mikä tarkoittaa merkittävää ylipainoa.
 
 Luonnollinen tapa tutkia ylipainon ylivoimaisuutta on verrata pelaajien BMI:a tehoihin ylivoimatilanteissa (omalla joukkueella enemmän pelaajia kentällä kuin vastustajalla). Päätimmekin lähestyä ongelmaa tutkimalla, korreloiko pelaajan BMI erilaisten ylivoimalukujen kanssa.
 
-\[caption id="" align="alignnone" width="600"\]![Ylipaino ei olekaan ylivoimaa.](http://gdurl.com/XJ5A) Ylipaino ei olekaan ylivoimaa. Kuva: Toni Jaconelli\[/caption\]
+<!-- \[caption id="" align="alignnone" width="600"\]![Ylipaino ei olekaan ylivoimaa.](http://gdurl.com/XJ5A) Ylipaino ei olekaan ylivoimaa. Kuva: Toni Jaconelli\[/caption\] -->
 
 NHL:n tilastoista löytyy jokaista pelaajaa kohti lukemat aina ylivoimalla vastaanotetuista taklauksista ylivoiman laukaisuprosenttiin asti. Edellä mainittujen lukujen lisäksi tutkimme muun muassa ylivoimapisteitä, ylivoima-aikaa, ylivoimatehokkuutta ja kiekonmenetyksiä sekä -riistoja ylivoimalla.
 
@@ -32,7 +32,7 @@ Korrelaatiokerroin BMI:n ja ylivoimatilastojen välillä oli yhtä poikkeusta lu
 
 On siis mahdollista, että painoindeksin kasvulla on hienoinen positiivinen vaikutus siihen, kuinka paljon pelaaja taklaa ylivoimalla. Kuitenkin on syytä muistaa, että vaikka luku 0,145 on huomattavasti muita laskemiamme kertoimia suurempi, kertoo sekin vain hyvin heikosta korrelaatiosta. Voidaan siis sanoa, että pelaajan painoindeksillä ei ole lineaarista yhteyttä hänen ylivoimapelaamiseensa.
 
-\[caption id="" align="alignnone" width="650"\]![ab](http://gdurl.com/GTzky) Hajontakuvio painoindeksin vaikutuksesta pelaajan "ylivoima-asteeseen". Ylivoima-aste on laskettu ylivoimalla tehtyjen pisteiden, pelatun ylivoima-ajan ja ylivoimatehokkuuden perusteella. Pisteiden hajanaisuus viittaa siihen, että painoindeksin ja ylivoima-asteen välillä ei ole juurikaan riippuvuutta. Otoksessa ovat mukana vain ylivoimaa pelanneet pelaajat. Punainen viiva kuvaa ylipainon rajaa.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="650"\]![ab](http://gdurl.com/GTzky) Hajontakuvio painoindeksin vaikutuksesta pelaajan "ylivoima-asteeseen". Ylivoima-aste on laskettu ylivoimalla tehtyjen pisteiden, pelatun ylivoima-ajan ja ylivoimatehokkuuden perusteella. Pisteiden hajanaisuus viittaa siihen, että painoindeksin ja ylivoima-asteen välillä ei ole juurikaan riippuvuutta. Otoksessa ovat mukana vain ylivoimaa pelanneet pelaajat. Punainen viiva kuvaa ylipainon rajaa.\[/caption\] -->
 
 Epälineaarinen yhteys on kuitenkin mahdollinen: ylipainon lisääntymisestä voi olla etua johonkin pisteeseen asti ja sitten taas haittaa. Esimerkiksi tilanne, jossa ylipainoiset pelaajat tekevät enemmän ylivoimamaaleja kuin normaalipainoiset, mutta maalien määrä ei jonkin rajan jälkeen lisäänny ylipainon kasvamisen myötä, ei välttämättä olisi selkeästi näkynyt korrelaatiokertoimissa.
 
@@ -42,47 +42,26 @@ Kuten oheisesta taulukosta näkyy, ei ylipainoisten ja normaalipainoisten pelaaj
 
   
 
-Ylipainoiset
+| | Ylipainoiset | Normaalipainoiset
+| -- | -- | -- |
+| Pisteet ylivoimalla keskimäärin | 4,94 | 5,26 |
+| Maalit ylivoimalla keskim. | 1,69 | 1,95 |
+| Syöttöpisteet ylivoimalla keskim. | 3,26 | 3,30 |
+| Peliaika ylivoimalla keskim. (kaikki pelaajat) | 4253 | 4367 |
 
-Normaalipainoiset
-
-Pisteet ylivoimalla keskimäärin
-
-4,94
-
-5,26
-
-Maalit ylivoimalla keskim.
-
-1,69
-
-1,95
-
-Syöttöpisteet ylivoimalla keskim.
-
-3,26
-
-3,30
-
-Peliaika ylivoimalla keskim. (kaikki pelaajat)
-
-4253
-
-4367
-
-**Ylipaino onkin alivoimaa?**
+## Ylipaino onkin alivoimaa?
 
 Kun oli saatu selville, että ylipainoiset pelaajat eivät suinkaan ole ylivoimaisempia, käänsimme tutkimusasetelman päälaelleen ja tutkimme, onko ylipaino sittenkin alivoimaa, eli onko ylipainolla yhteys pelaajan suorituksiin alivoimatilanteessa. Yllättäen saimme selville, että näin todellakin on!
 
 Ylivoimatilastojen tapaan, myöskään alivoimatilastoissa ei esiintynyt vahvaa lineaarista riippuvuutta pelaajan painoindeksin ja alivoimasuoritusten välillä. Kuten aiemmin todettiin, tämä ei kuitenkaan vielä todista sitä, että ylipainoiset pelaajat eivät olisi normaalipainoisia "alivoimaisempia".
 
-\[caption id="" align="alignnone" width="650"\]![Painoindeksin vaikutus pelaajan peliaikaan alivoimalla. Punainen viiva kuvaa ylipainon rajaa.](http://gdurl.com/n51i) Painoindeksin vaikutus pelaajan peliaikaan alivoimalla. Punainen viiva kuvaa ylipainon rajaa.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="650"\]![Painoindeksin vaikutus pelaajan peliaikaan alivoimalla. Punainen viiva kuvaa ylipainon rajaa.](http://gdurl.com/n51i) Painoindeksin vaikutus pelaajan peliaikaan alivoimalla. Punainen viiva kuvaa ylipainon rajaa.\[/caption\] -->
 
 Korrelaatiokerroin mittaa lineaarisen yhteyden vahvuutta, mutta vahvatkaan epälineaariset yhteydet eivät välttämättä näy suurina korrelaatiolukuina. Tämä käy hyvin ilmi yllä olevasta kuvasta, joka havainnollistaa BMI:n ja pelaajan alivoima-ajan välistä riippuvuutta. Korrelaatiokerroin on vain 0,07,  mutta kun pelaajat luokiteltiin erikseen ylipainoisiin ja normaalipainoisiin, on tulos selvä: ylipainoisiin pelaajiin luotetaan alivoimalla huomattavasti enemmän kuin normaalipainoisiin (kuva alla).
 
  
 
-\[caption id="" align="alignnone" width="825"\]![Peliajat](http://gdurl.com/OLYi) Ylipainoisten ja normaalipainoisten pelaajien kauden keskimääräinen alivoima-aika sekä keskimääräinen av-aika yhtä alivoimalla päästettyä maalia kohden. Av-aika on laskettu kaikille pelaajille ja av-aika päästettyä maalia kohden vain alivoimaa pelanneille pelaajille.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="825"\]![Peliajat](http://gdurl.com/OLYi) Ylipainoisten ja normaalipainoisten pelaajien kauden keskimääräinen alivoima-aika sekä keskimääräinen av-aika yhtä alivoimalla päästettyä maalia kohden. Av-aika on laskettu kaikille pelaajille ja av-aika päästettyä maalia kohden vain alivoimaa pelanneille pelaajille.\[/caption\] -->
 
 Siinä missä ylipainoinen pelaaja pelasi kauden aikana keskimäärin 3529 sekuntia alivoimaa, oli normaalipainoisten pelaajien keskiarvo vain 2517 sekuntia.
 
@@ -110,9 +89,9 @@ Vammalasta kotoisin oleva Paavo Ylipaino on käynyt läpi HPK:n juniorimyllyn ja
 
 \- Joo no tarttee sanoa, että kyllä on sitten sukunimi mulle ainakin osunut.
 
-\[caption id="" align="alignnone" width="600"\]![Paavo Ylipaino pitää itseään enemmän alivoima- kuin ylivoimapelaajana.](http://gdurl.com/iVV3) Paavo Ylipaino pitää itseään enemmän alivoima- kuin ylivoimapelaajana. Kuva: Toni Jaconelli\[/caption\]
+<!-- \[caption id="" align="alignnone" width="600"\]![Paavo Ylipaino pitää itseään enemmän alivoima- kuin ylivoimapelaajana.](http://gdurl.com/iVV3) Paavo Ylipaino pitää itseään enemmän alivoima- kuin ylivoimapelaajana. Kuva: Toni Jaconelli\[/caption\] -->
 
-**Yhteenveto**
+## Yhteenveto
 
 Kun tarkastellaan tuloksia, voidaan todeta, että myytti, jonka mukaan ylipaino olisi ylivoimaa, on yksiselitteisesti murrettu.
 

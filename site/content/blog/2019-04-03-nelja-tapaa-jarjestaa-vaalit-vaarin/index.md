@@ -1,9 +1,8 @@
 ---
 title: "Neljä tapaa järjestää vaalit väärin"
 date: "2019-04-03"
+author: "Petri Laarne"
 ---
-
-**Petri Laarne**
 
 _Kirjoittaja on toisen vuoden matematiikan opiskelija ja Tyyppiarvon vieraileva kolumnisti. Petrin muihin kirjoituksiin voit tutustua hänen blogissaan_ [_Nollakohdassa_](https://www.nollakohta.fi/)_._
 
@@ -11,19 +10,19 @@ Mikäli ympäröivää maailmaa ja opiskelijahuone Survomon keskusteluita on usk
 
 Vaalitavan vaikutus maan poliittiseen järjestelmään on valtava, vaikkei se ainoa selittävä tekijä olekaan. Se määrää, kiroavatko kansalaiset kaksipuoluejärjestelmää vai sateenkaarihallitusta; siitä on kiinni, millaiset ovat paikallispuolueiden mahdollisuudet. Kuten kohta näemme, Suomen tapa valita eduskuntansa on kaukana täydellisestä. Mutta onko jossain muualla paremmin? Mikä oikein on paras tapa järjestää vaalit?
 
-Vaalitapoja on vähintään yhtä monta kuin demokratioita, joten jos haluamme verrata niitä keskenään, tarvitsemme jonkinlaiset kriteerit.  
+Vaalitapoja on vähintään yhtä monta kuin demokratioita, joten jos haluamme verrata niitä keskenään, tarvitsemme jonkinlaiset kriteerit.
 Sellaisia onkin lukemattoman monta käytännöllisistä idealististen kautta kuivan teoreettisiin, mutta nämä neljä ainakin tuntuvat järkeviltä:
 
 1. **Jos Ehdokas A saa enemmän ääniä** kuin Ehdokas B ja B tulee valituksi, niin myös A valitaan.
 2. Puolueen saaman **paikkamäärän tulisi vastata sen saamaa ääniosuutta**. Tätä ominaisuutta kutsutaan suhteellisuudeksi.
-3. **Äänen antamisesta täytyy olla hyötyä ehdokkaalle.**Toisin sanoen, paras tapa tukea ehdokasta ei saa olla jonkun muun äänestäminen tai kokonaan äänestämättä jättäminen.
+3. **Äänen antamisesta täytyy olla hyötyä ehdokkaalle.** Toisin sanoen, paras tapa tukea ehdokasta ei saa olla jonkun muun äänestäminen tai kokonaan äänestämättä jättäminen.
 4. Järkevään äänestämiseen tai tuloksen ymmärtämiseen **ei pidä tarvita ylempää korkeakoulututkintoa**.
 
 Näillä varustettuna voimme tutkia muutamaa maailmalla suosittua vaalitapaa.
 
 ## Suomen malli
 
-Aloitetaan kaikkein tutuimmasta, joka samalla on pienin muunnelmin yksi yleisimmistä maailmanlaajuisesti. Suomen eduskunta- ja eurovaaleissa käytetään suhteellista listavaalia, jossa jokaisella on yksi ääni annettavanaan oman vaalipiirinsä ehdokkaalle. Kustakin Manner-Suomen kahdestatoista vaalipiiristä valitaan 7–36 edustajaa ja Ahvenanmaalta yksi.  
+Aloitetaan kaikkein tutuimmasta, joka samalla on pienin muunnelmin yksi yleisimmistä maailmanlaajuisesti. Suomen eduskunta- ja eurovaaleissa käytetään suhteellista listavaalia, jossa jokaisella on yksi ääni annettavanaan oman vaalipiirinsä ehdokkaalle. Kustakin Manner-Suomen kahdestatoista vaalipiiristä valitaan 7–36 edustajaa ja Ahvenanmaalta yksi.
 Nimensä tapa on saanut siitä, että se pyrkii tuottamaan ääniosuuksia vastaavia paikkamääriä myös valtakunnallisella tasolla.
 
 Kertauksen vuoksi järjestelmä toimii näin:
@@ -33,38 +32,17 @@ Kertauksen vuoksi järjestelmä toimii näin:
 - Listalla eniten ääniä saanut saa kaikki listan äänet, seuraavaksi tullut puolet äänistä, sitä seuraava kolmasosan ja niin edelleen.
 - Lopullinen valinta tehdään järjestämällä kaikki ehdokkaat näiden vertailulukujen mukaan.
 
-Otetaan esimerkki kuvitteellisesta vaalipiiristä, jossa valitaan neljä edustajaa kahdeksan ehdokkaan joukosta. Ehdokkaat ovat jakautuneet kolmeen puolueeseen. Kolmiopuolue on tunnettu kärkevistä kannanotoistaan, kun taas Vmpyräliitto kiertelee ja kaartelee (kolmesataakuusikymmentä) astetta enemmän.  
+Otetaan esimerkki kuvitteellisesta vaalipiiristä, jossa valitaan neljä edustajaa kahdeksan ehdokkaan joukosta. Ehdokkaat ovat jakautuneet kolmeen puolueeseen. Kolmiopuolue on tunnettu kärkevistä kannanotoistaan, kun taas Vmpyräliitto kiertelee ja kaartelee (kolmesataakuusikymmentä) astetta enemmän.
 Viime vuosina kisaan on liittynyt vielä yhtä sivua särmikkäämpi neliöliike, joka toki on radikaalimpana ryhmittymänä vähemmän suosittu.
 
 Vaalipäivän iltana luvut ovat seuraavat:
 
-Kolmiopuolue
-
-Ympyräliitto
-
-Neliöliike
-
-Kolmio A: 3100
-
-Ympyrä A: 2000
-
-Neliö A: 2000
-
-Kolmio B: 1000
-
-Ympyrä B: 1100
-
-Neliö B: 500
-
-Kolmio C: 900
-
-Ympyrä C: 900
-
-**Yhteensä: 5000**
-
-**Yhteensä: 4000**
-
-**Yhteensä: 2500**
+| Kolmiopuolue   | Ympyräliitto   | Neliöliike   |
+| ---            | ---            | ---           |
+| Kolmio A: 3100 | Ympyrä A: 2000 | Neliö A: 2000 |
+| Kolmio B: 1000 | Ympyrä B: 1100 | Neliö B: 500  |
+| Kolmio C: 900 | Ympyrä C: 900 |               |
+| **Yhteensä: 5000** | **Yhteensä: 4000** | **Yhteensä: 2500** |
 
 Äänet jaetaan ehdokkaille vertauslukuina:
 
@@ -81,65 +59,17 @@ Ehdokkaiden äänimäärät eivät suoraan vastaa vertauslukuja. Ympyrä A ja Ne
 
 Hyvänä puolena, nimensä mukaisesti, suhteellinen vaalitapa pitää huolen siitä, että puolueet saavat paikkoja melko tarkasti äänimääriensä mukaisesti. Tosimaailman esimerkkinä Suomen eduskuntavaalien 2015 tulos oli tämä:
 
-Puolue
-
-Ääniosuus
-
-Paikkaosuus
-
-Keskusta
-
-21,1 %
-
-24,5 %
-
-Kokoomus
-
-18,2 %
-
-18,5 %
-
-Perussuomalaiset
-
-17,7 %
-
-19,0 %
-
-SDP
-
-16,5 %
-
-17,0 %
-
-Vihreä liitto
-
-8,5 %
-
-7,5 %
-
-Vasemmistoliitto
-
-7,1 %
-
-6,0 %
-
-RKP
-
-4,9 %
-
-4,5 %
-
-KD
-
-3,5 %
-
-2,5 %
-
-Muut
-
-2,5 %
-
-0,5 %
+| Puolue | Ääniosuus | Paikkaosuus |
+| ---    | ---       | ---         |
+| Keskusta | 21,1 % | 24,5 % |
+| Kokoomus | 18,2 % | 18,5 % |
+| Perussuomalaiset | 17,7 % | 19,0 % |
+| SDP | 16,5 % | 17,0 % |
+| Vihreä liitto | 8,5 % | 7,5 % |
+| Vasemmistoliitto | 7,1 % | 6,0 % |
+| RKP | 4,9 % | 4,5 % |
+| KD | 3,5 % | 2,5 % |
+| Muut | 2,5 % | 0,5 % |
 
 Vanha sanonta on, että maakuntien lukuisat vaalipiirit tukevat keskustaa, mutta sitä lukuunottamatta äänten ja paikkojen suhde on melkoisen tarkka. Vaalipiirien koko vaikuttaa suhteellisuuteen periaatteella isompi parempi — kaikkein reiluiten jaettu tulos saataisiin, jos koko maa olisi yksi vaalipiiri. Lisäksi on olennaista, että piirin koko vastaa sen asukaslukua, jolloin edustajien ja edustettavien suhde on koko maassa suunnilleen sama — Suomessa tämä säädetään valtioneuvoston asetuksella väestötietojen mukaan.
 
@@ -165,79 +95,26 @@ Muun muassa Yhdistyneessä kuningaskunnassa ja suuressa osassa Yhdysvaltoja vaal
 Edellinen esimerkki voitaisiin sovittaa tähän malliin jakamalla vaalipiiri neljään pienempään alueeseen, jossa kullakin puolueella on yksi ehdokas.  
 Kannatusluvut saattaisivat olla jossakin pikkupiirissä vaikka seuraavat:  
 
-Ehdokas
-
-Ääniosuus
-
-Kolmio A
-
-45 %
-
-Ympyrä A
-
-35 %
-
-Neliö A
-
-20 %
+| Ehdokas | Ääniosuus |
+| --- | --- |
+| Kolmio A | 45 % |
+| Ympyrä A | 35 % |
+| Neliö A  | 20 % |
 
 Koska kolmiopuolueen ehdokkaalla on suurin ääniosuus, vaikkei ehdoton enemmistö olekaan, hänet valitaan, ei sen kummempaa. Tämä prosessi toistetaan jokaisessa vaalipiirissä.
 
 Huono puoli on se, että prosessi toistuu vähän liiankin tarkasti. Jos kolmiot ovat joka piirissä _hitusenkin_ suositumpia kuin ympyrät ja neliöt, niin joka piiri saa edustajansa kolmiopuolueesta. 45 prosentin kannatuksella saakin sata prosenttia paikoista! Tämä ei ole mikään teoreettinen murhe, kuten Yhdistyneen kuningaskunnan vuoden 2017 vaalien tulos osoittaa:
 
-Puolue
-
-Ääniosuus
-
-Paikkaosuus
-
-Konservatiivit
-
-42,34 %
-
-48,8 %
-
-Työväenpuolue
-
-39,99 %
-
-40,3 %
-
-Liberaalidemokraatit
-
-7,37 %
-
-1,8 %
-
-Skotlannin kansallispuolue
-
-3,04 %
-
-5,4 %
-
-Itsenäisyyspuolue (UKIP)
-
-1,84 %
-
-0,0 %
-
-Vihreät
-
-1,63 %
-
-0,2 %
-
-Demokraattinen unionistipuolue
-
-0,91 %
-
-1,5 %
-
-_Muut_
-
-2,88 %
-
-2,0 %
+| Puolue | Ääniosuus | Paikkaosuus |
+| ---    | ---       | ---         |
+| Konservatiivit | 42,34 % | 48,8 % |
+| Työväenpuolue | 39,99 % | 40,3 % |
+| Liberaalidemokraatit | 7,37 % | 1,8 % |
+| Skotlannin kansanpuolue | 3,04 % | 5,4 % |
+| Itsenäisyyspuolue (UKIP) | 1,84 % | 0,0 % |
+| Vihreät | 1,63 % | 0,2 % |
+| Demokraattinen unionistipuolue | 0,91 % | 1,5 % |
+| _Muut_ | 2,88 % | 2,0 % |
 
 Useimmissa vaalipiireissä kisa käydään konservatiivien ja työväenpuolueen välillä. Näissä piireissä liberaalidemokraatit eivät ole kärjessä, joten heille annettu ääni menee hukkaan. Pieni puolue tarvitsee vahvan ehdokkaan voittaakseen piirinsä. Siksi alueellisuudesta on hyötyä: Pohjois-Irlannin demokraattinen unionistipuolue DUP voittaa omissa vaalipiireissään, kun taas koko maassa toimivan UKIPin kannatus on yksittäisissä piireissä niin ohut, ettei paikkoja heru, vaikka kokonaisprosentti on kaksinkertainen.
 
@@ -247,12 +124,13 @@ Ehkä tunnetuin esimerkki tästä on Yhdysvaltojen presidentinvaaleista vuodelta
 
 Sen lisäksi, että häviävän ehdokkaan saamat äänet menevät hukkaan, niin käy myös voittajille. Kun ehdokas on saanut äänienemmistön, lopuilla äänillä ei ole enää mitään merkitystä. Tästä taas seuraa, että vaalipiirien suunnittelulla on merkitystä. Jatketaan esimerkkiämme ja piirretään kolmen puolueen kannatus neljän vaalipiirin kartalle:
 
-![](https://gdurl.com/yb5A)
+![](./Piirijako.png)
 
 Ympyräliitolla on kaikissa paitsi yhdessä piirissä täpärä enemmistö, joten se voittaa kolme piiriä neljästä. Viimeinen piiri on suunniteltu keräämään kolmiopuolueen ääniä pois muista piireistä, joissa ne olisivat ratkaisevia. Sopivalla piirien piirtämisellä, mikä tunnetaan myös nimellä _gerrymandering_, toiseksi isoin puolue saakin siis suurimman osan paikoista.  
+
 Mikäli vaalipiirien määrääminen on alueellisesti hallitsevan puolueen oikeus, kuten Yhdysvalloissa on, niin rajalinjat alkavatkin kenties noudattaa enemmän etnisiä kuin maantieteellisiä eroja. Vai mitä sanot tästä vaalipiiristä Chicagon seudulla, joka _sattuu_ olemaan latinoenemmistöinen ja siksi vahvasti demokraatteihin kallellaan?
 
-![](https://gdurl.com/Y6IW)
+![](./Gerrymander.jpg)
 
   
 _Kuva: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Illinois_US_Congressional_District_4_(since_2013).tif), public domain, rajattu._
@@ -277,21 +155,11 @@ Perusrakenne on sama kuin Britannian mallissa: kustakin vaalipiiristä valitaan 
 
 Edellisessä esimerkissämme luvut olivat seuraavat:
 
-Ehdokas
-
-Ääniosuus
-
-Kolmio A
-
-45 %
-
-Ympyrä A
-
-35 %
-
-Neliö A
-
-20 %
+| Ehdokas | Ääniosuus |
+| --- | --- |
+| Kolmio A | 45 % |
+| Ympyrä A | 35 % |
+| Neliö A  | 20 % |
 
   
 
@@ -300,41 +168,18 @@ Jos noudatetaan presidentinvaalien sääntöä, toiselle kierrokselle pääsevä
 Todellinen esimerkki saadaan Ranskan vuoden 2017 parlamenttivaaleista. Ensimmäisellä kierroksella vain neljästä vaalipiiristä pääsi läpi enemmisön saanut ehdokas: loput 573 jäivät toisen kierroksen varaan.  
 Kuudentoista puolueen joukossa toisella kierroksella nähtiin muun muassa seuraavia tuloksia:
 
-Puolue
-
-Ääniosuus
-
-Paikkaosuus
-
-La République en Marche
-
-43,06 %
-
-53,4 %
-
-Les Républicains
-
-22,23 %
-
-19,5 %
-
-Front National
-
-8,75 %
-
-1,4 %
-
-Mouvement Démocrate
-
-6,06 %
-
-7,3 %
+| Puolue | Ääniosuus | Paikkaosuus |
+| ---    | ---       | ---         |
+| La République en Marche | 43,06 % | 53,4 % |
+| Les Républicains | 22,23 % | 19,5 % |
+| Front National | 8,75 % | 1,4 % |
+| Mouvement Démocrate | 6,06 % | 7,3 % |
 
 Kuten taulukosta näkyy, tämä menetelmä ei korjaa Britannian mallin pahinta puutetta: pienet vaalipiirit ovat edelleen toisistaan riippumattomia eikä suhteellisuus siis toteudu. Järjestelmä tukee erityisesti keskustapuolueita, sillä marginaalisemmilla liikkeillä on vaikeampaa päästä äänikynnyksen yli.
 
 Lisäksi kaksi samankaltaista ehdokasta voivat tuhota toistensa mahdollisuudet kuten Briteissäkin — tai kumpikin päätyä toiselle kierrokselle, jolloin kokonaan eri mieltä olevilla ei ole pahemmin syytä äänestää. Ranskan presidentinvaaleissa 1995 oli lähellä, että kaksi keskustaoikeistolaista päätyisi toiselle kierrokselle, jolloin vasemmiston kannattajat olisivat luultavasti jääneet kotiin.
 
-On tärkeää huomata, että vaikka jälkimmäinen ongelma onkin mahdollinen, suhteellisuuden puute ei vaikuta Suomen presidentinvaaleihin, koska vaalipiirejä ja vapaita paikkoja on tasan yksi.  
+On tärkeää huomata, että vaikka jälkimmäinen ongelma onkin mahdollinen, suhteellisuuden puute ei vaikuta Suomen presidentinvaaleihin, koska vaalipiirejä ja vapaita paikkoja on tasan yksi.
 Tässä kuitenkin puhutaan parlamenttivaaleista, ja niiden osalta tulos on:
 
 1. ✅ Kussakin piirissä valitaan aina eniten ääniä saanut ehdokas.
@@ -350,87 +195,19 @@ Irlannissa, Australiassa ja muun muassa joissakin Yhdysvaltojen kaupungeissa kä
 
 Ääntenlasku on hieman mutkikkaampaa, joten otetaan yksinkertaistettu esimerkki. Valitaan kaksi ehdokasta neljän joukosta, kun erilaiset äänestysliput ovat jakautuneet seuraavasti. Äänestäjä voi äänestää niin montaa ehdokasta kuin haluaa, kuten lipukkeista näkyy.
 
-Ääniä
-
-1\. sija
-
-2\. sija
-
-3\. sija
-
-4\. sija
-
-1800 ääntä
-
-Kolmio A
-
-Kolmio B
-
-Neliö A
-
-Ympyrä A
-
-1250 ääntä
-
-Ympyrä A
-
-900 ääntä
-
-Kolmio B
-
-Kolmio A
-
-Neliö A
-
-800 ääntä
-
-Kolmio B
-
-Ympyrä A
-
-625 ääntä
-
-Ympyrä A
-
-Kolmio A
-
-Kolmio B
-
-625 ääntä
-
-Ympyrä A
-
-Kolmio B
-
-Kolmio A
-
-600 ääntä
-
-Neliö A
-
-Kolmio B
-
-350 ääntä
-
-Neliö A
-
-Kolmio A
-
-50 ääntä
-
-Neliö A
-
-Ympyrä A
-
-Kolmio A
-
-50 ääntä
-
-Neliö A
-
-50 ääntä
-
-Kolmio A
+| Ääniä | 1. sija | 2. sija | 3. sija | 4. sija |
+| ----- | --- | --- | --- | --- |
+| 1800 ääntä | Kolmio A | Kolmio B | Neliö A | Ympyrä A |
+| 1250 ääntä | Ympyrä A | | | |
+| 900 ääntä | Kolmio B | Kolmio A | Neliö A | |
+| 800 ääntä | Kolmio B | Ympyrä A | | |
+| 625 ääntä | Ympyrä A | Kolmio A | Kolmio B | |
+| 625 ääntä | Ympyrä A | Kolmio B | Kolmio A | |
+| 600 ääntä | Neliö A | Kolmio B | | |
+| 350 ääntä | Neliö A | Kolmio A | | |
+| 50 ääntä | Neliö A | Ympyrä A | Kolmio A | |
+| 50 ääntä | Neliö A | | | |
+| 50 ääntä | Kolmio A | | | |
 
 Ihan ensiksi määritetään, kuinka monta ääntä tarvitaan valituksi tulemiseen. Tämä luku saadaan jakamalla annettujen äänten määrä paikkojen määrä plus yhdellä sekä lisäämällä osamäärään yksi. Tässä tapauksessa luku on 7100/3 + 1 = 2368.
 
@@ -441,9 +218,9 @@ Ensimmäisellä laskentakierroksella lasketaan ykkösäänet:
 - Kolmio B: 900 + 800 = 1700,
 - Neliö A: 600 + 400 + 50 = 1050.
 
-Ympyrä A ylittää valintarajan 132 äänellä. Hänen äänistään joka neljännessä Kolmio A on toinen vaihtoehto ja joka neljännessä Kolmio B.  
-Siispä Kolmiot A ja B saavat kumpikin neljäsosan ylimääräisistä äänistä.  
-Lopuissa ei ole toista vaihtoehtoa, joten ne poistetaan laskennasta.  
+Ympyrä A ylittää valintarajan 132 äänellä. Hänen äänistään joka neljännessä Kolmio A on toinen vaihtoehto ja joka neljännessä Kolmio B.
+Siispä Kolmiot A ja B saavat kumpikin neljäsosan ylimääräisistä äänistä.
+Lopuissa ei ole toista vaihtoehtoa, joten ne poistetaan laskennasta.
 Tilanne on siis seuraava:
 
 - Ympyrä A: 2500 - 132 = 2368 (valittu),
@@ -451,7 +228,7 @@ Tilanne on siis seuraava:
 - Kolmio B: 1700 + 33 = 1733,
 - Neliö A: 1050.
 
-Nyt kenenkään äänet eivät ylitä rajaa, joten kaikkein vähiten ääniä saanut, Neliö A, tiputetaan kisasta. 600 häntä äänestänyttä piti Kolmiota B toiseksi parhaana, joten hän saa 600 lisä-ääntä. Kolmio A puolestaan saa 400 ylimääräistä ääntä — 350 toiseksi parhaana ja loput 50 kolmantena vaihtoehtona, sillä Ympyrä A on jo valittu. Jälleen 50 ääntä poistetaan laskennasta, sillä niissä ei ole seuraavaa ehdokasta. Selvästikin useimmat Neliön A kannattajat tiesivät, että heidän suosikkinsa luultavasti tippuu kisasta, joten oli strategisesti fiksua valita useampi ehdokas.  
+Nyt kenenkään äänet eivät ylitä rajaa, joten kaikkein vähiten ääniä saanut, Neliö A, tiputetaan kisasta. 600 häntä äänestänyttä piti Kolmiota B toiseksi parhaana, joten hän saa 600 lisä-ääntä. Kolmio A puolestaan saa 400 ylimääräistä ääntä — 350 toiseksi parhaana ja loput 50 kolmantena vaihtoehtona, sillä Ympyrä A on jo valittu. Jälleen 50 ääntä poistetaan laskennasta, sillä niissä ei ole seuraavaa ehdokasta. Selvästikin useimmat Neliön A kannattajat tiesivät, että heidän suosikkinsa luultavasti tippuu kisasta, joten oli strategisesti fiksua valita useampi ehdokas.
 Lisä-äänien jälkeen laskenta näyttää tältä:
 
 - Ympyrä A: 2368 (valittu),
@@ -477,7 +254,7 @@ Vähän vaikeampaa on todistaa, että tämä vaalitapa on melko suhteellinen: "�
 
 Voisiko tässä olla täydellinen tapa järjestää vaalit?
 
-Ei liene vaikeaa arvata, että ei ole. Kuten helppokin esimerkki osoitti, tämä systeemi on hirvittävän monimutkainen. Ääntenlaskuun vierähtää tolkuttomasti aikaa, koska laskennassa on monen monta kierrosta.  
+Ei liene vaikeaa arvata, että ei ole. Kuten helppokin esimerkki osoitti, tämä systeemi on hirvittävän monimutkainen. Ääntenlaskuun vierähtää tolkuttomasti aikaa, koska laskennassa on monen monta kierrosta.
 Ongelmaksi tulee myös valittujen ehdokkaiden ylimääräisten äänten jakaminen: millä menetelmällä lipukkeet jaetaan muille? Vaihtoehtoja on käytännössä kaksi: joko tehdä laskenta kokonaan tietokoneella tai poimia lipukkeita satunnaisotannalla. Jälkimmäisessä tapauksessa vaalitulos riippuu siis osin arpaonnesta.
 
 Tietyissä Australian vaaleissa on vielä sekin kummallisuus, että äänestäjän täytyy laittaa _jokainen ehdokas_ järjestykseen. Tämä aiheuttaa tietynasteista epämukavuutta, kun ehdokkaita on toistakymmentä kappaletta. Helpottavana tekijänä äänestäjällä on myöskin mahdollisuus ruksata jonkin puolueen ennakkoon luoma järjestys. Sekään tosin ei pelasta kaikelta: vuoden 1999 Uuden Etelä-Walesin osavaltiovaalissa Australiassa 80 puoluetta asetti 264 ehdokasta, mikä aiheutti jonkinasteisen käytännön ongelman pelkästään äänestyslipukkeen koossa…
@@ -513,12 +290,12 @@ Syy toistuviin epäonnistumisiin on se, että täydellistä vaalitapaa ei ole ol
 - 1/3 mielestä vain luonnontieteilijöiltä pitää leikata.
 - 1/3 mielestä vain muilta kuin luonnontieteilijöiltä pitää leikata.
 
-Nyt kaksi kolmesta on sitä mieltä, että jostain täytyy kiristää rahahanoja.  
+Nyt kaksi kolmesta on sitä mieltä, että jostain täytyy kiristää rahahanoja.
 Kaksi kolmesta on myös sitä mieltä, että luonnontieteilijöiltä ei saa ottaa pois. Kaiken lisäksi enemmistö on myös sitä mieltä, että rahaa ei saa vähentää muilta. Leikata siis pitää muttei keneltäkään!
 
 Matemaattisesta näkökulmasta päätöksiä ei siis voi tehdä oikein. Vaalitavan valinnassa on pakko arvottaa myös yhteiskunnallisia tavoitteita ja tehdä kompromisseja — ja sen tehtyään sulkea korvansa teoreetikoilta, jotka luettelevat valitun systeemin virheitä.
 
-Yhdessä maassa toimiva järjestelmä ei välttämättä toimi toisessa eivätkä siksi tämänkään tekstin esimerkit eivät ole täysin vertailukelpoisia.  
+Yhdessä maassa toimiva järjestelmä ei välttämättä toimi toisessa eivätkä siksi tämänkään tekstin esimerkit eivät ole täysin vertailukelpoisia.
 Esimerkiksi Britannian ja Ranskan mallit ovat hyvin samankaltaiset, mutta puoluekentät täysin erilaiset. Lisäksi nykyään monessa maassa käytetään hybridijärjestelmiä, jotka yhdistävät kaksi erilaista järjestelmää yksiin vaaleihin: vaikkapa Saksassa osa ehdokkaista valitaan brittimallilla ja loput Ruotsin tapaan suhteellisella listavaalilla.
 
 Äänioikeutetun kansalaisen tehtäväksi jää selvittää, miten parhaiten voi vaikuttaa. Suomeen valitussa mallissa yksi piirre on selvä: joka äänellä on merkitystä. Tee siis tilastotieteilijä onnelliseksi ja ole yksi datapiste tulosillassa!

@@ -1,6 +1,7 @@
 ---
 title: "\"Turpaan tuli, henki jäi\" - KTTO murskasi väsyneen MoPSin kevätklassikossa"
 date: "2017-04-10"
+author: "Krapula-Ahti"
 ---
 
 **KTTO        11**

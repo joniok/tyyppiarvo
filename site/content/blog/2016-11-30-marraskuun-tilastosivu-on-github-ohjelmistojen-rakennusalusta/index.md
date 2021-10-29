@@ -1,13 +1,14 @@
 ---
 title: "Marraskuun tilastosivu on GitHub, ohjelmistojen rakennusalusta"
 date: "2016-11-30"
+author: "Tuomo Nieminen"
 ---
 
 _Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Marraskuun sivusto on GitHub, ohjelmointiprojekteja isännöivä sivusto, joka tarjoaa avoimen graafisen käyttöliittymän Linus Torvaldsin kehittämälle Git-versionhallinnalle._ 
 
 * * *
 
-\[caption id="" align="alignright" width="344"\]![GitHub Octocat logo: https://github.com/logos](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png) GitHub Octocat logo: https://github.com/logos\[/caption\]
+<!-- \[caption id="" align="alignright" width="344"\]![GitHub Octocat logo: https://github.com/logos](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png) GitHub Octocat logo: https://github.com/logos\[/caption\] -->
 
 GitHub tarjoaa kätevän graafisen käyttöliittymän Git-versionhallintaa hyödyntäville projekteille. GitHub:ssa sijaitsevat esimerkiksi yleensä R-tilasto-ohjelmiston pakettien lähdekoodit ja monet muut avoimen tieteen ja datan projektit.
 
@@ -19,7 +20,7 @@ GitHubiin kannattaa tutustua, sillä versionhallinta on kätevä ja oikeastaan p
 
  
 
-\[caption id="" align="aligncenter" width="490"\]![GitHub logo: https://github.com/logos](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png) GitHub logo: https://github.com/logos\[/caption\]
+<!-- \[caption id="" align="aligncenter" width="490"\]![GitHub logo: https://github.com/logos](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png) GitHub logo: https://github.com/logos\[/caption\] -->
 
  
 

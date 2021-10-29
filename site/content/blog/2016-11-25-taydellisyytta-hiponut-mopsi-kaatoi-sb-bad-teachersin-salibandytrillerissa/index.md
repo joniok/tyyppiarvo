@@ -1,6 +1,7 @@
 ---
 title: "Täydellisyyttä hiponut MoPSi kaatoi SB Bad Teachersin salibandytrillerissä!"
 date: "2016-11-25"
+author: "Krapula-Ahti"
 ---
 
 **MoPSi                           3**
@@ -13,7 +14,7 @@ Upeasti taistellut MoPSi kaatoi perjantaina SB Bad Teachersin legendaarisen jän
 
 Tyyppiarvon tilastollisen merkitsevyyden toimitus huomauttaa, ettei vielä voida vetää johtopäätöksiä siitä, pärjääkö joukkue peleissä paremmin ilman nykyistä ja entistä kapteeniaan, vaikka varakapteeni **Tuomas Reiterä** totesikin haastattelussa, että kerrankin on nauha kädessä miehellä, joka sen pelillisesti ansaitsee.
 
-\[caption id="" align="alignnone" width="216"\]![Emeritusurheiluvastaava Tuomas Reiterä pelasi ensimmäistä kertaa Spielführerin nauha kädessään.](http://gdurl.com/vzTz) Emeritusurheiluvastaava Tuomas Reiterä pelasi ensimmäistä kertaa Spielführerin nauha kädessään.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![Emeritusurheiluvastaava Tuomas Reiterä pelasi ensimmäistä kertaa Spielführerin nauha kädessään.](http://gdurl.com/vzTz) Emeritusurheiluvastaava Tuomas Reiterä pelasi ensimmäistä kertaa Spielführerin nauha kädessään.\[/caption\] -->
 
 Koiralauma sai otteluun tapansa mukaan huonon alun, kun vastustaja pääsi nopeasti rokottamaan vastahyökkäyksestä. Vaikka vihreät ottivat tämän jälkeen pelin suvereeniin hallintaansa, ei joukkue onnistunut pöllyttämään opettajien maaliverkkoja.
 
@@ -23,7 +24,7 @@ Kun otetaan huomioon, että alivoimaisena taistelleet pelaajat olivat jo toisen 
 
 Koiralauma aloitti kolmannessa erässä takaa-ajon sitkeästi alusta, eikä palkintoa tarvinnut tällä kertaa odottaa yhtä kauaa. **Roope Jääskeläinen** toimitti pallon maalille, josta se Spielführer-jugendista kokoonpanoon nostetun **Markus Lauhan** ohjauksesta päätyi **Daniel Karille**, jonka ovela laukaus maata pitkin painui vastustamattomasti veskarin längistä maalin perukoille. Ja juuri kun ottelun yksihenkinen yleisö oli juhlinnaltaan malttanut istuutua paikalleen, iski koiralauma lisää lunta opettajanhuoneeseen. Sankarinviitan harteilleen tiukasti vetänyt Kari teki erinomaista maskia ja taitava puolustaja **Vili Vanhala** kiitti laukomalla pallon terävästi ylämummoon: MoPSi 3-2-johtoon!
 
-\[caption id="" align="alignnone" width="216"\]![Daniel Karilla oli ratkaiseva rooli MoPSin kolmannen erän maaleissa.](http://gdurl.com/SDSd) Daniel Kari oli mukana MoPSin jokaisessa maalissa: tilille kertyi syöttö, maali ja maski.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![Daniel Karilla oli ratkaiseva rooli MoPSin kolmannen erän maaleissa.](http://gdurl.com/SDSd) Daniel Kari oli mukana MoPSin jokaisessa maalissa: tilille kertyi syöttö, maali ja maski.\[/caption\] -->
 
 Ottelun huikein vaihe käynnistyi, kun uhkaavan tappion pelottamat opettajat yltyivät loputtoman vaihtopenkkinsä avulla hurjaan takaa-ajoon ja hyökkäsivät nälkäisesti MoPSin maalia kohti. Hikinen, verinen ja huohottava puolustusmuuri, sekä koiralauman vankkumattoman luottamuksen saavuttanut maalivahti **Mikko Uski** venyivät tilanne toisensa jälkeen suojelemaan omaa maaliaan. Viimeiset kymmenen minuuttia kestänyt myllytys tarjosi kiimaista jännitystä ja muutamia erittäin vaarallisia maalintekopaikkoja, mukaan lukien tolpat molemmissa päädyissä, mutta maaleja ei silti nähty.
 
@@ -31,4 +32,4 @@ Teachers haki lopussa tasoitusta ilman maalivahtia, mutta yhden miehen ylivoimak
 
 Virhe ei kuitenkaan kostautunut, sillä peli päättyi kyseiseen tilanteeseen ja MoPSi pääsi juhlimaan ansaittua voittoa huikaisevassa salibandytrillerissä! Koiralaumaa ottelussa edustivat Reiterä, Kari, Lauha, Uski, Komu, Vanhala, Jääskeläinen ja **Santeri Mikkonen**.
 
-\[caption id="" align="alignnone" width="216"\]![Mikko Uski piti kolmannessa erässä maalinsa puhtaana, vaikka miehen parta ei vieläkään mahtunut kypärän alle.](http://gdurl.com/7_TY) Mikko Uski piti kolmannessa erässä maalinsa puhtaana, vaikka miehen parta ei vieläkään mahtunut kypärän alle.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![Mikko Uski piti kolmannessa erässä maalinsa puhtaana, vaikka miehen parta ei vieläkään mahtunut kypärän alle.](http://gdurl.com/7_TY) Mikko Uski piti kolmannessa erässä maalinsa puhtaana, vaikka miehen parta ei vieläkään mahtunut kypärän alle.\[/caption\] -->

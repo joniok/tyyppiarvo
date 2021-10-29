@@ -1,9 +1,10 @@
 ---
 title: "Loimu toivottaa uudet opiskelijat tervetulleiksi!"
 date: "2018-08-29"
+author: "Krapula-Ahti"
 ---
 
-![](http://gdurl.com/IfZo)
+![](./Loimu.jpg)
 
 **TERVETULOA LUONNON-, YMPÄRISTÖ- JA METSÄTIETEILIJÖIDEN ASIANTUNTIJAYHTEISÖÖN!**
 
@@ -17,6 +18,6 @@ Onnittelut opiskelupaikastasi ja tervetuloa opiskelijajäseneksi Luonnon-, ympä
 
 _Loimuavin terveisin alan asiantuntijoiden puolesta,_ Luonnon-, ympäristö- ja metsätieteilijöiden liitto Loimu ry
 
-**Mikko Salo** **Toiminnanjohtaja**
+**Mikko Salo**<br>**Toiminnanjohtaja**
 
 _Luonnon-, ympäristö- ja metsätieteilijöiden liitto Loimu ry on lähes 15 000-jäseninen akavalainen edunvalvonta- ja palvelujärjestö. Loimu aloitti toimintansa 1.1.2017, kun Luonnontieteiden Akateemisten Liitto LAL, Ympäristöasiantuntijoiden keskusliitto YKL ja Metsänhoitajaliitto yhdistyivät Loimuksi._

@@ -1,9 +1,10 @@
 ---
 title: "Luulitko tuntevasi kuntavaaliehdokkaat? - testaa tietämyksesi Tyyppiarvon haastavalla vaalivisalla"
 date: "2017-04-09"
+author: "Krapula-Ahti"
 ---
 
-![](http://gdurl.com/STWw)
+<!-- ![](http://gdurl.com/STWw) -->
 
 Suomessa äänestetään tänään kuntavaaleissa, joissa kunnanvaltuustoihin ympäri Suomea valitaan yhteensä 8999 valtuutettua. Kovimmat vaalifanaatikot ovat viime viikkojen kampanjoinnin aikana ehtineet oppia tuntemaan suurimman osan ehdokkaista. Tyyppiarvon vaalivisassa tämä ei kuitenkaan riitä, vaan ehdokkaiden lisäksi on syytä hallita myös kreikkalaiset aakkoset. Tunnistatko seuraavat kuntavaaliehdokkaat?
 

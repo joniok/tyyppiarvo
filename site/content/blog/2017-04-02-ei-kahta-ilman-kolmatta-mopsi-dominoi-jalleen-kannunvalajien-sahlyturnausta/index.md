@@ -1,9 +1,10 @@
 ---
 title: "Ei kahta ilman kolmatta - MoPSi dominoi jälleen Kannunvalajien sählyturnausta!"
 date: "2017-04-02"
+author: "Krapula-Ahti"
 ---
 
-\[caption id="" align="aligncenter" width="301"\]![](http://gdurl.com/6f9C) MoPSi vei Kannunvalajien sählyturnauksen nimiinsä jo kolmantena peräkkäisenä vuonna.\[/caption\]
+<!-- \[caption id="" align="aligncenter" width="301"\]![](http://gdurl.com/6f9C) MoPSi vei Kannunvalajien sählyturnauksen nimiinsä jo kolmantena peräkkäisenä vuonna.\[/caption\] -->
 
 Moodin nimi kirjoitettiin perjantaina kolmatta kertaa peräkkäin Kannunvalajien sählyturnauksen palkintokannun kylkeen. Perinteinen sählyturnaus järjestettiin jälleen Viikin Monitoimitalon palloilupyhätössä, ja vihreäpaitaiset olivat mukana komeasti kahdella joukkueella.
 
