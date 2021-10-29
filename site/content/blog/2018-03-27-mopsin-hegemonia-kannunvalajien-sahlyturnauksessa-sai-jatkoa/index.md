@@ -1,9 +1,12 @@
 ---
 title: "MoPSin hegemonia Kannunvalajien sählyturnauksessa sai jatkoa"
 date: "2018-03-27"
+author: "Krapula-Ahti"
 ---
 
-\[caption id="" align="aligncenter" width="350"\]![](http://gdurl.com/JG4G) MoPSin joukkueiden pelaajat yhteiskuvassa. Vasemmalta lukien MoPSi Akatemia: Markus Lauha, Patrik Lauha, Joni Oksanen, Santeri Mikkonen, MoPSi SKA: Heikki Hyhkö, Jussi Virtanen, Risko Rikkinen, Daniel Kari.\[/caption\]
+![](./DSC_0253.jpg)
+
+_MoPSin joukkueiden pelaajat yhteiskuvassa. Vasemmalta lukien MoPSi Akatemia: Markus Lauha, Patrik Lauha, Joni Oksanen, Santeri Mikkonen, MoPSi SKA: Heikki Hyhkö, Jussi Virtanen, Risko Rikkinen, Daniel Kari._
 
 Viikonloppuna perinteiseen tapaan Viikin Monitoimitalolla käyty Kannunvalajien sählyturnaus oli jälleen kerran Moodin Palloseuran juhlaa: MoPSi vei Kannun nimiinsä jo neljättä kertaa peräjälkeen. Voittajajoukkue MoPSi Akatemiassa pelasivat kolmannen voittonsa hakeneet Santeri Mikkonen, Joni Oksanen sekä Patrik ja Markus Lauha.
 

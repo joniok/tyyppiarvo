@@ -1,11 +1,10 @@
 ---
 title: "Tyyppiarvo selvitti: Mitä jos kaikki äänestäisivät kuntavaaleissa?"
 date: "2017-04-17"
+author: "Patrik Lauha, Topi Halme, Tuukka Kangas"
 ---
 
-**Patrik Lauha, Topi Halme & Tuukka Kangas**
-
-Sunnuntaina 9.4. Suomessa äänestettiin kuntavaaleissa, joista oli povattu tasaisinta vaalia aikoihin. Lopputulokset ovat olleet selvillä nyt viikon ajan: Kokoomus oli suurin puolue niin Helsingissä kuin koko maassakin ja vaalien suurimmaksi voittajaksi nousi Vihreät. Suurin ääniharava oli Kokoomuksen Jan Vapaavuori, joka keräsi hurjan 29 547 äänen potin.
+Sunnuntaina 9.4. Suomessa äänestettiin kuntavaaleissa, joista oli povattu tasaisinta vaalia aikoihin. Lopputulokset ovat olleet selvillä nyt viikon ajan: Kokoomus oli suurin puolue niin Helsingissä kuin koko maassakin ja vaalien suurimmaksi voittajaksi nousi Vihreät. Suurin ääniharava oli Kokoomuksen Jan Vapaavuori, joka keräsi hurjan 29&nbsp;547 äänen potin.
 
 Helsingin äänestysprosentti oli 61,6%, mikä on muutaman prosenttiyksikön verran koko maan lukua korkeampi. Alhainen äänestysprosentti on jo pitkään huolestuttanut politiikan tutkijoita ja sen ajatellaan heikentävän demokratian toimivuutta.
 
@@ -13,53 +12,30 @@ Alueiden väliset erot äänestysaktiivisuudessa voivat olla hyvinkin suuria. Es
 
 Tyyppiarvo päätti pureutua tarkemmin Helsingin alueiden äänestysaktiivisuuteen. Halusimme selvittää, voiko alueen äänestysaktiivisuuden perusteella päätellä jotain alueen äänten jakautumisesta ja asukkaiden puoluekannasta.
 
-#### Äänestysaktiivisuus selittää konservatiivipuolueiden kannatusta - mutta ei liberaalipuolueiden
+## Äänestysaktiivisuus selittää konservatiivipuolueiden kannatusta - mutta ei liberaalipuolueiden
 
 Tyyppiarvon tutkimuksessa selvisi, että alueen äänestysprosentilla on vahva yhteys joidenkin puolueiden kannatukseen. Selkein vaikutus äänestysaktiivisuudella on konservatiivisten ns. "kansanpuolueiden" kannatukseen. Näiden puolueiden kannatus on suurinta alueilla, joiden äänestysprosentti on alhainen ja kannatus laskee tasaisesti alueen äänestysprosentin noustessa.
 
 Esimerkiksi SDP:n ja Perussuomalaisten kannatusluvuilla on negatiivinen yhteys alueen äänestysaktiivisuuden kanssa. Sen sijaan Kokoomuksen menestys on yhteydessä korkeampaan äänestysaktiivisuuteen.
 
-\[caption id="" align="aligncenter" width="2548"\]![](http://gdurl.com/5EgB) Hajontakuvia puolueiden kannatuksen ja äänestysaktiivisuuden yhteydestä. Mitä lähempänä keskellä kulkevaa viivaa eli korrelaatiosuoraa pisteet ovat, sitä vahvemmin äänestysaktiivisuus on yhteydessä puolueen kannatukseen alueella. SDP:n ja Perussuomalaisten kuvissa havainnot kulkevat melko tarkasti korrelaatiosuoran yhteydessä. Kokoomuksen kohdalla kuvassa alaoikealla oleva hajanainen pisterypäs kääntää korrelaatiosuoraa loivemmaksi ja laskee myös Kokoomuksen korrelaatiokerrointa (katso alla). Ryppääseen kuuluu alueita, joiden äänestysaktiivisuus on hyvinkin korkea, mutta joilla Kokoomuksen kannatus on vähäistä. Tällaisia alueita ovat esimerkiksi Käpylä, Vallila ja Kallio.\[/caption\]
+<!-- ![](http://gdurl.com/5EgB)
+
+_Hajontakuvia puolueiden kannatuksen ja äänestysaktiivisuuden yhteydestä. Mitä lähempänä keskellä kulkevaa viivaa eli korrelaatiosuoraa pisteet ovat, sitä vahvemmin äänestysaktiivisuus on yhteydessä puolueen kannatukseen alueella. SDP:n ja Perussuomalaisten kuvissa havainnot kulkevat melko tarkasti korrelaatiosuoran yhteydessä. Kokoomuksen kohdalla kuvassa alaoikealla oleva hajanainen pisterypäs kääntää korrelaatiosuoraa loivemmaksi ja laskee myös Kokoomuksen korrelaatiokerrointa (katso alla). Ryppääseen kuuluu alueita, joiden äänestysaktiivisuus on hyvinkin korkea, mutta joilla Kokoomuksen kannatus on vähäistä. Tällaisia alueita ovat esimerkiksi Käpylä, Vallila ja Kallio._ -->
 
 Laskimme kullekin puolueelle korrelaatiokertoimen, joka kuvaa sitä, miten voimakas lineaarinen riippuvuus puolueen kannatusluvun ja alueellisen äänestysprosentin välillä on. Lineaarinen yhteys on sitä voimakkaampi, mitä enemmän korrelaatiokerroin poikkeaa nollasta. Arvo 1 tai -1 tarkoittaisi täydellistä lineaarista riippuvuutta.
 
   
 
-Puolue
-
-Puolueen kannatuksen ja alueellisen äänestysprosentin välinen korrelaatiokerroin
-
-SDP
-
-\-0,81
-
-Perussuomalaiset
-
-\-0,81
-
-Kristillisdemokraatit
-
-\-0,75
-
-Kokoomus
-
-0,66
-
-RKP
-
-0,46
-
-Vihreät
-
-0,38
-
-Vasemmisto
-
-\-0,37
-
-Keskusta
-
-\-0,24
+| Puolue | Puolueen kannatuksen ja alueellisen äänestysprosentin välinen korrelaatiokerroin |
+| -- | -- |
+| SDP | \-0,81 |
+| Perussuomalaiset | \-0,81 |
+| Kristillisdemokraatit | \-0,75 |
+| Kokoomus | 0,66 |
+| RKP | 0,46 |
+| Vihreät | 0,38 |
+| Vasemmisto | \-0,37 |
+| Keskusta | \-0,24 |
 
 Taulukosta on nähtävissä kaksi asiaa. Ensiksi: koulutetumpien äänestäjien puolueiksi mielletyillä puolueilla korrelaatiokerroin on positiivinen, kun taas vähemmän koulutettujen äänestäjien puolueiksi mielletyillä puolueilla kerroin on negatiivinen. Toiseksi: konservatiivisten puolueiden kannatus korreloi voimakkaammin alueen äänestysaktiivisuuden kanssa, kuin liberaalimmilla puolueilla.
 
@@ -75,7 +51,7 @@ Liberaalien puolueiden aluekohtaisissa äänimäärissä on toki eroja, mutta ne
 
 Poikkeuksen muodostaa Keskusta, jota ei pidetä erityisen liberaalina puolueena, mutta joka kuitenkin sijoittuu taulukon pohjalle -0,24 kertoimellaan. Keskustan äänestäjien ei myöskään ajatella olevan erityisen matalasti koulutettuja, mutta puolueen kerroin oli silti negatiivinen. Keskustan tilannetta selittää kuitenkin ilmeisesti se, että puolueen pääkohderyhmään kuuluvat äänestäjät asuvat maaseudulla ja puolue on näin ollen Helsingissä melko marginaalinen. Keskustaa saatetaan Helsingissä äänestää hyvin erilaisista syistä, eikä puolueen kannattajilla välttämättä ole selkeää aluesidonnaista yhdistävää tekijää tai yhteistä sosioekonomista asemaa.
 
-#### Entä jos kaikki äänestäisivät?
+## Entä jos kaikki äänestäisivät?
 
 Looginen jatkokysymys on, mitä tapahtuisi, jos kaikki äänioikeutetut käyttäisivät valtaansa. Tämän selvittämiseksi laskimme, mikä vaalien lopputulos olisi ollut, jos jokaisen alueen äänestysprosentti olisi ollut täysi sata olettaen, että alueen äänet jakautuisivat samoin kuin nyt toteutuneessa tilanteessa.
 
@@ -85,7 +61,9 @@ Oletus ei varmastikaan pidä täysin paikkaansa, sillä syitä äänestämättö
 
 Puolueiden sisällä sen sijaan tapahtuisi enemmän muutoksia. Kokoomuksen Ted Apter ja Tapio Klemetti menettäisivät paikkansa ja heidän tilalleen nousisi Timo Raittinen. Vihreiden Kati Juva ja Hannu Oskala menettäisivät paikkansa Satu Silvolle ja Tuomas Rantaselle. SDP:n Reijo Vuorento jäisi valtuustosta pois ja tilalle nousisivat Tuomas Wahlgren ja Maija Anttila. Vasemmistoliiton Anna Vuorjoen sijaan valtuustoon pääsisi Zahra Abdulla.
 
-\[caption id="" align="aligncenter" width="699"\]![](http://gdurl.com/6bSa) Helsingin kaupunginvaltuuston toteutunut paikkajako ja paikkajako, jos kaikki äänioikeutetut olisivat äänestäneet. Puolueiden kesken tapahtuisi ainoastaan yksi muutos: Kokoomus menettäisi yhden valtuustopaikoistaan SDP:lle. 85 valtuutetusta kuusi vaihtuisi. Vaihtuneet valtuutetut on merkitty oranssilla taustalla.\[/caption\]
+![](./kunnallisvaalit%20valitut.png)
+
+_Helsingin kaupunginvaltuuston toteutunut paikkajako ja paikkajako, jos kaikki äänioikeutetut olisivat äänestäneet. Puolueiden kesken tapahtuisi ainoastaan yksi muutos: Kokoomus menettäisi yhden valtuustopaikoistaan SDP:lle. 85 valtuutetusta kuusi vaihtuisi. Vaihtuneet valtuutetut on merkitty oranssilla taustalla._
 
 Suurin häviäjä olisi odotetusti Kokoomus, joka menettäisi kannatuksestaan 1,2 prosenttiyksikköä ja suhteellisesti kannatus laskisi 4,3 prosenttia. Niin ikään RKP:n kannatus laskisi 4,5 prosenttia. Suurimpia voittajia olisivat Perussuomalaiset, Kristillisdemokraatit ja SDP, joiden kannatus nousisi suhteellisesti 5,5-6,5%.
 
@@ -97,7 +75,7 @@ Tyyppiarvon leikkimielisen laskelman mukaan korkeampi äänestysaktiivisuus ei 
 
  
 
-#### Lähteet ja kiitokset:
+## Lähteet ja kiitokset:
 
 Tyyppiarvon toimitus kiittää entistä tilastotieteen opiskelijaa ja Moodi ry:n jäsentä Jussi Tervolaa hyvästä juttuideasta.
 

@@ -1,6 +1,7 @@
 ---
 title: "MoPSilla kahden tappion viikko"
 date: "2016-11-11"
+author: "Krapula-Ahti"
 ---
 
 **MaO Reippailijat    5 ∪** **3**
@@ -21,9 +22,9 @@ Viikon ensimmäiseen otteluun koiralauma joutui yllättäen lähtemään ilman m
 
 Maalivahtiongelmasta huolimatta koiralauma taisteli ottelussa suurella sydämellä eikä voittokaan olisi ollut mahdottomuus. Kohtaloksi koitui kuitenkin maalipaikkojen avokätinen hukkaaminen. MoPSin maaleista ottelussa vastasivat komealla kaukolaukauksella **Vili Vanhala,** maalin edestä **Eero Mikkelä** ja kyseenalaisesti maalivahdin alueen tuntumasta **Daniel Kari**. Karin 3-5-kavennus ei jäänyt tuomariston ainoaksi kädenojennukseksi MoPSille, sillä ainakin vielä perjantaina sarjan tulospalvelussa oli ottelun lopputulokseksi merkitty 3-3-tasapeli.
 
-\[caption id="" align="alignnone" width="216"\]![Daniel Kari avasi maalihanansa keskiviikkona miehekkään maalineduspelaamisen seurauksena.](http://gdurl.com/SDSd) Daniel Kari avasi maalihanansa keskiviikkona miehekkään maalineduspelaamisen seurauksena.\[/caption\]
+<!--\[caption id="" align="alignnone" width="216"\]![Daniel Kari avasi maalihanansa keskiviikkona miehekkään maalineduspelaamisen seurauksena.](http://gdurl.com/SDSd) Daniel Kari avasi maalihanansa keskiviikkona miehekkään maalineduspelaamisen seurauksena.\[/caption\]-->
 
-Mainittakoon vielä, että koska erät päättyivät lukemin (0-2, 2-3, 1-0), noudatti erien saldo MoPSin kannalta sarjaa $$\\sum\\limits\_{i=-1}a\_i=(i)^2(\\frac{(i+1)\*3}{2}-1)-1$$, jonka summa muuttuu positiiviseksi neljännen termin jälkeen, mikä tarkoittaa sitä, että jos ottelu olisi pelattu vähintään nelieräisenä, olisi MoPSi vienyt sen selkeästi nimiinsä. \[Lyhyen matematiikan lukeneille paljastettakoon, että neljännen erän jälkeen vihreäpaidat olisivat johtaneet ottelua 11 maalin erolla, Tyyppiarvon anal.toim.huom.\]\[anal.toim.huom. = analyysitoimituksen huomio, Tyyppiarvon siveystoim.huom.\]
+Mainittakoon vielä, että koska erät päättyivät lukemin (0-2, 2-3, 1-0), noudatti erien saldo MoPSin kannalta sarjaa $\sum\limits_{i=-1}a_i=(i)^2(\frac{(i+1)*3}{2}-1)-1$, jonka summa muuttuu positiiviseksi neljännen termin jälkeen, mikä tarkoittaa sitä, että jos ottelu olisi pelattu vähintään nelieräisenä, olisi MoPSi vienyt sen selkeästi nimiinsä. \[Lyhyen matematiikan lukeneille paljastettakoon, että neljännen erän jälkeen vihreäpaidat olisivat johtaneet ottelua 11 maalin erolla, Tyyppiarvon anal.toim.huom.\]\[anal.toim.huom. = analyysitoimituksen huomio, Tyyppiarvon siveystoim.huom.\]
 
 Perjantaina viikon toisessa kamppailussa SiVuPePaa vastaan MoPSi sai jalkeille kokonaisen joukkueen. Maalilla debytoi moodin oma fuksi **Mikko Uski** ja kenttä oli täytetty MoPSin tutuilla luottomiehillä. Joukkue panosti kerrankin myös pelitapaansa, kun taktiikkanero Mikkelä opasti ennen pelin alkua fläppitaulun kanssa, miten Siltavuorenpenkereläisten peli murretaan.
 
@@ -31,7 +32,7 @@ Mikkelän vinkit tuntuivat purevan ja Kumpulan salibandypyhätössä nähtiin yk
 
 PePa meni ottelun ensimmäisessä erässä johtoon vastahyökkäyksellä syötönkatkosta. Toisessa erässä MoPSi hyödynsi vastustajan kattilan kiehahtamisen kun **Tuomas Reiterä** tulitti 5-3-ylivoimalla pelin tasoihin. Kolmas erä oli tasaista vääntöä, joka valitettavasti kääntyi hieman onnekkaastikin SiVuPePalle pomppumaalin seurauksena. Lukuisille paikoille päässyt ja lopussa ilman maalivahtiakin tasoitusta hakenut MoPSi kaatui toisen kerran peräkkäin omaan tehottomuuteensa ja jäätymisiin avopaikoissa. Tappiosta huolimatta koiralauma voi kuitenkin olla ylpeä hienosta taistelustaan ja kurinalaisesta sekä järkevästä joukkuepelistä kovaa vastustajaa vastaan.
 
-\[caption id="" align="alignnone" width="216"\]![Tuomas Reiterä osui perjantaina kahden miehen ylivoimalla.](http://gdurl.com/vzTz) Tuomas Reiterä osui perjantaina kahden miehen ylivoimalla.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="216"\]![Tuomas Reiterä osui perjantaina kahden miehen ylivoimalla.](http://gdurl.com/vzTz) Tuomas Reiterä osui perjantaina kahden miehen ylivoimalla.\[/caption\] -->
 
 Lisättäköön vielä näin päätteeksi, että Tyyppiarvon urheilutoimitus sekä etenkin allekirjoittanut on viime aikana saanut kuulla paljon vihjailuja siitä, että MoPSin urheilutoimintaa itsevaltaisesti kipparoimaa Lauhaa kohdellaan Tyyppiarvon otteluraporteissa silkkihansikkain ja miehen edesottamuksia liioitellaan räikeästi. Vaikka Tyyppiarvo ei yleensä kuuntelekaan lukijapalautetta ja vastustaa muutoinkin kaikenlaista demokratiaa siellä mihin se ei kuulu, tehdään toimituksessa tällä kertaa poikkeus. Tämänkertaiseen matsiraporttiin pyysimme ulkopuoliselta taholta rehellistä arviota Lauhan pelistä. Seuraava kappale on peräisin Moodin urheiluvastaavan kynästä.
 

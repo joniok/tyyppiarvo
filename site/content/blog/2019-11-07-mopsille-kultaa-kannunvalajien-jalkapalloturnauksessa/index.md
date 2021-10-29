@@ -1,10 +1,8 @@
 ---
 title: "MoPSille kultaa Kannunvalajien jalkapalloturnauksessa!"
 date: "2019-11-07"
-author: Krapula-Ahti
+author: "Krapula-Ahti"
 ---
-
-_Krapula-Ahti_
 
 Muutama vuosi sitten aktiivitoimintansa lopettanut Moodin Palloseura MoPSi teki marraskuun alussa kunniakkaan paluun pallokentille ja lähti mukaan kilvoittelemaan Valtsikan jalkapalloherruudesta Haapaniemen sateiselle kentälle. Joukkueen rungon muodostivat naftaliinista kaivetut MoPSi-legendat Risko Rikkinen, Patrik Lauha, Santeri Mikkonen, Aleksi Laiho ja Leo Nikkanen. Viisikkoa täydensivät tuoreemmat MoPSi-kasvot matemaattisten tieteiden kandiohjelmalaiset, Alex Lähdekorpi, Vikke Kilponen sekä maalivahti Veikko Laatikainen.
 
@@ -16,6 +14,6 @@ Pitaleipäpohjainen hiilihydraattitankkaus onnistui erinomaisesti ja vatsat täy
 
 Turnaus huipentui unelmafinaaliin, kun MoPSia vastaan asettui turnauksessa tappioton, rakas vihollinen KTTO. Taitavalla ja leveällä kokoonpanolla operoineet taloustieteilijät siirtyivät ansaitusti 1-0-johtoon, mutta urhea koiralauma ei takaiskusta hätkähtänyt, vaan jatkoi sinnikkäästi taistelua ylivoimaista vastustajaansa vastaan. Pelin puolivälin tienoilla Vikke Kilponen levitti balsamia tilastotieteilijöiden haavoihin tasoittamalla sensaatiomaisesti ottelun nopeasta vastahyökkäyksestä. KTTO protestoi maalia edeltänyttä tilannetta ankarasti, mutta puolueettomien silminnäkijöiden mukaan pallo osui lähes varmasti, eli todennäköisyydellä 1, Patrik Lauhaa johonkin muuhun ruumiinosaan kuin käteen. Lisää herkkua yleisön mopsinpenikoille oli luvassa hetken kuluttua Alex Lähdekorven ladattua omalta alueelta lähetetyn toiveikkaan pitkän avauksen hurjalla kääntölaukauksella maaliin. Tappiolle ajautunut KTTO jahtasi tasoitusosumaa hurjalla intensiteetillä, mutta MoPSin uhrautuva puolustus ja turnauksessa ainoastaan yhden maalin päästänyt maalivahti eivät olleet yllätettävissä. Kirsikkana kakun päälle läpiajoon vapautettu Lähdekorpi kaadettiin vielä rangaistuslaukauksen arvoisesti ja mies viimeisteli varmasti MoPSille pelitapahtumiin nähden vähemmän ansaitun, mutta sitäkin maukkaamman 3-1-voiton.
 
-![](https://gdurl.com/DpLc)
+![](./mestarit.jpg)
 
 Mestarit: Aleksi Laiho (vas.), Santeri Mikkonen, Alex Lähdekorpi, Risko Rikkinen, Patrik Lauha, Leo Nikkanen, Vikke Kilponen ja Markus Lauha (alh.)

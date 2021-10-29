@@ -1,11 +1,12 @@
 ---
 title: "Yllätyslöytö vedonlyöntitilastoissa - tässä on Vakioveikkauksen ihmerivi!"
 date: "2018-03-01"
+author: "Patrik Lauha, Tuomo Nieminen"
 ---
 
-**Patrik Lauha & Tuomo Nieminen**
+![](./IMG_20180301_143540.jpg)
 
-\[caption id="" align="alignnone" width="599"\]![](http://gdurl.com/GAzM) Vakioveikkausta on pelattu Suomessa jo vuodesta 1940 alkaen.\[/caption\]
+_Vakioveikkausta on pelattu Suomessa jo vuodesta 1940 alkaen._
 
 Tyyppiarvon toimitus sai taannoin haltuunsa arvokasta dataa, kun innokas harrastaja oli kerännyt talteen Vakioveikkauksen oikeat voittorivit lähes 45 vuoden ajalta! Kiireisen journalistintyön ja sivutoimisen opiskelun keskellä aineisto ehti jo hetkeksi hautautua Tyyppiarvon datadeskin pöytälaatikkoon, mutta nyt TA tuo vihdoin veikkaustulokset päivänvaloon.
 
@@ -13,13 +14,13 @@ Vakioveikkaus eli Vakio on urheiluvedonlyönnin muoto, jossa veikataan tyypillis
 
 Kuten kaikki urheilua seuraavat tietävät, ovat kotivoitot jalkapallossa selvästi vierasvoittoja yleisempiä, mikä johtuu esimerkiksi yleisön kannustuksen tuomasta edusta ja tuomareihin kohdistuvasta paineesta. Luonnollinen alkuaskel oli siis selvittää, kuinka yleisiä kotivoitot oikeastaan ovat suhteessa vierasvoittoihin.
 
-Analysoitava aineisto ulottuu vuoden 1972 syyskuusta vuoden 2016 lokakuuhun, ja kattaa kokonaisuudessaan 2 285 viikon Vakiotulokset. Koska jokainen kierros koostuu 13 kohteesta, sisältää data siis huimien 29 692 ottelun tulokset.  Näistä kotivoittoihin on päättynyt 13 464 peliä, kun taas vierasvoittojen lukumäärä on 8310. Kotivoitot ovat siis jopa 60% vierasvoittoja todennäköisempiä. Tasapelejä on 7918 eli lähes yhtä paljon kuin vierasvoittoja.
+Analysoitava aineisto ulottuu vuoden 1972 syyskuusta vuoden 2016 lokakuuhun, ja kattaa kokonaisuudessaan 2&nbsp;285 viikon Vakiotulokset. Koska jokainen kierros koostuu 13 kohteesta, sisältää data siis huimien 29&nbsp;692 ottelun tulokset.  Näistä kotivoittoihin on päättynyt 13&nbsp;464 peliä, kun taas vierasvoittojen lukumäärä on 8310. Kotivoitot ovat siis jopa 60% vierasvoittoja todennäköisempiä. Tasapelejä on 7918 eli lähes yhtä paljon kuin vierasvoittoja.
 
-![](http://gdurl.com/UZbK)
+![](./Vakioveikkaus.png)
 
-**Yleisin vakiorivi**
+## Yleisin vakiorivi
 
-Aineistosta löytyy myös yksi erityisen kiinnostava löydös: vakiorivi, joka on esiintynyt aikavälillä peräti kolme kertaa! Tapahtumaa voi pitää jokseenkin yllättävänä, sillä mahdollisia rivejä on olemassa 3^13 = 1 594 323 kappaletta. Mutta kuinka harvinaisesta tapahtumasta oikeastaan onkaan kysymys?
+Aineistosta löytyy myös yksi erityisen kiinnostava löydös: vakiorivi, joka on esiintynyt aikavälillä peräti kolme kertaa! Tapahtumaa voi pitää jokseenkin yllättävänä, sillä mahdollisia rivejä on olemassa 3^13 = 1&nbsp;594&nbsp;323 kappaletta. Mutta kuinka harvinaisesta tapahtumasta oikeastaan onkaan kysymys?
 
 Todennäköisyyttä sille, että joku rivi esiintyy aineistossa vähintään 3 kertaa voidaan arvioida yksinkertaisen simulaation avulla. Aineiston perusteella todennäköisyys yksittäiselle kotivoitolle on noin 0.45, tasapelille 0.27 ja vierasvoitolle 0.28. Vajaan 45 vuoden vakioveikkausrivit voidaan nyt generoida arpomalla 2285 kappaletta 13 merkin mittaisia merkkijonoja, joissa merkkien 1, 2 ja X esiintymistodennäköisyydet vastaavat edellä mainittuja koti- ja vierasvoiton sekä tasapelin todennäköisyyksiä.
 

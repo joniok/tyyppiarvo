@@ -1,9 +1,8 @@
 ---
 title: "Työelämäblogi: Petri Tiihonen kehoittaa olemaan työnhaussa rohkea"
 date: "2016-11-22"
+author: "Petri Tiihonen"
 ---
-
-**Petri Tiihonen**
 
 Olin aina pitänyt matematiikan ja fysiikan opiskelusta, joten lukion jälkeen oli selvää millä polulla jatketaan. Aloitin teknillisen fysiikan opinnot Otaniemessä vuonna 2002, mutta se tie jäi kahden vuoden mittaiseksi. Halusin jatkaa matematiikan parissa erilaisella painotuksella, joten aloitin tilastotieteen opinnot valtsikassa syksyllä 2004. Se valinta osoittautui onnistuneeksi ja valmistuin maisteriksi hitaasti mutta varmasti joulukuussa 2013.
 

@@ -1,6 +1,7 @@
 ---
 title: "Tulevaisuuden oikeustiede tarvitsee tilastollisia menetelmiä"
 date: "2016-11-07"
+author: "Mika Sutela"
 ---
 
 _Itä-Suomen yliopiston Joensuun kampuksella tarkastettiin 10. kesäkuuta 2016 väitöskirja "Arbitrium an decisio – Oikeudellisen päätöksenteon yhtenäisyys yleisissä tuomioistuimissa", joka käsitteli Suomen käräjäoikeuksien, hovioikeuksien ja korkeimman oikeuden toimintaa. Väitöstutkimus osoittaa, että suomalaisten tuomioistuinten ratkaisutoiminnassa on havaittavissa alueellisia eroja._
@@ -9,7 +10,7 @@ _Nyt väitöskirjan tekijä, tutkijatohtori Mika Sutela kertoo Tyyppiarvossa, mi
 
 * * *
 
-\[caption id="" align="alignright" width="222"\]![Mika Sutela.](http://gdurl.com/KHYy) Mika Sutela.\[/caption\]
+<!-- \[caption id="" align="alignright" width="222"\]![Mika Sutela.](http://gdurl.com/KHYy) Mika Sutela.\[/caption\] -->
 
 **Tilastotieteilijöille** oikeudellinen areena on vaikea, mutta antoisa alue. Tutkimuskohteet ovat aitoja, ja alue tarjoaa myös mahdollisuuden ilmaista määrällisesti monimutkaisia asioita.
 
@@ -23,7 +24,7 @@ Lainopin tutkimusmenetelmät eivät siis usein riitä, vaan lainopin harjoittaja
 
 Yksi vaihtoehto voi olla myös oikeudellisen tilastotieteen työkalupakki.
 
-### Tuomioistuintutkimuksen  tilastollisia menetelmiä
+## Tuomioistuintutkimuksen  tilastollisia menetelmiä
 
 Tuomioistuintutkimuksessa on mahdollista käyttää monenlaisia menetelmiä. Menetelmät eivät rajoitu ainoastaan lainopille ominaiseen hermeneuttiseen tekstintulkintaan, vaan hyväksi voidaan käyttää sekä kvalitatiivisia että kvantitatiivisia analyysejä.
 
@@ -49,7 +50,7 @@ Toisaalta voi myös olla niin, että jokin asia vaikuttaa tuomarin ratkaisuun a
 
 Päätöspuumenetelmät ovat robusteja aineistoissa esiintyville virheille eli ne eivät ole herkkiä esimerkiksi selittävien muuttujien yksittäisille virheellisille arvoille, joita voi syntyä esimerkiksi aineistoa syötettäessä sähköiseen muotoon. Aineistoissa voi esiintyä myös puutteellisia havaintoja.
 
-### Teknologia  ja tilastotiede päätöksenteon avuksi
+## Teknologia  ja tilastotiede päätöksenteon avuksi
 
 Digitaaliset tietojärjestelmät tulevat mullistamaan tuomioistuinten toimintatapoja ja avaavat rakenteellisten ratkaisujen tekemiselle uusia mahdollisuuksia.
 
@@ -75,7 +76,7 @@ Teknologia voi tukea myös rikostutkintaa monella tavalla. Poliisille tulee jatk
 
 Paikkatietoanalyysit, ryhmittelyalgoritmit ja monimutkaisemmatkin tiedonlouhintamenetelmät voisivat olla hyödyllisiä esimerkiksi rikollisten profiloinnissa ja rikosten ennustamisessa.
 
-### Oikeudellisten tilastoaineistojen saatavuus huolestuttaa
+## Oikeudellisten tilastoaineistojen saatavuus huolestuttaa
 
 Suomalaisiin tuomioistuimiin liittyy usein ajatus jatkuvuudesta ja pysyvyydestä. Viimeisen kymmenen vuoden aikana kuitenkin tuomioistuinten sekä myös syyttäjälaitoksen organisaatiot ovat muuttuneet olennaisesti. Toisaalta myös rikosasioiden käsittelyprosessit ja seuraamusjärjestelmä ovat muuttuneet.
 
@@ -87,7 +88,7 @@ Mikäli kaikkien tuomioistuinten ratkaisut olisi mahdollista tallettaa yhteen ka
 
 Erittäin suuri ongelma on myös se, että Tilastokeskus ei enää tuota tilastoja muun muassa käräjä- ja hovioikeuksien ratkaisuista. Kun yksittäistapauksista on vaikeaa saada tietoa, eikä yleisiä tilastoja ei tuoteta, on tilanne on heikko.
 
-### Empiiristen tutkimusmenetelmien käyttöä tulisi lisätä
+## Empiiristen tutkimusmenetelmien käyttöä tulisi lisätä
 
 Oikeustieteen perinteinen ydinalue on ollut lainoppi, jonka tutkimuskohteena on voimassa oleva oikeus. Lainoppi on vieroksunut empiiristä lähestymistapaa oikeuteen.
 

@@ -1,9 +1,8 @@
 ---
 title: "\"Miksi tilastotieteilijän pitäisi äänestää HYY:n edustajistovaaleissa?\" - Kysyimme ehdokkailta"
 date: "2018-10-28"
+author: "Joni Oksanen"
 ---
-
-**Joni Oksanen**
 
 Helsingin yliopiston ylioppilaskunnan edustajistovaalit järjestetään 31.10.–2. 11.2018 ja 5.11.-7.11.2018. Tyyppiarvon politiikan toimitus kokosi tuttuun tapaan Moodin sähköpostilistan ja reservin tykkimiehen tasoisen tiedustelun kautta kaikki tilastomieliset ja -henkiset ehdokkaat sähköiseen paneeliin. Vuoden 2016 tapaan paneelissa keskityttiin olennaiseen ja mahdollisuus jaaritteluun eliminoitiin asettamalla yhteismerkkiraja vastauksille. Vuoden 2016 kuuden twiitin (840 merkin) rajaa jouduttiin arvioimaan uudestaan, koska Twitter vuonna 2017  kaksinkertaisti yhden twiitin maksimimerkkimäärän. Tänä vuonna kokonaismerkkimäärä asetettiin neljään twiittiin eli 1120 merkkiin, joka osoittautui ehkä liiankin riittäväksi.
 
@@ -21,7 +20,7 @@ Ehdokkaat esitellään satunnaisessa järjestyksessä.
 
 ## 109 Lauri Olli Tarpila
 
-![](http://gdurl.com/3Kcj)
+![](./Lauri%20Olli%20Tarpila_vaalikuva.jpg)
 
 1. Tulevaisuuden tilastotielija nero, joka pitää tilastotiedettä ainoana tapana saada totuus selville. Pidän myös ilmastonmuutosta suurena uhkana, joka pitää pysäyttää yhteisvoimin.
 2. Jotta saamme hyvän edustajiston. Kun n(=äänestäjien määrä) kasvaa, niin satunnaisvaihtelu häviää ja saatu edustajisto kuvaa paremiin opiskelijapopulaatiota. Viime vaaleissa äänestysprosentti oli n. 33%.
@@ -35,7 +34,7 @@ Ehdokkaat esitellään satunnaisessa järjestyksessä.
 
 ## 480 Anna Holvio
 
-![](http://gdurl.com/b3cx)
+![](./022%20HYAL%20ry%20Edustajistovaalit%202018%2001Oct18%20c%20Alejandro%20Lorenzo.jpeg)
 
 1. Olen ekan vuoden maisteriopiskelija datatieteessä ja taloustieteessä ja järjestökentän moniottelija. Suhteeni tilastotieteeseen on rakastava niin tieteenalaa kuin ainejärjestöämme kohtaan, ja tällä hetkellä toimin Moodissa puheenjohtajana. Olen (mielestäni) osaava ja innoissani minulle tärkeistä asioista.
 2. On tärkeää, että ylioppilaskunta on jäsentensä näköinen ja äänestäminen on helppo tapa vaikuttaa tähän. HYY esimerkiksi tekee tärkeää, jokaista koskettavaa edunvalvontatyötä sekä mahdollistaa opiskelijatoimintaa erilaisten tukien, tilojen ja koulutusten muodossa.
@@ -46,7 +45,7 @@ Ehdokkaat esitellään satunnaisessa järjestyksessä.
 
 ## 72 Juha Harviainen
 
-![](http://gdurl.com/MKnr)
+![](./Juha_Ehdokaskuva.png)
 
 1. Hei! Olen Juha, ensimmäisen vuoden tietojenkäsittelytieteen opiskelija. Olen matematiikasta, tieteestä ja tekoälystä kiinnostunut tyyppi, ja siksi ymmärrän tilastotieteen tilastollisen merkitsevyyden.
 2. Edustajistovaalit ovat mahdollisuus vaikuttaa meidän kaikkien asioihin. HYY vastaa järjestötuista ja monista opiskelijapalveluista, ja jättämällä äänestämättä voi käydä niin, ettei edustajistossa ole ketään ajamassa juuri sun haluamia asioita. Edarivaaleissa yhdelläkin äänellä on merkitystä, koska viime vaaleissa eräskin ehdokas valittiin 19 äänellä.
@@ -58,7 +57,7 @@ Ehdokkaat esitellään satunnaisessa järjestyksessä.
 
 ## 319 Topias Tolonen
 
-![](http://gdurl.com/FJGR)
+![](./edarivaalit_jpg.jpg)
 
 1. Olen Topias Tolonen (äänestysnumero 319) ja harrastan tilastotiedettä. Luennoin satunnaisesti todennäköisyyslaskennan kurssia, meemeilen tilastotieteestä Twitterissä ja olen ylpeä moodilainen! Suhteeni tilastotieteeseen on kuitenkin niin kipeä, että valmistuttuani soveltavalta matematiikalta aloin opiskelemaan taloustiedettä.
 2. Tilastotieteilijän tulisi äänestää edustajistovaaleissa samasta syystä kuin muidenkin ihmisryhmien: edustuksellinen demokratia toimii kivemmin, ja lisäksi on kaikille hyödyksi, että päätöksentekoon valitaan tilastotiedettä ymmärtäviä henkilöitä.

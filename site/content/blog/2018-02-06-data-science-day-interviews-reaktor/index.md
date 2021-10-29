@@ -1,6 +1,7 @@
 ---
 title: "Data Science Day Interviews: Reaktor"
 date: "2018-02-06"
+author: "Krapula-Ahti"
 ---
 
 Tyyppiarvon Data Science -päivä -haastattelusarja julkaistaan poikkeuksellisesti englanniksi, sillä itse tapahtuma on englanninkielinen.

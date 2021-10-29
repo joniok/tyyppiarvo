@@ -1,11 +1,10 @@
 ---
 title: "Harhainen estimaatti suunnitteli Unicafélle uudet ruokalistat"
 date: "2017-05-17"
+author: "Harhainen Estimaatti"
 ---
 
- 
-
-\[caption id="" align="aligncenter" width="401"\]![](http://gdurl.com/159e) Kuva: pixabay.com\[/caption\]
+ ![](./chicken-cutlet-1351331_960_720.jpg)
 
 Viimeviikkoisen Flooran päivän myötä yliopistolla siirryttiin kesäkauteen. Opiskelijat viettävät aikansa raatamalla alipalkattuja kesätöitä, muutama onnekas myös lomailemalla tai raatamalla kohtuullisesti palkattuja kesätöitä. Edes Unicafé Exactumissa kiire ei kesälläkään hellitä, vaan matematiikan laitoksen kellarissa suunnitellaan kuumeisesti uusia ruokalajeja seuraavalle lukuvuodelle.
 

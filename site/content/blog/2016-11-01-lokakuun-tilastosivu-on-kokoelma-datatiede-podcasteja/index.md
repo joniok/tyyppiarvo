@@ -1,6 +1,7 @@
 ---
 title: "Lokakuun tilastosivu on kokoelma datatiede-podcasteja"
 date: "2016-11-01"
+author: "Tuomo Nieminen"
 ---
 
 _Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Lokakuun sivusto on Matt Fogelin [kokoelma](https://medium.com/swlh/the-7-best-data-science-and-machine-learning-podcasts-e8f0d5a4a419#.1km09665t) datatiede- ja koneoppimisaiheisia podcasteja._

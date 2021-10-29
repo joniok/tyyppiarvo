@@ -1,13 +1,12 @@
 ---
 title: "Opintoblogi: Huono kuuluvuus ja tasaisen tappavaa pyörimistä"
 date: "2017-03-25"
+author: "Riku Laine"
 ---
 
 _Opintoblogissa tilastotieteen opintoasioista vastaavat henkilöt kirjoittavat ajankohtaisista opintoihin liittyvistä asioista._
 
 * * *
-
-**Riku Laine**
 
 Iso pyörä -uudistus puksuttaa eteenpäin raiteellaan vakionopeudella. Tavan opiskelija on saanut lukuvuoden kolmannen periodin survottua loppuun ja viimeinen rutistus ennen kesää on vielä edessä. Vaikka Iso pyörä -linjalla on ollut toisinaan kehnompi kuuluvuus ja kaikki tieto ei ole välttämättä valunut aina langoilla eteenpäin, niin vikaa on saattanut olla myös laiskassa soittajassa. Soittaa ei jaksa, kun kerrottavaa on vähänlaisesti: työryhmätyöt etenevät kaikilla rintamilla omissa tahdeissaan ja tietoa ylätason linjauksista odotellaan ennen kuin kannattaa heittää koksia pesään, jotta energiankäyttö olisi optimaalista.
 

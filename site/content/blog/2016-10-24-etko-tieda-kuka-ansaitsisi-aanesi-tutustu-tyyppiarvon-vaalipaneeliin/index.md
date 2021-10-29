@@ -1,6 +1,7 @@
 ---
 title: "Etkö tiedä, kuka ansaitsisi äänesi? Tutustu Tyyppiarvon vaalipaneeliin!"
 date: "2016-10-24"
+author: "Aapeli Nevala"
 ---
 
 Haluaisitko äänestää ylioppilaskunnan edustajistovaaleissa, vaikka yhtään kaveria ei ole ehdolla, muttet jaksa erityisesti selvittää kenelle ääni pitäisi antaa? Ei hätää, sillä Tyyppiarvon edarivaalipaneeli on täällä!
@@ -29,7 +30,7 @@ y
 
 * * *
 
-\[caption id="" align="alignnone" width="404"\]![Laura Sinisalo](http://gdurl.com/dyBp) Laura Sinisalo\[/caption\]
+<!-- \[caption id="" align="alignnone" width="404"\]![Laura Sinisalo](http://gdurl.com/dyBp) Laura Sinisalo\[/caption\] -->
 
 Laura Sinisalo, 85
 
@@ -43,7 +44,7 @@ Laura Sinisalo, 85
 
 * * *
 
-\[caption id="" align="alignnone" width="512"\]![Heikki Turunen](http://gdurl.com/Lhh3) Heikki Turunen\[/caption\]
+<!-- \[caption id="" align="alignnone" width="512"\]![Heikki Turunen](http://gdurl.com/Lhh3) Heikki Turunen\[/caption\] -->
 
 Heikki Turunen, 333
 
@@ -55,7 +56,7 @@ Heikki Turunen, 333
 
 * * *
 
-\[caption id="" align="alignnone" width="266"\]![Joni Oksanen. Kuva: Saku Metsärinne](http://gdurl.com/SN6W) Joni Oksanen. Kuva: Saku Metsärinne\[/caption\]
+<!-- \[caption id="" align="alignnone" width="266"\]![Joni Oksanen. Kuva: Saku Metsärinne](http://gdurl.com/SN6W) Joni Oksanen. Kuva: Saku Metsärinne\[/caption\] -->
 
 Joni Oksanen, 350
 
@@ -69,7 +70,7 @@ Joni Oksanen, 350
 
 * * *
 
-\[caption id="" align="alignnone" width="442"\]![Topias Tolonen](http://gdurl.com/wEi6) Topias Tolonen\[/caption\]
+<!-- \[caption id="" align="alignnone" width="442"\]![Topias Tolonen](http://gdurl.com/wEi6) Topias Tolonen\[/caption\] -->
 
 Topias Tolonen, 495
 

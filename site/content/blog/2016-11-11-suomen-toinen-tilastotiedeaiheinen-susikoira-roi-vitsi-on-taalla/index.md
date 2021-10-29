@@ -1,9 +1,12 @@
 ---
 title: "Suomen toinen tilastotiedeaiheinen Susikoira Roi -vitsi on täällä!"
 date: "2016-11-11"
+author: "Krapula-Ahti"
 ---
 
-\[caption id="" align="alignright" width="287"\]![Kuva: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/2b/German_Shepherd_Dog_black_and_red.jpg) Kuva: Wikimedia Commons\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/2/2b/German_Shepherd_Dog_black_and_red.jpg)
+
+_Kuva: Wikimedia Commons_
 
 Kuten [taannoin](http://tyyppiarvo.com/2016/04/suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/) uutisoimme, Roi opiskeli nuorena koirana tilastotiedettä. Roi oli lahjakas ja motivoitunut tilastotieteilijä, jota kiinnosti erityisesti todennäköisyyslaskenta ja sen sovellukset.
 

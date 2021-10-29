@@ -1,9 +1,8 @@
 ---
 title: "Kuinka voittaa ruletissa - ainakin useimpina päivinä"
 date: "2018-06-20"
+author: "Topi Halme"
 ---
-
-**Topi Halme**
 
 Viime syksynä, aikana kun Lauri Markkanen ei ollut vielä jokaisen suomalaisen uusi suosikkiurheilija, Tyyppiarvo julkaisi [jutun](http://tyyppiarvo.com/2017/08/kuuma-kasi-koripallossa-ilmio-vai-illuusio/) niin kutsutun ”kuuma käsi”-ilmiön kiistellystä olemassaolosta koripallossa. Kiistanalainen oli myös jutun vastaanotto, kun allekirjoittanut joutui raivokkaasti puolustamaan skientologiselta vaikuttanutta matematiikkaa niin kasvokkain (fyysiset alterkaatiot pystyttiin pitämään asian tunnelatauksesta huolimatta vähäisinä) kuin milloin missäkin sosiaalisen median kanavassa. \[sosiaaliseksi mediaksi voitaneen tässä yhteydessä laskea myös Tyyppiarvon kommenttipalsta, toim. huom.\]
 
@@ -13,7 +12,7 @@ Ennen kuin palataan edellisessä osassa hämmennystä aiheuttaneeseen lappuja la
 
 Tuntuu itsestäänselvältä, että äitihän se siellä – ja näin luultavasti onkin. Vaikka Jaakko olisi tietysti myös saattanut tilata tomaattikeittoa, äidin tullessa syömään todennäköisyys tomaattikeiton tilaukseen on 100% kun taas Jaakolla vain 1%. Kun molempien tulo oletetaan _a priori_ yhtä todennäköiseksi, osapuolien läsnäolon todennäköisyyksien suhde 100/1. Eli tieto siitä, mitä on valittu, muuttaa sen todennäköisyyttä kuka on valinnut.
 
-Samaa teemaa sivuaa klassinen pulma kolikoista laatikossa_. Olkoon yhdessä laatikossa kaksi kultakolikkoa, yhdessä kaksi hopeakolikkoa ja yhdessä yksi hopea- ja yksi kultakolikko. Nostetaan sattumalta yksi kolikko yhdestä laatikosta, ja huomataan että se on kultainen. Millä todennäköisyydellä saman laatikon toinen kolikko on kultainen?_
+Samaa teemaa sivuaa klassinen pulma kolikoista laatikossa. _Olkoon yhdessä laatikossa kaksi kultakolikkoa, yhdessä kaksi hopeakolikkoa ja yhdessä yksi hopea- ja yksi kultakolikko. Nostetaan sattumalta yksi kolikko yhdestä laatikosta, ja huomataan että se on kultainen. Millä todennäköisyydellä saman laatikon toinen kolikko on kultainen?_
 
 Tämän vastaus on tietysti 50%. Koska ensimmäinen kolikko on kultainen, se ei voi olla laatikosta jossa on pelkkiä hopeakolikoita. Niinpä sen on oltava joko kulta-kulta tai kulta-hopea laatikosta, joista toisessa toinenkin kolikko on kultainen ja toisessa ei. 50%.
 
@@ -23,7 +22,7 @@ Tästä päästäänkin jokaiselle tilastotieteen johdantokurssin käyneelle tut
 
 Kuten tiedetään, oven vaihtaminen kannattaa. Mahdolliset kombinaatiot ovien A ja B takana ennen oven A avaamista ovat vuohi-vuohi, vuohi-auto ja auto-vuohi, joista kaikki ovat tässä vaiheessa yhtä todennäköisiä. Kun tiedetään, että ovi A avataan, ovat vuohi-vuohi ja vuohi-auto ainoat mahdollisuudet, sillä A:n takana on oltava vuohi. Jos vuohi-auto on oikea kombinaatio, on pelin isäntä pakotettu avaamaan oven A. Sen sijaan jos vuohi-vuohi on oikein, olisi oven B voinut avata ihan yhtä hyvin. Siispä kun _tiedetään että ovi A avataan,_ vuohi-auto on todennäköisimmin oikea kombinaatio, sillä silloin ovi A avataan joka kerta. Samoin kuin äidin asioidessa ravintolassa tomaattikeittoa tilataan joka kerta tai käden osuessa sopivaan laatikkoon kultakolikko nostetaan varmuudella. Ja kun vuohi-auto (C:n takana vuohi) on todennäköisempi yhdistelmä kuin vuohi-vuohi (C:n takana auto) kannattaa ovea tietysti vaihtaa.
 
-\[caption id="" align="aligncenter" width="211"\]![](http://gdurl.com/q1u6) Oven takaa kurkistaa vuohi. Kenties, koska pelaaja ei vaihtanut valitsemaansa ovea?\[/caption\]
+![Oven takaa kurkistaa vuohi. Kenties, koska pelaaja ei vaihtanut valitsemaansa ovea?](./montyhall%20vuohi.png)
 
 Nyt on viimein boss-challengen aika. Unettomia öitä aiheuttanut ongelma kuului seuraavasti:
 
@@ -33,13 +32,13 @@ Nostetaan jostain laatikosta sattumalta lappu, ja huomataan että se liittyy hei
 
 Tämä ei kuitenkaan tarkoita sitä, että edeltävä kruunaputki muuttaisi seuraavan heiton todennäköisyyttä, sillä tietenkään seuraavan kolikonheiton tulos ei ole riippuvainen edellisestä. Jos kaikki laput kaikista laatikoista kaadettaisiin yhteen isoon laatikkoon, kruunan todennäköisyys olisi ortodoksisesti 50%. Mutta kun katsotaan rajallisen pituisia ketjuja, joista rajataan heittoja tietyn pituisten edeltävien putkien perusteella, vääristymä syntyy. Koska klaava katkaisee kruunaputken ja siten vähentää lappujen kokonaismäärää laatikossa, bokseissa joissa on paljon klaavoja, on vähän lappuja. Ja kun lasketaan erikokoisten joukkojen suhteellisten osuuksien painottamaton keskiarvo, vääristymä syntyy. Tässä tapauksessa se on kooltaan noin 4 prosenttiyksikköä, minkä epäilevät Tuomaat voivat todeta tällä [R-skriptillä](https://pastebin.com/t6gE5MVr).
 
-![](https://putanumonit.files.wordpress.com/2016/02/gilovich-cornell.png)
+![](./gilovich-cornell.png)
 
 Katsotaan nyt Gilovichin, Vallonen ja Tverskyn [alkuperäisestä tutkimuksesta](http://wexler.free.fr/library/files/gilovich%20(1985)%20the%20hot%20hand%20in%20basketball.%20on%20the%20misperception%20of%20random%20sequences.pdf) napattua taulukkoa, joka oli liitettynä myös edelliseen juttuun. Taulukko liittyy kokeeseen, jossa 26 Cornellin yliopiston pelaajaa laitettiin heittämään 100 heittoa etäisyydeltä, josta osumaprosentti olisi jotakuinkin 50%. Alimmalle riville on laskettu, että kolmea ohiheittoa seuraava heitto menee sisään 45% todennäköisyydellä ja kolmen heiton onnistumisputkea seuraava 49% tarkkuudella. Ei suurta eroa, ei mitään nähtävää. Kuitenkin kuten nokkelimmat ehkä jo osaavatkin aavistaa, kyseiset prosenttiyksiköt on saatu laskemalla yksittäisten pelaajien heittoprosenttien painottamaton keskiarvo! Ja kuten edellisessä kappaleessa opimme, _kun lasketaan erikokoisten joukkojen suhteellisten osuuksien painottamaton keskiarvo, vääristymä syntyy_. Suluissa olevat luvut kertovat kuinka monta heittoa kukin pelaaja otti onnistumis- ja epäonnistumisputkissa (”kuinka monta lappua kussakin korissa oli”), joista voidaan päätellä kaikkien pelaajien yhteenlasketut onnistumiset ja epäonnistumiset (”kaataa laput yhteen koriin”). Nopealla laskennolla todetaan, että kolmea ohiheittoa seuraavat heitot heitettiin yhteensä 161/400 = 40% ja kolmea koria seuraavat heitot 179/313 = 57%. Tämä sisältää kuitenkin valintaharhan: heittäjät jotka ovat kiskoneet kolme heittoa peräkkäin ohi ovat keskimäärin varmasti ylipäätään huonompia heittäjiä kuin kolmen korin putkeen päässeet – huono heittäjä harvemmin pääsee edes kokeilemaan, miltä tuntuu heittää onnistumisputkessa. Luvut eivät siis tuollaisenaan ole myöskään todiste kuuman käden olemassaolosta.
 
 Tämä ei kuitenkaan tarkoita, että Gilovich, Vallone ja Tversky olisivat tahallaan taivutelleet dataansa hypoteeseihinsa sopiviksi. Painottamaton keskiarvo laskettiin mainitun ilmeisen valintaharhan välttämiseksi, eikä sen aiheuttama vääristymä ei ole todellakaan ilmeinen – sitä on juuri epätoivoisesti yritetty avata noin 1000 sanan pituisella selostuksella. [Gilovich itse](http://andrewgelman.com/2017/04/02/gilovich-doubles-hot-hand-denial/) on vieläkin [Kübler-Rossin viiden vaiheen](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model#Stages_of_grief) ykköstasolla.
 
-Loppunäytös: Kuinka voittaa ruletissa
+## Loppunäytös: Kuinka voittaa ruletissa
 
 Pelataan kolme kierrosta rulettia seuraavalla strategialla: Jos edellisellä pyöräytyksellä on tullut musta (M), panostetaan punaiselle (P), muuten ei pelata ollenkaan. (Yksinkertaisuuden vuoksi oletetaan rulettipyörä, jossa ei ole vihreää nollaa. Nolla vaikuttaisi todennäköisyyksiin hieman, muttei niin paljoa, etteikö saatu johtopäätös olisi edelleen voimassa.)
 

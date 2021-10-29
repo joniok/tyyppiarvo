@@ -1,9 +1,8 @@
 ---
 title: "Uhkapelurin tuho eli milloin on parasta lopettaa?"
 date: "2019-03-02"
+author: "Petri Laarne"
 ---
-
-**Petri Laarne**
 
 _Kirjoittaja on toisen vuoden matematiikan opiskelija ja Tyyppiarvon vieraileva kolumnisti. Petrin muihin kirjoituksiin pääset tutustumaan hänen blogissaan_ [_Nollakohdassa_](https://www.nollakohta.fi/)_._
 
@@ -15,17 +14,18 @@ Mutta entäs jos kuitenkin päätät pelata etkä lopeta ajoissa? Tulet kohtaama
 
 ## Ikävän lopun väistämättömyys
 
-Tutkitaan uhkapeleistä yksinkertaisinta, kolikonheittoa.  
+Tutkitaan uhkapeleistä yksinkertaisinta, kolikonheittoa.
 Kruunalla saat euron, klaavalla menetät saman verran.
 
-Jos peliin ryhtyessäsi taskussasi on yksi euro, pääset toiselle kierrokselle 50 % todennäköisyydellä ja muuten joudut poistumaan tyhjin taskuin.  
+Jos peliin ryhtyessäsi taskussasi on yksi euro, pääset toiselle kierrokselle 50 % todennäköisyydellä ja muuten joudut poistumaan tyhjin taskuin.
 Seuraavilla kahdella kierroksella taas on jo kolme vaihtoehtoa:
 
 - saat kaksi kruunaa ja olet jo isorikas (todennäköisyys 25 %),
 - saat peräkkäin kruunan ja klaavan eikä tilanne muutu (50 %), tai
 - saat kaksi klaavaa ja häviät koko pelin (25 %).
 
-Mitä pidemmälle pelissä pääset, sitä pienemmällä todennäköisyydellä häviät kaikki rahasi — mutta olennaisena yksityiskohtana todennäköisyys ei koskaan tipu nollaan. Vaikka todennäköisyys olisi kuinka pieni, nollaa suurempana se tulee väistämättä toteutumaan ennemmin tai myöhemmin.  
+Mitä pidemmälle pelissä pääset, sitä pienemmällä todennäköisyydellä häviät kaikki rahasi — mutta olennaisena yksityiskohtana todennäköisyys ei koskaan tipu nollaan. Vaikka todennäköisyys olisi kuinka pieni, nollaa suurempana se tulee väistämättä toteutumaan ennemmin tai myöhemmin.
+
 Tietenkin lähes kaikissa peleissä häviö on viritetty vieläpä voittoa todennäköisemmäksi, joten tilanne on tätäkin huonompi. Itse asiassa tämä koskee myös niitä pelejä, joissa voitto on todennäköisin vaihtoehto. Taitava pokeriammattilainen saattaa voittaa 52 % peleistään, mutta liian pitkäksi aikaa kasinolle jäädessään joutuu poistumaan tyhjin käsin.
 
 Ihmisen psykologia johtaa uhkapelurin tuhoon. Hyvän voittoputken myötä saatat ajatella onnen (tai pokerin tapauksessa, ehkä vielä vaarallisemmin, taidon) suosivan sinua. Tappioputki saattaa puolestaan kääntyä _ihan kohta_ menetykset korvaavaksi voitoksi, ainakin jos elokuvia on uskominen.
@@ -42,9 +42,7 @@ Sen sijaan seuraava käänne saattaa olla maalaisjärjen vastainen.
 
 Matematiikan hämmästyttävä kyky on kääntää rahapeliongelma ratkaisuksi elämänfilosofiseen kysymykseen. Aku Ankkaa ahmineet saattavat muistaa _höpsismin_ ([ensiesiintyminen AA 1954-06](https://inducks.org/story.php?c=W+WDC+149-01)), filosofian, jossa jokaiseen elämän polunhaaraan vastataan kolikonheitolla. Tarinassa Aku innostuu kokeilemaan ja joutuu kommelluksesta toiseen, mutta matemaattinen fakta on, että höpsismi itse asiassa toimii.
 
-![](https://gdurl.com/9HKi)
-
-Kuva: Petri Laarne
+![](./Flipism.jpg)
 
 Kuvitellaan, että ulkomainen tilastotieteen harjoittaja saapuu Helsingin rautatieasemalle ja haluaa löytää tiensä Kumpulan kampuksen helmeen, opiskelijahuone Survomoon. Koska hän ei osaa seurata Exactumin Unicafesta leijailevaa leivitetyn kalan tuoksua eikä teoreetikkona osaa käyttää karttaa, hän turvautuu höpsismiin. Jokaisessa risteyksessä hän heittää kolikkoa kahdesti ja tekee päätöksen: vasemmalle, oikealle, suoraan vai takaisinpäin?
 
@@ -58,5 +56,5 @@ Kummassakin tapauksessa on todistettua, että kävelyreitti tulee kulkemaan mink
 
 Uhkapelurin tuho seuraa siitä, että yksiulotteinen kävely tulee jossain kohtaa kulkemaan nollan kautta. Vaikka teoriassa polku koukkaisikin taas ylöspäin, reaalimaailmassa tämä selitys ei kelpaa pelinhoitajalle.
 
-Kolmessa ulottuvuudessa tulos ei enää pädekään, vaan mielivaltaiseen pisteeseen päätymisen todennäköisyys on enää [yhden kolmasosan luokkaa](http://mathworld.wolfram.com/PolyasRandomWalkConstants.html).  
+Kolmessa ulottuvuudessa tulos ei enää pädekään, vaan mielivaltaiseen pisteeseen päätymisen todennäköisyys on enää [yhden kolmasosan luokkaa](http://mathworld.wolfram.com/PolyasRandomWalkConstants.html).
 Kuten japanilais-yhdysvaltalaisen matemaatikon **Shizuo Kakutanin** nimiin on laitettu: "Humalainen ihminen löytää kotiinsa, mutta humalainen lintu saattaa eksyä ikiajoiksi."

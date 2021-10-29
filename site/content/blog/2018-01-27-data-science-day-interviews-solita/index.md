@@ -1,6 +1,7 @@
 ---
 title: "Data Science Day Interviews: Solita"
 date: "2018-01-27"
+author: "Krapula-Ahti"
 ---
 
 Tyyppiarvon Data Science -päivä -haastattelusarja julkaistaan poikkeuksellisesti englanniksi, sillä itse tapahtuma on englanninkielinen.

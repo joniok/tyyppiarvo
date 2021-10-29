@@ -1,6 +1,7 @@
 ---
 title: "MoPSille tappio kivikovan salibandysarjan avauksessa"
 date: "2016-10-12"
+author: "Krapula-Ahti"
 ---
 
 **SiVuPePa    8**
@@ -21,11 +22,11 @@ Toisen erän alku oli vihreänä velloneelle kuvitteelliselle katsomolle komeaa 
 
 Hetki tästä ja kiukaalle iskettiin lisää vettä, kun aiemmin lähinnä fyysisenä pelotteena naispelaajia kohtaan tunnettu **Joni Oksanen** blokkasi ensin vahingossa **Vili Vanhala**n laukauksen maalin edessä ja survoi tämän jälkeen itse karat sisään. Miehen raivokas maalituuletus saatiin taltioitua oheiselle videolle:
 
-\[embed\]https://www.youtube.com/watch?v=EY0FNQeQp0Q\[/embed\]
+https://www.youtube.com/watch?v=EY0FNQeQp0Q
 
 Valitettavasti, toisin kuin maalintekijän elkeistä olisi voinut päätellä, peli ei suinkaan ratkennut tähän, vaan SiVuPePa pääsi nopeasti kuittaamaan MoPSin tasoituksen ja toiselle erätauolle mentiin lopulta 5-2-lukemissa.
 
-\[caption id="" align="alignnone" width="217"\]![](http://gdurl.com/7wKG) "Melkein aito" platinablondi Joni Oksanen vastasi MoPSin tasoitusmaalista ja epäilemättä kauden riehakkaimmasta tuuletuksesta.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="217"\]![](http://gdurl.com/7wKG) "Melkein aito" platinablondi Joni Oksanen vastasi MoPSin tasoitusmaalista ja epäilemättä kauden riehakkaimmasta tuuletuksesta.\[/caption\] -->
 
 3\. erä:
 
@@ -37,6 +38,6 @@ Tyyppiarvon reaaliluku- ja realismitoimitus kuitenkin korostaa, että kieltämä
 
 Tyyppiarvon urheilutoimitus olisi kaivannut myös Oksasen kommentteja maalistaan, mutta toimittajiemme saamien tietojen mukaan mies oli jo poistunut saunaan kylvettämään Kanada-maljaa.
 
-\[caption id="" align="alignnone" width="217"\]![Hyökkääjäksi nostettu Santeri Mikkonen avasi maalihanansa MoPSin riveissä.](http://gdurl.com/F2kQ) Hyökkääjäksi nostettu Santeri Mikkonen avasi maalihanansa MoPSin riveissä.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="217"\]![Hyökkääjäksi nostettu Santeri Mikkonen avasi maalihanansa MoPSin riveissä.](http://gdurl.com/F2kQ) Hyökkääjäksi nostettu Santeri Mikkonen avasi maalihanansa MoPSin riveissä.\[/caption\] -->
 
 Tämän päivän kamppailussa MoPSia edustivat Komu, Vanhala, Mikkonen, Oksanen, Lauha, **Tuomas Reiterä**, **Daniel Kari**, **Risko Rikkinen**, **Eero Mikkelä** ja **Ilkka Muukkonen**, sekä Hollannin ja Sveitsin pääsarjoista hankitut try-out-pelaajat **Rogier Blokland** ja **Aron Zürcher**.
