@@ -1,9 +1,10 @@
 ---
 title: "Pärjääkö tilastotiede ennustajakurkulle? Me selvitimme!"
 date: "2016-06-15"
+author: "Tommi Mäklin"
 ---
 
-![](http://s32.postimg.org/e1cb0e22t/kurkku.png)
+![](kurkku_vs_typy.png)
 
 Jalkapallon EM-kisojen otteluiden tuloksia ovat tilastotieteilijöiden ja urheilutoimittajien lisäksi ennustaneet muun muassa mustekala, simpanssi ja papukaija. Vuoden 2016 kunniakkaaseen näkijöiden ammattikuntaan liittyi myös eräs Cucumis-suvun yksivuotinen ruohovartinen vihanneskasvi: suomalainen ennustajakurkku. Kurkku mallintaa pelaavien joukkueiden voittotodennäköisyyksiä pyörähtämällä akselinsa ympäri ja osoittaen punnituslapun merkitsemällä päällään kohti valitsemaansa joukkuetta. Ennustajakurkun mukaisia voimasuhteita voi seurata vihanneksen [Facebook-sivulla](https://www.facebook.com/ennustajakurkku/).
 
@@ -11,77 +12,19 @@ Tyyppiarvo julkaisi oman käsityksensä alkulohkojen kulusta kisojen alkaessa Ra
 
 Käytimme aineistona keskiviikkoon 15.6. mennessä pelattujen otteluiden tuloksia. Ennustajakurkun ja Tyyppiarvon vinkit jo pelattuihin otteluihin olivat (ottelun voittaja boldattu, tasatilanteessa molemmat):
 
-Peli
-
-Ennustajakurkku
-
-Tyyppiarvo
-
-Albania - **Sveitsi**
-
-**Sveitsi**
-
-**Sveitsi**
-
-**Wales** - Slovakia
-
-**Wales**
-
-Slovakia
-
-**Englanti - Venäjä**
-
-Venäjä
-
-Englanti
-
-Turkki - **Kroatia**
-
-**Kroatia**
-
-**Kroatia**
-
-**Puola** - Pohjois-Irlanti
-
-**Puola**
-
-**Puola**
-
-**Saksa** - Ukraina
-
-Tasapeli
-
-**Saksa**
-
-**Espanja** - Tsekki
-
-**Espanja**
-
-**Espanja**
-
-**Irlanti** - **Ruotsi**
-
-Irlanti
-
-Ruotsi
-
-Belgia - **Italia**
-
-Belgia
-
-Belgia
-
-Itävalta - **Unkari**
-
-**Unkari**
-
-Itävalta
-
-**Portugali** - **Islanti**
-
-Portugali
-
-Portugali
+Peli | Ennustajakurkku | Tyyppiarvo |
+-- | -- | -- |
+Albania - **Sveitsi** | **Sveitsi** | **Sveitsi** |
+**Wales** - Slovakia | **Wales** | Slovakia |
+**Englanti - Venäjä** | Venäjä | Englanti |
+Turkki - **Kroatia** | **Kroatia** | **Kroatia** |
+**Puola** - Pohjois-Irlanti | **Puola** | **Puola** |
+**Saksa** - Ukraina | Tasapeli | **Saksa** |
+**Espanja** - Tsekki | **Espanja** | **Espanja** |
+**Irlanti** - **Ruotsi** | Irlanti | Ruotsi |
+Belgia - **Italia** | Belgia | Belgia |
+Itävalta - **Unkari** | **Unkari** | Itävalta |
+**Portugali** - **Islanti** | Portugali | Portugali |
 
 Keskiviikkoaamuun mennessä pelattujen pelien perusteella johtaa ennustajakurkku tilastotiedettä yhden ottelun erolla.
 

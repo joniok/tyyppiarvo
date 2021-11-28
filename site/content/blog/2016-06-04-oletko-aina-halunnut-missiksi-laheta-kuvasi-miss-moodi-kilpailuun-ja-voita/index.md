@@ -1,6 +1,7 @@
 ---
 title: "Oletko aina halunnut missiksi? Lähetä kuvasi Miss Moodi -kilpailuun ja voita!"
 date: "2016-06-04"
+author: "Aapeli Nevala"
 ---
 
 Oletko halunnut voittaa missikilpailun, mutta samalla sinusta on tuntunut siltä, että kisatuomariston subjektiivinen näkemys kauneudesta on ollut ristiriidassa oman käsityksesi kanssa?
@@ -11,7 +12,7 @@ Kilpailu toimii seuraavalla tavalla: lähetä valokuvasi osoitteeseen tyyppiarvo
 
 Emme katso siviilisäätyyn, sukupuoleen tai juuri mihinkään muuhunkaan. Ainoa kriteeri on Moodi ry:n jäsenyys.
 
-\[caption id="" align="alignnone" width="367"\]![](http://gdurl.com/GQdH) Kuva: Joni Oksanen.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="367"\]![](http://gdurl.com/GQdH) Kuva: Joni Oksanen.\[/caption\] -->
 
 Miss Moodi ja perintötilastotieteilijät valitaan **Tuomo Niemisen** kehittämällä [pettämättömällä missiennustimella](http://tyyppiarvo.com/2016/05/tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/), joka estimoi Miss Suomi 2016 -kilpailuissa kaksi "kolmen kärjestä" oikein!
 

@@ -1,13 +1,8 @@
 ---
 title: "Pääkirjoitus: Lopetetaan tilastotieteestä puhuminen"
 date: "2016-09-05"
+author: "Aapeli Nevala"
 ---
-
-![](https://photos-3.dropbox.com/t/2/AADu_n0-cd7nl26uh7rywrsJy155KUi59BWW9pYOHhhLLw/12/159617815/png/32x32/1/_/1/2/Screen%20Shot%202016-09-05%20at%2016.21.06.png/EJXd8nkYJSAHKAc/vBNx4sgA9a9I8XtYtDyPAZiBS8G3OROKAQsKaQTwwgw?size=1024x768&size_mode=3)
-
-* * *
-
-_Aapeli Nevala, teksti_
 
 Olin ensitöikseni Tyyppiarvon päätoimittajana juttelemassa **Kimmo Vehkalahden** kanssa Suomen ensimmäisestä tilastotieteen MOOC-kurssista. Keskustelu oli antoisa niin kauan, kun pysyimme poissa aiheesta. Ei siksi, että MOOC-kurssissa ei ole vikaa, mutta juttuaihe oli kamala.
 

@@ -1,11 +1,12 @@
 ---
 title: "Nyt se alkaa! - Katso MoPSin joukkue-esittely ennen kauden avausvihellystä"
 date: "2016-09-26"
+author: "Krapula-Ahti"
 ---
 
 Unisportin jalkapalloliiga pyörähtää MoPSin ja VOO:n yhteisjoukkueen FC MoJon osalta käyntiin tänään, maanantaina, ottelulla FC Hammertimea vastaan. MoPSin joukkue koostuu kaudella 2016-2017 pitkälti tutuista luottopelaajista, mutta mukana on myös reilu tukku uusia fukseja, joiden otteita pelikentillä vihreäpaitojen kuvitteelliset fanit odottavat suurella mielenkiinnolla. Tyyppiarvon urheilutoimitus esittelee MoPSin tämänhetkisen sopimustilanteen mukaiset pelaajat, jotka muodostavat koiralauman ensi kauden rungon.
 
-![](https://doc-14-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/t2mm30fodegrln6dki5d0p5mu12uo2gu/1475085600000/08849784491103088722/*/0B_b9XIivn7p3RnVrSU1GRGt3dU0)
+![](ville.jpg)
 
 **Ville Hyvönen**
 
@@ -17,7 +18,7 @@ Vahvuudet: Luotettava puolustuspelaaminen, pääpeli ja painava rintapotku.
 
 Heikkoudet: Musiikkimaku, ajoittain pallollisena virhealtis.
 
-![](https://doc-0c-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rr5cpn6p2r57ueohue3fetvnefhmrdv5/1475085600000/08849784491103088722/*/0B_b9XIivn7p3YlllSW1FaFdZY0k)
+![](daniel.jpg)
 
 **Daniel Kari**
 
@@ -29,7 +30,7 @@ Vahvuudet: Katso Suurimmat saavutukset.
 
 Heikkoudet: Syksyn 2014 jälkeen ei ole maaleja näkynyt.
 
-![](http://gdurl.com/0qw1)
+![](patrik.jpg)
 
 **Patrik Lauha**
 
@@ -41,7 +42,7 @@ Vahvuudet: Johtajamentaliteetti ja halu ratkaista otteluita, likaisen nopeat kä
 
 Heikkoudet: Kunto. Jalkapallokentillä ansaittu lempinimi Atomu Tanakka kertoo kaiken olennaisen.
 
-![](https://doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/le49dsvjtaoiepud1ln38ug4uj5d5eg7/1475085600000/08849784491103088722/*/0B_b9XIivn7p3SzZxR2lpMkNBMUE)
+![](santeri.jpg)
 
 **Santeri Mikkonen**
 
@@ -53,7 +54,7 @@ Vahvuudet: Leveät pohkeet, terävä laukaus.
 
 Heikkoudet: Ylipaino.
 
-![](https://doc-10-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/hj8bb3hs3v1m0ohvnb0040b6b1c8t6pg/1475085600000/08849784491103088722/*/0B_b9XIivn7p3cGdwTGJLdl90V2M)
+![](aapeli.jpg)
 
 **Aapeli Nevala**
 
@@ -77,7 +78,7 @@ Vahvuudet: Tasa-arvo.
 
 Heikkoudet: Liian läheinen HYY:n (Helsingin Yliopiston Ylioppilasmafia) kanssa.
 
-![](https://doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iln1f2bjd78svnfj7asvk78sq7mo6me7/1475085600000/08849784491103088722/*/0B_b9XIivn7p3cFk3ZVlmLWEyeXc)
+![](tuomas.jpg)
 
 **Tuomas Reiterä**
 
@@ -89,7 +90,7 @@ Vahvuudet: Omistautuminen, kunto ja tahtotila. Vahvistamattomien huhujen mukaan 
 
 Heikkoudet: Tekniikka ja tosipaikoissa sulaminen.
 
-![](https://doc-0c-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/e04dik8r844l5q7eo5pmu44ep8cvki2l/1475085600000/08849784491103088722/*/0B_b9XIivn7p3WkFVSksxc25zdkE)
+![](SEBU.jpg)
 
 **Sebastian Veijola**
 
@@ -111,9 +112,11 @@ Vahvuudet: Peliäly, tekniikka ja fysiikka.
 
 Heikkoudet: Rankkarit pistetään sisään...
 
+---
+
 Vanhojen sotaratsujen lisäksi MoPSin valmennusjohto on nostanut MoPSin junioriakatemiasta lukuisia lupaavia pelaajia kamppailemaan peliajasta edarissa. Spielführer Patrik Lauhan mukaan nuorilta on lupa odottaa paljon: ”Nämä ovat kovia ammattilaisia, jotka ovat käyneet meidän tiukat juniorimyllyt läpi. Jokaisella on kyky ratkaista pelejä ja vyöllä kovia suorituksia junnupeleistä. En näe mitään syytä, miksi akatemiasta nostetut pelaajat eivät pystyisi ottamaan paikkaansa joukkueessa ja nostamaan meidän tason vielä pykälää korkeammalle viime vuodesta.”
 
-![](https://doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ihr5hdkvspr6ndbd4t6emv2tcql5hmss/1475085600000/08849784491103088722/*/0B_b9XIivn7p3RFl6c3lNaTdiWjg)
+![](marius.jpg)
 
 **Marius Eklund**
 
@@ -125,7 +128,7 @@ Vahvuudet: Likaisen liberon suurimpia vahvuuksia ovat naiset ja poolopaidat.
 
 Heikkoudet: Rystylyönti.
 
-![](https://doc-14-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/o94pfd5etrugho6dfp7gujt7b08h62o9/1475085600000/08849784491103088722/*/0B_b9XIivn7p3YmpwMWVmTldNam8)
+![](pinja.jpg)
 
 **Pinja Mero**
 

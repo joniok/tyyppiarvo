@@ -1,6 +1,7 @@
 ---
 title: "Harhainen estimaatti: Opettele nämä käsitteet, fuksi"
 date: "2016-08-03"
+author: "Harhainen Estimaatti"
 ---
 
 _Syksy lähestyy ja tuutorivastaavat vääntävät fuksioppaisiinsa sanastoja, joilla uudet opiskelijat voidaan integroida tehokkaasti yliopistoyhteisön kunniakkaiksi, tuottaviksi jäseniksi. Auttaakseen tuutorivastaavia Tyyppiarvon blogaaja Harhainen estimaatti päätti luoda tilastotieteilijöille suunnatun, hyvin sisäänpäin lämpeävän fuksisanaston._
@@ -59,7 +60,8 @@ R - Tilastotieteilijöiden suosima ilmainen ohjelmointikieli, joka on soveltajil
 
 Sambia-päivät - Unicafen teemaviikko, jonka avulla saatiin kikhernevarastot tyhjennettyä ennen viimeistä käyttöpäivää.
 
-\[caption id="" align="alignnone" width="508"\]![Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/70/Larp_Drachenfest_2012_(stseen_lõpulahingust).JPG) Kuva Moodin synttärisitseiltä (ei larppausta). (Wikimedia Commons)\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/7/70/Larp_Drachenfest_2012_(stseen_lõpulahingust).JPG)
+_Kuva Moodin synttärisitseiltä (ei larppausta). (Wikimedia Commons)_
 
 Sitsit - Joukko yliopisto-opiskelijoita kokoontuu samaan huoneeseen juomaan, pitämään puheita ja laulamaan. Ei ole larppausta, ei varmasti ole.
 

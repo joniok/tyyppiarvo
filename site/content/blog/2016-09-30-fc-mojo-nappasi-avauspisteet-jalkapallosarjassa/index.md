@@ -1,6 +1,7 @@
 ---
 title: "FC MoJo nappasi avauspisteet jalkapallosarjassa!"
 date: "2016-09-30"
+author: "Krapula-Ahti"
 ---
 
 **FC MoJo             2**
@@ -19,8 +20,8 @@ Toisella puoliajalla MoJo lähti aktiivisesti jahtaamaan tasoitusta, mutta koki 
 
 Loppukiriä kentälle juonimaan komennetun sankarikentällisen uurastus palkittiin, kun keskikentän taiteilija **Pauli Unkuri** pääsi boksissa pudottamaan pallon Veijolalle, joka latasi MoJon tasoitusmaalin. Enempää osumia ei ottelussa nähty ja tuloksen 2-2 myötä FC MoJo saalisti avauspisteensä, jonka arvoa ei tämän vuoden kovatasoisessa sarjassa pidä aliarvioida.
 
-\[caption id="" align="alignnone" width="217"\]![Sebastian Veijola nousi kahdella maalillaan MoJon sisäisen pistepörssin kärkeen. Veijola johtaa nyt sekä maali- että pistepörssiä tehoilla 3,5+0.](http://gdurl.com/SRBg) Sebastian Veijola nousi kahdella maalillaan MoJon sisäisen pistepörssin kärkeen. Veijola johtaa nyt sekä maali- että pistepörssiä tehoilla 3,5+0.\[/caption\]
+<!-- \[caption id="" align="alignnone" width="217"\]![Sebastian Veijola nousi kahdella maalillaan MoJon sisäisen pistepörssin kärkeen. Veijola johtaa nyt sekä maali- että pistepörssiä tehoilla 3,5+0.](http://gdurl.com/SRBg) Sebastian Veijola nousi kahdella maalillaan MoJon sisäisen pistepörssin kärkeen. Veijola johtaa nyt sekä maali- että pistepörssiä tehoilla 3,5+0.\[/caption\] -->
 
-FC MoJon osallistujaennätystä tekemässä olivat MoPSista Veijola, Juuti, Reiterä, Uski, Lauha, **Aleksi Laiho** sekä **Samuel Laulainen** ja Jormista Unkuri, Pulliainen**,** Kari, **Aron** **Zürcher**, **Lasse Keinonen** sekä **Salla Alisa**.
+FC MoJon osallistujaennätystä tekemässä olivat MoPSista Veijola, Juuti, Reiterä, Uski, Lauha, **Aleksi Laiho** sekä **Samuel Laulainen** ja Jormista Unkuri, Pulliainen, Kari, **Aron** **Zürcher**, **Lasse Keinonen** sekä **Salla Alisa**.
 
 Tsempparipalkinnot jaettiin ottelun jälkeen Uskille, joka taisteli väsymättä lähes pelin loppuun asti kolhuista ja kivuista huolimatta ja Reiterälle sekä Lauhalle, jotka jäivät apujoukoiksi vielä seuraavaan peliin pitämään Dilemman puolustuslinjaa pystyssä.

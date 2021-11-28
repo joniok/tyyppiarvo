@@ -1,11 +1,12 @@
 ---
 title: "Harhainen estimaatti: Päällystämällä yrityslähtöisyyttä yliopistoon"
 date: "2016-06-21"
+author: "Harhainen Estimaatti"
 ---
 
-![](http://blogs.helsinki.fi/moodi-ry/files/2016/06/paallystin2.png)
+![](paallystin2.png)
 
-_Muuttuvassa modernissa yhteiskunnassa yliopistoelämän pitää muuttua yrityslähtöisemmäksi ja pyrkiä jatkuvasti innovoimaan uusia business-ideoita, joita voidaan välittömästi soveltaa työelämään. Tarvitaan laatua, tehokkuutta ja vaikuttavuutta parantavia uudistuksia ([Grahn-Laasonen, 2016](http://Tarvitaan laatua, tehokkuutta ja vaikuttavuutta parantavia uudistuksia.)). Tyyppiarvon blogisti Harhainen estimaatti astui pöhinäkeskukseen ja innovoi nyt Moodi ry:lle kannattavaa yritystoimintaa, jonka avulla saadaan Suomi nousuun._
+_Muuttuvassa modernissa yhteiskunnassa yliopistoelämän pitää muuttua yrityslähtöisemmäksi ja pyrkiä jatkuvasti innovoimaan uusia business-ideoita, joita voidaan välittömästi soveltaa työelämään. Tarvitaan laatua, tehokkuutta ja vaikuttavuutta parantavia uudistuksia (Grahn-Laasonen, 2016). Tyyppiarvon blogisti Harhainen estimaatti astui pöhinäkeskukseen ja innovoi nyt Moodi ry:lle kannattavaa yritystoimintaa, jonka avulla saadaan Suomi nousuun._
 
 "Moodi ry aloittaa teiden rakentamisen ja yleisen infrastruktuurin ylläpitopalvelujen järjestämisen suunnittelut vuonna 2016.
 

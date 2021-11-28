@@ -1,13 +1,14 @@
 ---
 title: "Kun algoritmi korvasi käsikirjoittajan"
 date: "2016-07-04"
+author: "Petteri Mäntymaa"
 ---
 
 Ihmisten irvikuvia, katkera kolmiodraama, dialogeja jotka venyvät tajunnanvirtaisiksi monologeiksi. Kaurismäkeläistä surrealismia parhaimmillaan? Ei, kyseessä [Sunspring](http://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/) –niminen lyhytelokuva, jonka on käsikirjoittanut – kyllä, algoritmi.
 
 Algoritmi, joka kutsuu itseään nimellä **Benjamin** on entrepreneur-teknologisti **Ross Goodwinin** ja elokuvantekijä **Oscar Sharpin** yhteistyöstä syntynyt maailman ensimmäinen automaattinen käsikirjoittaja.
 
-Siinä missä Tyyppiarvon [sivullakin](http://tyyppiarvo.com/2016/03/automaattinen-kolumnisti-becoming-alexander-stubb/) esittäyvän ja twitterissä seikkailevan Markovin ketjulla raksuttavan [StubbBotin](https://twitter.com/StubbBot) lähimuisti esikuvalleenkin uskollisesti reistailee, Benjaminin koneen alla nakuttaa monimutkaisempi algoritmi, jolle koulutuslupauksenkaan muistaminen ei olisi ongelma. Benjamin taustalla on erityinen neuraaliverkko, puheen- ja tekstintunnistuksessa käytetty [Long Short Term Memory Recurrent Neural Network](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+Siinä missä Tyyppiarvon [sivullakin](../2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/index.md) esittäyvän ja twitterissä seikkailevan Markovin ketjulla raksuttavan [StubbBotin](https://twitter.com/StubbBot) lähimuisti esikuvalleenkin uskollisesti reistailee, Benjaminin koneen alla nakuttaa monimutkaisempi algoritmi, jolle koulutuslupauksenkaan muistaminen ei olisi ongelma. Benjamin taustalla on erityinen neuraaliverkko, puheen- ja tekstintunnistuksessa käytetty [Long Short Term Memory Recurrent Neural Network](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 
 Output-käsikirjoitusta varten Benjaminiin ajettiin lähdeaineistona pitkä liuta tunnettujen scifielokuvien käsikirjoituksia. Sunspringiä voikin pitää eräänlaisena keskimääräisenä scifielokuvana, sillä Benjamin on pyrkinyt tunnistamaan toistuvia kuvioita rytmityksen, sanavalintojen ja kokonaisten kappaleiden suhteen.LTSM vahvuuksiksi katsotaankin kyky ennustaa laajempia kokonaisuuksia, kuten kokonaisia kappaleita yksittäisten sanojen sijaan.
 
