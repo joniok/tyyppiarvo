@@ -1,7 +1,7 @@
 ---
 title: "Lähes täysin moodilainen FC Jormat kyykytti Ihmepalloa - \"Miksi me edes pelataan niiden nimellä\""
 date: "2016-02-03"
-coverImage: "fudis.jpg"
+author: "Aapeli Nevaal"
 ---
 
 Moodin ja VOO:n yhteisjoukkue FC Jormat kaatoi keskiviikkona suomen mestarit, kun Kumpulan Camp Noulla jyrän alle joutui suomen kielen opiskelijoiden FC Ihmepallo.

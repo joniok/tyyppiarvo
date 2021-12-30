@@ -1,13 +1,14 @@
 ---
 title: "Huhtikuun tilastosivu on Kaggle, data sciencen koti"
 date: "2016-04-11"
+author: "Tuomo Nieminen"
 ---
 
-_Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Huhtikuun sivusto on data scientisteja ja yrityksiä maailmanlaajuisesti yhdistävä, **Anthony Goldbloom**in vuonna 2010 perustama_ [Kaggle](https://www.kaggle.com/).
+_Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Huhtikuun sivusto on data scientisteja ja yrityksiä maailmanlaajuisesti yhdistävä, **Anthony Goldbloom**in vuonna 2010 perustama_ [Kaggle](https://www.kaggle.com/).
 
 * * *
 
-\[caption id="" align="alignnone" width="668"\]![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png) Kaggle logo, tekijä databuff\[/caption\]
+![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
 
 Kaggle on paikka, jossa ongelmat ja niiden ratkojat kohtaavat toisensa. Kaggle julkaisee ongelmia ja niihin liittyvää dataa, ja sitten kymmenet tai sadat data scientist -tiimit kilpailevat siitä, kuka ratkaisee kyseisen ongelman parhaiten.
 

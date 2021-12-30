@@ -1,15 +1,15 @@
 ---
 title: "Toukokuun tilastosivu on Cross Validated, vastausten foorumi"
 date: "2016-05-18"
+author: "Tuomo Nieminen"
 ---
 
-_Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Toukokuun sivusto on [Cross Validated](http://stats.stackexchange.com/),  Joel Spolskyn ja Jeff Atwoodin vuonna 2008 perustaneen kysy & vastaa sivuston [Stack Exchange](http://stackexchange.com/)n alisivu._
+_Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Toukokuun sivusto on [Cross Validated](http://stats.stackexchange.com/), Joel Spolskyn ja Jeff Atwoodin vuonna 2008 perustaneen kysy & vastaa sivuston [Stack Exchange](http://stackexchange.com/)n alisivu._
 
 * * *
 
- 
-
-\[caption id="" align="alignright" width="264"\]![](http://cdn.sstatic.net/Sites/stats/img/apple-touch-icon@2.png?v=344f57aa10cc&a) Cross Validated -sivuston logo. http://stats.stackexchange.com/\[/caption\]
+<!--
+\[caption id="" align="alignright" width="264"\]![](http://cdn.sstatic.net/Sites/stats/img/apple-touch-icon@2.png?v=344f57aa10cc&a) Cross Validated -sivuston logo. http://stats.stackexchange.com/\[/caption\] -->
 
 [Stack Exchange](http://stackexchange.com/) on verkosto kysy & vastaa foorumeita, joiden suosituin edustaja on ohjelmoinnin kysymyksiin keskittyvä [Stack Overflow.](http://stackoverflow.com/) Stack Overflowsta copypastaaminen onkin luultavasti aloittelevan ohjelmoijan toistetuin työvaihe.
 

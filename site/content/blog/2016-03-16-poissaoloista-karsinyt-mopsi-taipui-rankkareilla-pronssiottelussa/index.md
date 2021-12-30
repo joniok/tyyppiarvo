@@ -1,6 +1,7 @@
 ---
 title: "Poissaoloista kärsinyt MoPSi taipui rankkareilla pronssiottelussa"
 date: "2016-03-16"
+author: "Krapula-Ahti"
 ---
 
 Viime viikolla Kevätklassikon voittopokaalia nostellut MoPSi joutui lähtemään salibandysarjan pronssiotteluun Kroonikoita vastaan pahasti alivoimaisena. Pois pronssiottelun kokoonpanosta olivat jääneet muun muassa seuraavat jerekaralahdet: joukkueen tehokkain pelaaja Reitsi, puolustuslinjan vakiokasvo Hessu sekä hyökkäykseen tuoreutta tuonut Make.

@@ -1,9 +1,12 @@
 ---
 title: "MoPSille jatkoaikavoitto trilleriksi venyneessä Kevätklassikossa!"
 date: "2016-03-09"
+author: "Krapula-Ahti"
 ---
 
-\[caption id="" align="alignnone" width="800"\]![](https://lh3.googleusercontent.com/-Ed6SOlL89Aw/VuBpNe89fvI/AAAAAAAAE44/PKDi3b4qKHA/s800-Ic42/viiri-patrik.jpg) Spielführer Lauha ojentaa Moodin viirin KTTO:n urheiluvastaava Antti Komulle ennen ottelun alkua.\[/caption\]
+![](viiri-patrik.jpg)
+
+_Spielführer Lauha ojentaa Moodin viirin KTTO:n urheiluvastaava Antti Komulle ennen ottelun alkua._
 
 Kevään odotetuimman urheilutapahtuman aika koitti viimein keskiviikkona, kun Moodi ja KTTO marssittivat kovimmat pelimiehensä sekä kovimman pelinaisen Hakaniemen Isku-areenalle kamppailemaan ensimmäistä kertaa perinteisen Kevätklassikon voitosta.
 
@@ -27,6 +30,8 @@ MoPSi painoi ankarasti päälle jatkoajan alusta lähtien ja montaa minuuttia ei
 
 Selvittyään railakkaan juhlinnan jälkeen lopulta lehdistötilaisuuteeen, pelin ratkaisija ei unohtanut antaa kunniaa hyvin pelanneelle vastustajalle: "Se oli isät vastaan pojat, oltiin ylivoimasia", Lauha totesi. "Tän hetken tunnetila on et niiden ykkösketju oli meille fila", komppasi MoPSi-valmentaja Erkka Easterlund siteeraten muuan suomalaista rap-artistia.
 
-\[caption id="" align="alignnone" width="800"\]![](https://lh3.googleusercontent.com/-6OQSfgrv0us/VuBp5enhfrI/AAAAAAAAE5M/gXABxzifbXg/s800-Ic42/joukkuekuva.jpg) MoPSin kokoonpano Kevätklassikossa. Ylhäältä vasemmalta lukien M. Lauha, Reiterä, Antero Liukkonen, Hyhkö, Östman, Kumpula, Oksanen, P. Lauha, Mikkonen ja maalivahti Kari.\[/caption\]
+![](joukkuekuva.jpg)
+
+_MoPSin kokoonpano Kevätklassikossa. Ylhäältä vasemmalta lukien M. Lauha, Reiterä, Antero Liukkonen, Hyhkö, Östman, Kumpula, Oksanen, P. Lauha, Mikkonen ja maalivahti Kari._
 
 Seuraavan kerran MoPSi pelaa ensi viikon keskiviikkona Unisportin salibandysarjan pronssiottelussa.

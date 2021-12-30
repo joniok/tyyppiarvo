@@ -1,13 +1,14 @@
 ---
 title: "Tyyppiarvo ennustaa: ketkä ovat tämän illan Miss Suomi -kilpailun kärkikolmikko?"
 date: "2016-05-13"
+author: "Tuomo Nieminen"
 ---
 
 _Miss Suomi 2016 -kilpailu ratkeaa tänään. Kilpailua voi seurata neloselta 20:00 alkaen. HUOMI! Tämä juttu sisältää tilastollisia spoilereita._
 
- 
+![](https://upload.wikimedia.org/wikipedia/commons/3/35/Miss_Suomi_1965,_Virpi_Miettinen.jpg) 
 
-\[caption id="" align="aligncenter" width="296"\]![](https://upload.wikimedia.org/wikipedia/commons/3/35/Miss_Suomi_1965,_Virpi_Miettinen.jpg) Miss Suomi 1965, Virpi Miettinen. Kuva: Wikimedia\[/caption\]
+_Miss Suomi 1965, Virpi Miettinen. Kuva: Wikimedia_
 
 * * *
 
@@ -29,4 +30,4 @@ Kolme kilpailijaa kuitenkin tarttui haasteeseen ja tarjosi Tyyppiarvolle ennuste
 
 Yhdestä näistä kilpailijasta siis tulee ennusteemme mukaan seuraava Miss Suomi. Ennustamme huikean jännittävää ja tiukkaa kilpailua!
 
-Kilpailijoiden kuvia voit katsella esimerkiksi [virallisilta missisivuilta](http://www.misssuomi.fi/) ja itse kilpailu lähetetään nelosella 20:00 alkaen.
+Kilpailijoiden kuvia voit katsella esimerkiksi [virallisilta missisivuilta](http://www.misssuomi.fi/) ja itse kilpailu lähetetään nelosella 20:00 alkaen.

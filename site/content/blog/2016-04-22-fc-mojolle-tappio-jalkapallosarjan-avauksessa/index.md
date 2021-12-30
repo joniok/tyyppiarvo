@@ -1,11 +1,12 @@
 ---
 title: "FC MoJolle tappio jalkapallosarjan avauksessa"
 date: "2016-04-22"
+author: "Krapula-Ahti"
 ---
 
-**FC MoJo    3**
+**FC MoJo 3**
 
-**TF Boys      6**
+**TF Boys 6**
 
 * * *
 

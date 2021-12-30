@@ -1,13 +1,12 @@
 ---
 title: "Automaattinen kolumnisti: Becoming Alexander Stubb"
 date: "2016-03-22"
+author: "Tommi Mäklin"
 ---
 
-_Tyyppiarvon automaattinen kolumnisti tutustuu valtionvarainministeri **Alexander Stubbin** sielunelämään opettamalla itsensä tweettaamaan kokoomushenkisiä 140-merkin kirjainketjuja. Aiemmasta poiketen mallinnus tapahtuu nyt kirjain kirjaimelta edelliset kuusi merkkiä huomoiden, ja tulos on kuin suoraan Stubbin eduskuntavaalikampanjasta vuodelta 2015. Lähdeaineistona on käytetty Stubbin [Twitterissä](https://twitter.com/alexstubb?lang=fi) viimeisen vuoden aikana tweettaamia viestejä._
+_Tyyppiarvon automaattinen kolumnisti tutustuu valtionvarainministeri **Alexander Stubbin** sielunelämään opettamalla itsensä tweettaamaan kokoomushenkisiä 140-merkin kirjainketjuja. Aiemmasta poiketen mallinnus tapahtuu nyt kirjain kirjaimelta edelliset kuusi merkkiä huomoiden, ja tulos on kuin suoraan Stubbin eduskuntavaalikampanjasta vuodelta 2015. Lähdeaineistona on käytetty Stubbin [Twitterissä](https://twitter.com/alexstubb?lang=fi) viimeisen vuoden aikana tweettaamia viestejä._
 
 * * *
-
- 
 
 Stubb vaatii toimenpiteitä. https://twitter.com/StubbBot/status/711891108318617600
 

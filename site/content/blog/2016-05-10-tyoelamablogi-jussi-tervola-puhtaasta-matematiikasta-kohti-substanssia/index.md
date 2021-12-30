@@ -1,9 +1,10 @@
 ---
 title: "Työelämäblogi: Jussi Tervola - Puhtaasta matematiikasta kohti substanssia"
 date: "2016-05-10"
+author: "Jussi Tervola"
 ---
 
-_Jussi Tervola siirtyi valtiotieteelliseen tiedekuntaan lukemaan tilastotiedettä vuonna 2007. Hän tekee väitöskirjaa maahanmuuttajista ja Suomen sosiaalipolitiikasta. Tänä keväänä Tervola on ollut vierailulla Tukholman yliopiston väestötieteen tutkimusyksikössä, missä hän tekee vertailevaa tutkimusta Suomen ja Ruotsin perhevapaajärjestelmistä maahanmuuttajien näkökulmasta._ 
+_Jussi Tervola siirtyi valtiotieteelliseen tiedekuntaan lukemaan tilastotiedettä vuonna 2007. Hän tekee väitöskirjaa maahanmuuttajista ja Suomen sosiaalipolitiikasta. Tänä keväänä Tervola on ollut vierailulla Tukholman yliopiston väestötieteen tutkimusyksikössä, missä hän tekee vertailevaa tutkimusta Suomen ja Ruotsin perhevapaajärjestelmistä maahanmuuttajien näkökulmasta._ 
 
 * * *
 
@@ -11,7 +12,7 @@ Minua pyydettiin kirjoittamaan työelämäblogiin tähänastisesta työ- ja opis
 
 Alussa oli matematiikka. Kun aloitin lukemaan matematiikkaa tuoreella Kumpulan kampuksella vuonna 2005, tiesin, että se pysäkki on hyvin todennäköisesti väliaikainen. Matematiikka oli jollain tasolla intohimoni, mutta toisaalta puhdas matematiikka tuntui tyhjältä ja todellisuudelle vieraalta. Siitä lähtien olenkin enemmän tai vähemmän päämäärätietoisesti siirtynyt kohti substanssia eli sisältöä.
 
-![](http://gdurl.com/KNLf)
+![](jussi_tervola.jpg)
 
 Vuonna 2007 siirryin Valtsikan puolelle tilastotieteeseen. Vaihto soveltavaan tiedekuntaan tuntui jo aimo harppaukselta kohti sisältöä. Se helpotti mm. sivuaineiden lukemista sosiaalitieteistä. Valitsin pitkän sosiologian, joka osoittautui hyväksi valinnaksi. Tosin nyt sanoisin, ettei taloustiedekään olisi ollut pahitteeksi.
 
