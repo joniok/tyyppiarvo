@@ -34,7 +34,7 @@ Ilmosen tutkimuksessa pääpaino on matemaattisessa tilastotieteessä. Häntä k
 
 **Eija-Leena Koponen** valmistui 2012 Helsingin yliopistosta yhteiskuntatilastotieteen-erikoistumislinjalta ja toimii nykyään yrittäjänä.  Hän on aiemmin työskennellyt työ- ja elinkeinoministeriössä sekä Accenturella. Koponen myös opettaa tilastotiedettä peruskäsitteistä faktorianalyysin saloihin. Yrittäjänä hän tekee data-analyysejä ja selvitystöitä kokonaisina toimeksiantoina tai osana isompia projekteja. Hän sanoo pyrkivänsä löytämään datan avulla vastauksen käsillä olevaan kysymykseen ja nostamaan esille tarinan numeroiden takana.
 
-Lisäksi Koponen on toiminut Moodin puheenjohtaja vuonna 2009. Hän kirjoitti maaliskuussa [Tyyppiarvon työelämäblogiin](http://tyyppiarvo.com/2016/03/tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/) tilastotieteilijöiden työmahdollisuuksista ja palkkauksesta.
+Lisäksi Koponen on toiminut Moodin puheenjohtaja vuonna 2009. Hän kirjoitti maaliskuussa [Tyyppiarvon työelämäblogiin](../2016-03-14-tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/index.md) tilastotieteilijöiden työmahdollisuuksista ja palkkauksesta.
 
 Koposen tilastotieteellisen uran jälkikäteen tarkasteltuna hauskimpia sattumia on oma gradutyö, joka meinasi epäonnistua täydellisesti.
 

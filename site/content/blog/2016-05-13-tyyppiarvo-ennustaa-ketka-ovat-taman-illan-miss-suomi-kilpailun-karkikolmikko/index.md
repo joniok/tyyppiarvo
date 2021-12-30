@@ -14,7 +14,7 @@ _Miss Suomi 1965, Virpi Miettinen. Kuva: Wikimedia_
 
  
 
-Noin viikko sitten julkaisimme keräämäämme [aineistoon](https://drive.google.com/folderview?id=0B-GJVgrXR1vqNVc3ZkJFVHZMSVU&usp=sharing) perustuvan [kilpailun](http://tyyppiarvo.com/2016/05/tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/), jossa haasteena oli ennustaa Miss Suomi -kilpailun kärkikolmikko käyttäen hyväksi tilastollisia menetelmiä ja dataa menneistä kilpailuista.
+Noin viikko sitten julkaisimme keräämäämme [aineistoon](https://drive.google.com/folderview?id=0B-GJVgrXR1vqNVc3ZkJFVHZMSVU&usp=sharing) perustuvan [kilpailun](../2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/index.md), jossa haasteena oli ennustaa Miss Suomi -kilpailun kärkikolmikko käyttäen hyväksi tilastollisia menetelmiä ja dataa menneistä kilpailuista.
 
 Tehtävä ei ollut helppo; aineistossa oli suhteellisen pieni määrä havaintoja (n=87), mutta kuitenkin huikea määrä mahdollisia selittäviä muuttujia, sillä jokaisesta kilpailijasta oli esimerkiksi mukana 4096 pikselistä koostuva kuva. Muita aineiston muuttujia olivat muun muassa ikä, pituus, paino, hiusväri ja mitat seuraavista: rinta, vyötärö ja lantio.
 

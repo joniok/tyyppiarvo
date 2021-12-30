@@ -14,7 +14,7 @@ Emme katso siviilisäätyyn, sukupuoleen tai juuri mihinkään muuhunkaan. Aino
 
 <!-- \[caption id="" align="alignnone" width="367"\]![](http://gdurl.com/GQdH) Kuva: Joni Oksanen.\[/caption\] -->
 
-Miss Moodi ja perintötilastotieteilijät valitaan **Tuomo Niemisen** kehittämällä [pettämättömällä missiennustimella](http://tyyppiarvo.com/2016/05/tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/), joka estimoi Miss Suomi 2016 -kilpailuissa kaksi "kolmen kärjestä" oikein!
+Miss Moodi ja perintötilastotieteilijät valitaan **Tuomo Niemisen** kehittämällä [pettämättömällä missiennustimella](../2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/index.md), joka estimoi Miss Suomi 2016 -kilpailuissa kaksi "kolmen kärjestä" oikein!
 
 Missikisojen ennusteesta poiketen käytämme analyysissa pelkkää kasvokuvaa, sillä Tyyppiarvon missitoimituksen mielestä silmät on sielun peili, ja sielun kauneutta tässä mitataan, ei niinkään strategisia mittoja.
 
