@@ -17,10 +17,10 @@ Ks. [blogdown: Creating Websites with R Markdown kappale 1.7](https://bookdown.o
 
 ## Artikkelien Markdown-käännös
 
-**2019** ![100%](https://progress-bar.dev/0)  
-**2018** ![100%](https://progress-bar.dev/0)  
-**2017** ![100%](https://progress-bar.dev/0)  
-**2016** ![100%](https://progress-bar.dev/0)
+**2019** ![100%](https://progress-bar.dev/100)  
+**2018** ![100%](https://progress-bar.dev/100)  
+**2017** ![100%](https://progress-bar.dev/100)  
+**2016** ![100%](https://progress-bar.dev/100)
 
 
 ## Tekijät (2016-2020)
