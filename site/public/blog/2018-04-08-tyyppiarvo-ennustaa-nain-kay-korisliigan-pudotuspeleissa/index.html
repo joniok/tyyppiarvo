@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="fi">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Tyyppiarvo ennustaa - näin käy Korisliigan pudotuspeleissä - Tyyppiarvo </title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="" />
+    <meta property="og:site_name" content="Tyyppiarvo" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://example.com/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/" />
+    <meta property="og:title" content="Tyyppiarvo ennustaa - näin käy Korisliigan pudotuspeleissä" />
+    <meta property="og:image" content="https://example.com" />
+    <meta property="og:description" content="" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    
+    <meta name="twitter:title" content="Tyyppiarvo ennustaa - näin käy Korisliigan pudotuspeleissä" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image" content="https://example.com" />
+
+    <link rel="canonical" href="https://example.com/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://example.comcss/custom.css" />
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github-gist.min.css" integrity="sha512-od7JLoOTxM8w/HSKGzP9Kexc20K9p/M2zxSWsd7H1e4Ctf+8SQFtCWEZnW5u6ul5ehSECa5QmOk9ju2nQMmlVA==" crossorigin="anonymous" />
+    
+
+    
+
+    <link rel="shortcut icon"
+        href="https://example.com/images/favicon.png">
+
+    
+    <link href="https://example.com/index.xml" rel="alternate" type="application/rss+xml" title="Tyyppiarvo" />
+    
+</head>
+
+<body>
+    
+<div class="mt-xl header">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <a href="https://example.com">
+                    <h1 class="name">Tyyppiarvon arkisto</h1>
+                </a>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <ul class="nav nav-primary">
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="https://example.com/">
+                        
+                        Etusivu
+                    </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="https://example.com/about/">
+                        
+                        Tyyppiarvo
+                    </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="https://example.com/archive/">
+                        
+                        Lehtiarkisto
+                    </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/joniok/tyyppiarvo">
+                        
+                        GitHub
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="content">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-lg-8">
+                <h1 class="mx-0 mx-md-4 blog-post-title">Tyyppiarvo ennustaa - näin käy Korisliigan pudotuspeleissä</h1>
+
+                <div class="mb-md-4 meta">
+                    
+                    
+                    <span class="author" title="Topi Halme">
+                        Topi Halme
+                    </span>
+                    
+                    
+
+                    <span class="date middot" title='Sun Apr 8 2018 00:00:00 UTC'>
+                        2018-04-08
+                    </span>
+
+                    <span class="reading-time middot">
+                        4 min read
+                    </span>
+
+                    <div class="d-none d-md-inline tags">
+                        <ul class="list-unstyled d-inline">
+                            
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="markdown blog-post-content">
+                    
+    <p>Miesten Korisliigan runkosarja on päättynyt, ja kuten aina runkosarjan loputtua, osa pelaajista ja joukkueista jatkaa pudotuspeleihin, kun taas osan kohtaloksi jää Bayes-ennustemallien rakentelu kotona. Pudotuspelit alkavat tänään sunnuntaina, ja mestari on selvillä joskus toukokuun puolenvälin jälkeen. Tyyppiarvon urheilutoimitus odottaa kuitenkin playoffeja niin kärsimättömänä, että päätimme rakentaa tilastollisen mallin koripallo-otteluiden lopputulosten ennustamiseen jo etukäteen.</p>
+<p>Mallissa koripallo-ottelun lopputulos, tai tarkemmin sanottuna joukkueiden pisteiden erotus (<em>+x</em> pistettä jos kotijoukkue voittaa, <em>-x</em> jos vierasjoukkue voittaa), oletetaan normaalijakautuneeksi keskiarvolla (<em>kotijoukkueen_taso</em> - <em>vierasjoukkueen_taso</em> + <em>kotietu</em>) ja jollain skaalaparametrilla σ. Oleelliset parametrit mallissa ovat joukkueiden voimasuhteita kuvaavat tasoparametrit, joita päivitetään jokaiselle joukkueelle sitä mukaa, kun uusia otteluita pelataan. Joukkueiden tason oletetaan vaihtelevan viikosta toiseen päivän kunnon, loukkaantumisten ja pelaajavaihtojen myötä. Koko homma muodostetaan <a href="https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling">hierarkiseksi Bayes-malliksi</a>, jonka posteriorijakaumaa tutkimalla saadaan arviot halutuille parametreille. Mallin tarkempi kuvaus, data ja koodi löytyvät <a href="https://github.com/tobbaijas/korisliigamalli">GitHubista</a>.</p>
+<p><img src="./koris%201.png" alt=""></p>
+<p>Kun tasoparametrit on estimoitu, voidaan niiden perusteella yrittää ennustaa tulevien otteluiden lopputuloksien odotusarvoa, ja siten normaalijakaumaoletuksella myös voittotodennäköisyyksiä. Kun toimituksessa testattiin mallin toimivuutta antaen sille harjoitusdataksi esimerkiksi kauden 50 ensimmäistä ottelua, joiden pohjalta yritettiin ennustaa seuraavan 10 ottelun voittajat, osui valinta oikeaan noin 72% ajasta. Tästä rohkaistuneena Tyyppiarvo päätti simuloida läpi koko Korisliigan pudotuspelikaavion 10000 kertaa seuraavin tuloksin:</p>
+<p><img src="./koris%202.png" alt=""></p>
+<p><em>Korisliigajoukkueiden todennäköisyydet päätyä sijoille 1-8.</em></p>
+<p>Kuten Vilppaan mestaruustodennäköisyydestä näkee, ennusteella tuppaa olemaan taipumusta liialliseen varmuuteen veikkauksissaan. Syynä tähän on ennen kaikkea se, ettei malli ymmärrä, että esimerkiksi äkilliset loukkaantumiset (joita ei voida ennustaa datasta) voivat muuttaa joukkueiden voimasuhteita dramaattisesti. Jos Vilpas pelaisi koko pudotuspelit varmasti samalla kokoonpanolla kuin runkosarjassa, 99% mestaruusoddsit voisivat olla edes hieman paremmin perustellut. Oletus ei kuitenkaan vastaa tosielämän tilannetta, jossa loukkaantumisia voi tapahtua koska vaan. Vilppaan kenties tärkein pelaaja Teemu Rannikko nimittäin loukkasi &ldquo;alaraajansa&rdquo; runkosarjan viimeisessä ottelussa, eikä sen vuoksi pelaa pudotuspeleissä.</p>
+<p>Joukkueen tasoa ilman ykköspelintekijäänsä on mahdotonta arvioida tarkasti, mutta jonkinlainen approksimaatio voidaan tehdä tutkimalla niitä Vilppaan runkosarjaotteluita, joissa Rannikko ei pelannut (9 kpl). Kun malli sovitetaan dataan jossa huomioidaan vain ilman Rannikkoa pelatut ottelut, vaikuttaa Vilpas edelleen sarjan vahvimmalta joukkueelta, mutta ei läheskään niin murskaavasti. Joukkueen tason indikaattori putosi 20:n yläpuolelta 5,95:een.</p>
+<p>Nyt myös pudotuspelikaavio voidaan simuloida uudelleen Rannikon loukkaantuminen huomioonottaen.</p>
+<p><img src="./koris3.png" alt=""></p>
+<p><em>Korjatut todennäköisyydet.</em></p>
+<p>Taulukosta voi nopealla laskutoimituksella laskea myös ennusteen antamat todennäköisyydet puolivälieräparien voittajille:</p>
+<ul>
+<li><strong>Vilpas</strong> - KTP 94 - 6</li>
+<li><strong>Kauhajoki</strong> - Pyrintö 76 - 24</li>
+<li><strong>Nokia</strong> - Kataja 79 - 21</li>
+<li>Seagulls - <strong>Kouvot</strong> 45 - 55</li>
+</ul>
+<p>Tyyppiarvo luottaa malliinsa sataprosenttisesti, minkä vuoksi tulemme seuraamaan mallin toimivuutta läpi pudotuspelien asettamalla mallin ennustuksen mukaisen 10€ vedon Veikkauksen asettamien tasoitusten mukaan jokaiseen otteluun. Alkukassana toimii Moodi ry:n koko varallisuus, jonka summa on juttua kirjoitettaessa päätähuimaavat 100 euroa. Esim. tämän jutun julkaisupäivänä 8.4. Vilpas-KTP ottelussa Vilpas on Veikkauksen mukaan 17,5 pisteen suosikki, mutta ennustemalli pitää (ilman Teemu Rannikkoa pelaavaa) Vilpasta vain noin 14 pisteen suosikkina, joten pelaamme siis KTP:ta. Tasoitusten kanssa Veikkauksen kertoimet molemmille joukkueille ovat tyypillisesti 1,85. Alla Tyyppiarvon vedonlyöntiseuranta, joka päivittyy pudotuspelien etenemisen myötä. Taulukon sarake &ldquo;Luotto-%&rdquo; on mallin antama todennäköisyysarvio sille, että veto voittaa. Toisin sanoen KTP:n todennäköisyys hävitä alle 17,5 pistettä on 61%. Veikkauksen konservativiinen kerroin 1,85 tarkoittaa, että teoriassa vedon voiton todennäköisyyden pitää olla vähintään n. 55% (0.55 * 1.85 &gt; 1), jotta veto edes odotusarvoisesti olisi voitollinen.</p>
+<hr>
+<p>VEDONLYÖNTISEURANTA:</p>
+<p><strong>ALKUKASSA: 100 €</strong></p>
+<table>
+<thead>
+<tr>
+<th>PVM</th>
+<th> Ottelu</th>
+<th>Mallin ennuste</th>
+<th>Luotto-%</th>
+<th>Tulos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8.4.</td>
+<td>Vilpas -  <strong>KTP + 17,5</strong></td>
+<td>Vilpas 13,7</td>
+<td>61 %</td>
+<td>83-87</td>
+</tr>
+<tr>
+<td>8.4.</td>
+<td><strong>BC Nokia -3,5</strong> - Kataja</td>
+<td>Nokia 7,7</td>
+<td>62 %</td>
+<td>95-78</td>
+</tr>
+<tr>
+<td>8.4.</td>
+<td>Kauhajoki - <strong>Pyrintö +8,5</strong></td>
+<td>Kauhajoki 7,8</td>
+<td>52 %</td>
+<td>84-74</td>
+</tr>
+<tr>
+<td>9.4.</td>
+<td>Seagulls - <strong>Kouvot +7,5</strong></td>
+<td>Seagulls 1,1</td>
+<td>68 %</td>
+<td>88-90</td>
+</tr>
+<tr>
+<td>10.4.</td>
+<td><strong>KTP +6,5 -</strong> Vilpas</td>
+<td>Vilpas 0,8</td>
+<td>65 %</td>
+<td>64-95</td>
+</tr>
+<tr>
+<td>10.4.</td>
+<td><strong>Pyrintö +0</strong> - Kauhajoki</td>
+<td>Pyrintö 0,5</td>
+<td>51 %</td>
+<td>88-100</td>
+</tr>
+<tr>
+<td>10.4.</td>
+<td>Kataja - <strong>Nokia + 3,5</strong></td>
+<td>Nokia 1,4</td>
+<td>64 %</td>
+<td>82-103</td>
+</tr>
+<tr>
+<td>11.4.</td>
+<td><strong>Kouvot -2,5</strong> - Seagulls</td>
+<td>Kouvot 7.0</td>
+<td>64 %</td>
+<td>72-76</td>
+</tr>
+<tr>
+<td>12.4.</td>
+<td>Vilpas - <strong>KTP + 18,5</strong></td>
+<td>Vilpas 17,6</td>
+<td>51 %</td>
+<td>77-69</td>
+</tr>
+<tr>
+<td>12.4.</td>
+<td><strong>BC Nokia -8,5</strong> - Kataja</td>
+<td>Nokia 14,5</td>
+<td>67 %</td>
+<td>92-80</td>
+</tr>
+<tr>
+<td>12.4.</td>
+<td><strong>Kauhajoki -10,5</strong> - Pyrintö</td>
+<td>Kauhajoki 11,3</td>
+<td>52 %</td>
+<td>108-75</td>
+</tr>
+<tr>
+<td>13.4.</td>
+<td>Seagulls - <strong>Kouvot +9,5</strong></td>
+<td>Seagulls 4.7</td>
+<td>61 %</td>
+<td>82-73</td>
+</tr>
+<tr>
+<td>14.4.</td>
+<td><strong>KTP + 8,5</strong> - Vilpas</td>
+<td>Vilpas 6,1</td>
+<td>57%</td>
+<td>55-88</td>
+</tr>
+<tr>
+<td>15.4.</td>
+<td><strong>Kouvot +2,5</strong> - Seagulls</td>
+<td>Kouvot 3,7</td>
+<td>67%</td>
+<td>74-83</td>
+</tr>
+<tr>
+<td>19.4.</td>
+<td><strong>Vilpas -8,5 -</strong> Seagulls</td>
+<td>Vilpas 13,8</td>
+<td>65%</td>
+<td>78-71</td>
+</tr>
+<tr>
+<td>20.4.</td>
+<td><strong>Kauhajoki -4,5</strong> - BC Nokia</td>
+<td>Kauhajoki 7,5</td>
+<td>59%</td>
+<td>92-78</td>
+</tr>
+<tr>
+<td>21.4.</td>
+<td>Seagulls <strong>- Vilpas -3,5</strong></td>
+<td>Vilpas 3,8</td>
+<td>51%</td>
+<td>77-86</td>
+</tr>
+<tr>
+<td>22.4.</td>
+<td>BC Nokia <strong>- Kauhajoki +3,5</strong></td>
+<td>Nokia 0,2</td>
+<td>61%</td>
+<td>89-84</td>
+</tr>
+<tr>
+<td>24.4.</td>
+<td><strong>Vilpas -10,5</strong> <strong>-</strong> Seagulls</td>
+<td>Vilpas 11,2</td>
+<td>52%</td>
+<td>79-71</td>
+</tr>
+<tr>
+<td>25.4.</td>
+<td><strong>Kauhajoki -5,5 -</strong> BC Nokia</td>
+<td>Kauhajoki 7,6</td>
+<td>55%</td>
+<td>78-72</td>
+</tr>
+<tr>
+<td>26.4.</td>
+<td><strong>Seagulls +6,5 -</strong> Vilpas</td>
+<td>Vilpas 2,9</td>
+<td>61%</td>
+<td>69-86</td>
+</tr>
+<tr>
+<td>27.4.</td>
+<td>BC Nokia - <strong>Kauhajoki +4,5</strong></td>
+<td>Nokia 1,4</td>
+<td>59%</td>
+<td>102-105</td>
+</tr>
+<tr>
+<td>29.4.</td>
+<td><strong>Kauhajoki -5,5 -</strong> BC Nokia</td>
+<td>Kauhajoki 7,8</td>
+<td>59%</td>
+<td>84-82</td>
+</tr>
+<tr>
+<td>6.5.</td>
+<td>Vilpas <strong>- Kauhajoki +8,5</strong></td>
+<td>Vilpas 8,4</td>
+<td>50%</td>
+<td>86-75</td>
+</tr>
+<tr>
+<td>9.5.</td>
+<td>Kauhajoki <strong>- Vilpas +0</strong></td>
+<td>Vilpas 1,1</td>
+<td>51%</td>
+<td>85-79</td>
+</tr>
+<tr>
+<td>14.5.</td>
+<td><strong>Kauhajoki - 1,5</strong> <strong>-</strong> Vilpas</td>
+<td>Kauhajoki 3,3</td>
+<td>53%</td>
+<td>93-75</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Kassa 14.5.: 84€</strong></p>
+<p>PS. Todellisuudessa asetetut vedot ovat hypoteettisia, eikä Tyyppiarvo suosittele urheiluvedonlyöntiä rahantekomielessä, varsinkaan jossain määrin mielivaltaisiin matemaattisiin arvioihin perustuen.</p>
+<p>Lopulta malli ei onnistumaan toimimaan voitollisesti Veikkauksen kertoimia vastaan, mutta huomionarvoisesti tuotti usein lähes identtisiä arvioita kuin Veikkauksen mallit. Ottelun voittajan malli ennusti oikein 73% tarkkuudella.</p>
+<hr>
+<p>Kirjoittaja on päätoiminen Tyyppiarvon urheilutoimittaja ja sivutoiminen Korisliigapelaaja, jonka kohtaloksi jäi tänä keväänä Bayes-ennustemallien rakentelu kotona.</p>
+
+
+
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="comments">
+    <div class="py-3 content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <div class="comments">
+                        <script src="https://utteranc.es/client.js" repo=""
+                            issue-term="pathname" label="comment" theme="github-light" crossorigin="anonymous" async>
+                            </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    
+
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" defer></script>
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" defer></script>
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/stan.min.js" defer></script>
+        
+        <script>
+            window.addEventListener('load', function() {
+                hljs.initHighlighting();
+            }, true);
+        </script>
+    
+
+    
+
+    
+    
+        
+
+    
+</body>
+
+</html>
