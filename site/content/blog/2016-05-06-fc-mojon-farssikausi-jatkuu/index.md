@@ -1,6 +1,7 @@
 ---
 title: "FC MoJon heikko kevätkausi jatkui murskatappiolla Pykälälle"
 date: "2016-05-06"
+author: "Krapula-Ahti"
 ---
 
 Moodin ja VOO:n yhteisjoukkueen FC MoJon koomiset esitykset kevään futissarjassa jatkuivat perjantaina, kun Pykälän salskeat oikeustieteilijät pyörittelivät tilastonörttejä ja yhtä valtio-opin opiskelijaa tylysti 9- tai 10-0.

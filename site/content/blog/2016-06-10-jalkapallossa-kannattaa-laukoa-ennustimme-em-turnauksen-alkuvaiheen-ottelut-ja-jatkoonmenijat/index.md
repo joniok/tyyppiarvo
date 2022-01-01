@@ -1,11 +1,14 @@
 ---
 title: "Jalkapallossa kannattaa laukoa: Ennustimme EM-turnauksen alkuvaiheen ottelut ja jatkoonmenijät."
 date: "2016-06-10"
+author: "Tuomo Nieminen"
 ---
 
 * * *
 
-\[caption id="" align="alignnone" width="1267"\]![](http://gdurl.com/tFoU) Kuvan todennäköisyydet ottelun lopputulokselle ovat kotijoukkueen näkökulmasta.\[/caption\]
+![](R_tilannekuva.png)
+
+_Kuvan todennäköisyydet ottelun lopputulokselle ovat kotijoukkueen näkökulmasta._
 
 * * *
 
@@ -29,7 +32,7 @@ Jalkapallo-ottelun tulos määräytyy joukkueiden keskenäisten voimasuhteiden p
 
  
 
-![](http://gdurl.com/4yo9)
+![](shots_goals.png)
 
  
 
@@ -41,7 +44,7 @@ Vuoden 2012 kisojen perusteella myös uefa coefficientin selittämisvoiman tutki
 
 Tässäkin tapauksessa voimakkain lineaarinen yhteys turnausotteluiden maalieroihin löytyi coefficienttien suhteista, eli uefa coefficient ratiosta (UCR).
 
-![](http://gdurl.com/5-ns)
+![](uefas_goals.png)
 
  
 
@@ -53,11 +56,30 @@ Teknisiltä yksityikohdiltaan käytetty mallinnusmenetelmä oli "ordinal regress
 
  
 
-**Lohko A** Ranska Sveitsi Romania Albania pisteet: 6,   5.61,   3.84,   1.49 ------------------------------------------------------------------------ **Lohko B** Englanti Venäjä Slovakia Wales pisteet: 6.21,   5.02,   2.86,  2.73 ------------------------------------------------------------------------
+**Lohko A** | Ranska | Sveitsi|  Romania | Albania
+-- | -- | -- | -- | --
+pisteet: | 6 | 5.61 | 3.84 | 1.49
 
-**Lohko C**
+**Lohko B** | Englanti | Venäjä | Slovakia|  Wales
+-- | -- | -- | -- | --
+pisteet: |  6.21 | 5.02 | 2.86 | 2.73
 
-Saksa Ukraina Puola Pohjois-Irlanti pisteet: 6.92,   3.97,   3.94,   2.08 ------------------------------------------------------------------------ **Lohko D** Espanja Kroatia Turkki Tshekki pisteet: 6.11,   4.1,   3.42,   3.11 ------------------------------------------------------------------------ **Lohko E** Belgia Italia Ruotsi Irlanti pisteet: 6.17,   5.28,    3.35,   2.06 ------------------------------------------------------------------------ **Lohko F** Itävalta Portugali Unkari Islanti pisteet: 5.76,   5.48,   2.9,   2.69
+**Lohko C** | Saksa | Ukraina|  Puola | Pohjois -Irlanti
+-- | -- | -- | -- | --
+pisteet: |  6.92 | 3.97 | 3.94 | 2.08
+
+**Lohko D** | Espanja | Kroatia|  Turkki | Tshekki
+-- | -- | -- | -- | --
+pisteet:  | 6.11 | 4.1 | 3.42 | 3.11
+
+**Lohko E** | Belgia | Italia|  Ruotsi | Irlanti
+-- | -- | -- | -- | --
+pisteet:  | 6.17 | 5.28 |  3.35 | 2.06
+
+**Lohko F** | Itävalta | Portugali|  Unkari | Islanti
+-- | -- | -- | -- | --
+pisteet:  | 5.76 | 5.48 | 2.9 | 2.6
+
 
  
 

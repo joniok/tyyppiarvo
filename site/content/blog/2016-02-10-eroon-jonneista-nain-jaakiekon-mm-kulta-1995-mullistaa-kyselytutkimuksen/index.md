@@ -1,10 +1,12 @@
 ---
 title: "Harhainen Estimaatti: Eroon jonneista - näin jääkiekon MM-kulta 1995 mullistaa kyselytutkimuksen"
 date: "2016-02-10"
-coverImage: "Ville_Peltonen.jpg"
+author: "Harhainen Estimaatti"
 ---
 
-Yksi internetajan tilastotieteen vaikeimpia ongelmia on ollut trollaavat jonnet, jotka lukumääränsä ja liian vapaa-aikansa ansiosta pystyvät terrorisoimaan ihan hyvää hyvyyttään kyselevien gallup-kyselijöiden tutkimuksia.
+![](Ville_Peltonen.jpg)
+
+Yksi internetajan tilastotieteen vaikeimpia ongelmia on ollut trollaavat jonnet, jotka lukumääränsä ja liian vapaa-aikansa ansiosta pystyvät terrorisoimaan ihan hyvää hyvyyttään kyselevien gallup-kyselijöiden tutkimuksia.
 
 International Statistics Institute of Saimaan (ISIS) tuore väitöskirja "Tupu, Hupu ja Lupu - näin MM-kulta ratkaisee ongelmasi" paljastaa kuitenkin metodin, jonka avulla kiusallisista jonneista päästään eroon.
 
@@ -14,13 +16,11 @@ Väitöskirja käyttää aineistonaan kolmea gallup-twiittiä. Niissä sinänsä
 
 Aineiston ensimmäinen twiitti tiedusteli ihmiskunnan historian merkittävintä hetkeä. Neljä prosenttia äänesti Jeesuksen syntymää, 24 prosenttia Prismojen aukiolon vapauttamista, 20 prosenttia antibioottien keksimistä ja 58 prosenttia jääkiekon maailmanmestaruutta 1995.
 
-Toinen twiitti kuului seuraavasti: "Vinkki galluptekijöille: monivalintaan mukaan yksi vitsivaihtoehto, joka karsii huumorimiehet tosissaan vastaajista."
+Toinen twiitti kuului seuraavasti: "Vinkki galluptekijöille: monivalintaan mukaan yksi vitsivaihtoehto, joka karsii huumorimiehet tosissaan vastaajista."
 
 Yhteyteen liitettyyn monivalintaan vastattiin seuraavasti: 11% hyvä idea, 6% kokeiltu, toimii ja 11% kokeiltu, ei toimi. Nyt 72 prosenttia vastaajista oli sitä mieltä, että MM-95.
 
- 
-
-**Väitöskirjan** johtopäätös onkin, että MM-95 toimii jonneihin ja muihin nettitrollaajiin lähes kaksi kertaa kolmesta. Toinen johtopäätös on, että trollaajia on Suomessa huomattavan paljon.
+**Väitöskirjan** johtopäätös onkin, että MM-95 toimii jonneihin ja muihin nettitrollaajiin lähes kaksi kertaa kolmesta. Toinen johtopäätös on, että trollaajia on Suomessa huomattavan paljon.
 
 Väitöskirjan teossa mukana ollut ISIS-professori Tila Stöö pitää uutta metodia hyvänä, mutta näkee myös useita ongelmia.
 
@@ -37,7 +37,5 @@ Kuitenkin Stöön mukaan ratkaisu on selvä harppaus kohti parempaa.
 \- Huumorikysymykset antavat meille ennennäkemättömän työkalun jonnejen käsittelyyn. Tulevaisuudessa voimme ehkä opettaa algoritmin ymmärtämään suomalaisen trollin sielunelämää.
 
 * * *
-
- 
 
 _Harhainen Estimaatti on Tyyppiarvon jakomielinen blogisti, joka ei anna faktojen pilata hyvää kirjoitusta._

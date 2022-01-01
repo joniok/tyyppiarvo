@@ -1,7 +1,7 @@
 ---
 title: "Yliopistourheilussa on kyse kunnioituksesta"
 date: "2016-01-31"
-coverImage: "basketball.jpg"
+author: "Tuomo Nieminen"
 ---
 
 Unisportin urheilusarjoissa ei ole kyse aina pelkästä urheilusta, vaan jostain paljon suuremmasta: sitoutumisesta ja kunnioituksesta. Siitä, kuka jaksaa taistella joukkueelle silloinkin, kun ei huvita. Eli siitä, kuka saa kuusi pelaajaa perjantaina iltakymmeneltä sateiseen Espooseen.

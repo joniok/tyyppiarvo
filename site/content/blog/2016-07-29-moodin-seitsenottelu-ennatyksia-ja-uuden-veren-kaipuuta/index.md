@@ -1,9 +1,10 @@
 ---
 title: "Moodin seitsenottelu – Ennätyksiä ja uuden veren kaipuuta"
 date: "2016-07-29"
+author: "Aapeli Nevala"
 ---
 
-\[caption id="" align="alignnone" width="426"\]![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13754138_1451812748168336_5277805965636608706_n.jpg?oh=fed25bb928e530008420204182591875&oe=580FF84C) Miesten ja naisten voittajat Tuomas Reiterä ja Marianne Laalo ykköspaikalla. Heikki Ritaluoma voitti hopeaa ja Petteri Mäntymaa pronssia.\[/caption\]
+<!--\[caption id="" align="alignnone" width="426"\]![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13754138_1451812748168336_5277805965636608706_n.jpg?oh=fed25bb928e530008420204182591875&oe=580FF84C) Miesten ja naisten voittajat Tuomas Reiterä ja Marianne Laalo ykköspaikalla. Heikki Ritaluoma voitti hopeaa ja Petteri Mäntymaa pronssia.\[/caption\]-->
 
 * * *
 
@@ -37,7 +38,7 @@ Viimeinen laji kahdeksansataa metriä on ottelijoiden virallisesti kammoama mutt
 
 Ottelu päättyy sykähdyttävään maaliintuloon, jossa ilosta karjahtava Reiterä juoksee uuden lajikohtaisen Moodin ennätyksen ajalla 2.17,8 ja rikkoo oman vanhan Moodin otteluennätyksen 143 pisteellä kirjaten uusiksi ennätyspisteiksi 4948. Myös Hyvösen kahdeksansadan aika 2.18,7 on alle vanhan Moodin ennätyksen. Ottelussa toiseksi sijoittuu Ritaluoma pistein 4184 ja hienosti kolmanneksi debytantti Mäntymaa pistein 3698.
 
-\[caption id="" align="alignnone" width="960"\]![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13782098_1451819358167675_2241257249195558595_n.png?oh=21541ca449830fee82607295f776aff8&oe=58155BA9) Ottelun kokonaistulokset ennen dopingnäytteiden tutkimista.\[/caption\]
+<!--\[caption id="" align="alignnone" width="960"\]![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13782098_1451819358167675_2241257249195558595_n.png?oh=21541ca449830fee82607295f776aff8&oe=58155BA9) Ottelun kokonaistulokset ennen dopingnäytteiden tutkimista.\[/caption\]-->
 
 _\- Ottelua vuosi sitten polvivaivaisena sivusta seuranneena kuvittelin ennätyssarjojen olevani osaltani historiaa. Keväällä heräsi kuitenkin toivo ja halu tehdä vielä hyviä tuloksia. Erityisesti huippuonnistuminen itselleni monesti vaikealla kahdeksallasadalla metrillä lämmittää mieltä ja osoittaa, että kunnonkohotuksessa on jotain tehty oikein. Viidentuhannen pisteen raja jäi vielä rikkomatta, joten ensi vuonnakin on syy lähteä mukaan_, kommentoi iloinen voittaja otteluaan tuoreeltaan kilpailun jälkeen.
 

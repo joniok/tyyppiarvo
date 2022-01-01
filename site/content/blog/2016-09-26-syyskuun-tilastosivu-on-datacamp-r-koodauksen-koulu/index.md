@@ -1,6 +1,7 @@
 ---
 title: "Syyskuun tilastosivu on DataCamp, R-koodauksen koulu"
 date: "2016-09-26"
+author: "Tuomo Nieminen"
 ---
 
 _Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Syyskyyn sivusto on [DataCamp](http://www.datacamp.com/), Belgiassa ja Yhdysvalloissa toimiva startup, joka on erikoistunut data science -työkalujen opetukseen._

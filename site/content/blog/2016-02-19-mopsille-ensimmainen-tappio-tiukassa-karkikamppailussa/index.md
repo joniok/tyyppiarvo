@@ -1,13 +1,14 @@
 ---
 title: "MoPSille avaustappio kärkikamppailussa - vastustajakin myönsi ratkaisevan korkean mailan"
 date: "2016-02-19"
+author: "Krapula-Ahti"
 ---
 
 Moodin kruununjalokivellä MoPSilla oli perjantaina rankka tuplapelipäivä. Sporttiperjantai alkoi säbäsarjan kärkikamppailulla SiVuPePaa (SiltaVuorenPenkereen Pallo) vastaan. Ottelun panos oli valtaisa: voittaja nappaa runkosarjan voiton ja henkisen yliotteen pudotuspeleihin.
 
 Asetelma ottelun alussa oli myös sikäli erikoinen, että kentän kummallakin puolella pyöri suunnilleen saman verran pelaajia lämmittelemässä.
 
-SiVuPePa sai otteluun loistoalun, kun nopean poikittaissyöttökuvion jälkeen pallo löytyi MoPSin verkosta. Alun jälkeen kamppailu kuitenkin tasaantui ja kumpikin joukkue pääsi sisään omaan peliinsä. Vastustaja iski vielä kerran ennen kuin maaliputkeaan kahteen peliin kasvattanut **Joni Oksanen** rokotti puolesta kentästä löysin rantein lähetetyllä piiskalla ja kavensi pelin kahteen yhteen.
+SiVuPePa sai otteluun loistoalun, kun nopean poikittaissyöttökuvion jälkeen pallo löytyi MoPSin verkosta. Alun jälkeen kamppailu kuitenkin tasaantui ja kumpikin joukkue pääsi sisään omaan peliinsä. Vastustaja iski vielä kerran ennen kuin maaliputkeaan kahteen peliin kasvattanut **Joni Oksanen** rokotti puolesta kentästä löysin rantein lähetetyllä piiskalla ja kavensi pelin kahteen yhteen.
 
 Toiseen erään MoPSi lähti huomattavasti paremmalla jalalla. Joukkuepuolustus piti ja peli kääntyi selvästi vihreäpaidoille. Työ palkittiin lopulta **Sebastian Veijola**n niittaamalla tasoitusmaalilla. Lisääkin paikkoja olisi ollut mutta pallot eivät pomppineet sisään. Kuvitteellisen katsomon turhautunut kotijoukkueen fani sätti tiukasti omiensa tehottomuutta: "V---u noi Reitsi ja Pateki on ihan lapasia ei ne v---u pistä mistään sisään", viitaten hyökkääjätutkapariin **Tuomas Reiterä**, **Patrik Lauha**.
 

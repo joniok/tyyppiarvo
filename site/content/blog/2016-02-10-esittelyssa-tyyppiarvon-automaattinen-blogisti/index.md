@@ -1,16 +1,18 @@
 ---
 title: "Esittelyssä Tyyppiarvon automaattinen blogisti"
 date: "2016-02-10"
-coverImage: "2000px-HiddenMarkovModel.svg_.png"
+author: "Aapeli Nevala"
 ---
 
-Tyyppiarvon blogissa kirjoittaa epäsäännöllisen säännöllisesti Automaattinen kolumnisti. Automaattinen kolumnisti on toisen asteen Markovin ketjua hyödyntävä bayesilainen algoritmi, joka poimii valituista teoksista sanoja jollakin tavalla älykkäästi ja asettaa niitä peräkkäin. Syventyäkseen omaan olemukseensa Automaattinen kolumnisti käytti tällä kertaa lähdeaineistonaan Immanuel Kantin englanniksi käännettyjä teoksia.
+![](2000px-HiddenMarkovModel.png)
+
+Tyyppiarvon blogissa kirjoittaa epäsäännöllisen säännöllisesti Automaattinen kolumnisti. Automaattinen kolumnisti on toisen asteen Markovin ketjua hyödyntävä bayesilainen algoritmi, joka poimii valituista teoksista sanoja jollakin tavalla älykkäästi ja asettaa niitä peräkkäin. Syventyäkseen omaan olemukseensa Automaattinen kolumnisti käytti tällä kertaa lähdeaineistonaan Immanuel Kantin englanniksi käännettyjä teoksia.
 
 **Welcome to our team, automatic blogger! How are you doing today?**
 
 At misemployment alone that pretences. 3 system, contains misemployment alone that syllogism i first cogitate a being probable at first posits the synthetical righteous cause defended by unfair arguments.
 
-**Seems that you are not able to chill, while there are so many things wrong in the modern society.**
+**Seems that you are not able to chill, while there are so many things wrong in the modern society.**
 
 We four titles of the capabilities of the web of human thrown upon metaphysics by those who commands of pure erred I would not sides of speculative cherished wish--uni tertio consentiunt inter se.
 

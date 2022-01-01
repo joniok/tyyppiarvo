@@ -1,6 +1,7 @@
 ---
 title: "PoRa kylvetti FC MoJoa rumin lukemin"
 date: "2016-09-28"
+author: "Krapula-Ahti"
 ---
 
 **PoRa           8**
@@ -17,7 +18,7 @@ Toisella puoliajalla MoJo lähti ennakkoluulottomasti hakemaan kavennusta hyökk
 
 [Video Nybergin highlight-torjunnasta toisella puoliajalla](https://www.youtube.com/watch?v=LW08LN0uYO0)
 
-\[caption id="" align="alignnone" width="216"\]![Mikko Uski johti FC MoJon puolustusta.](https://doc-0s-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/igvmf5kjgflgf5qjdsu65hrhe37c9vp3/1475085600000/08849784491103088722/*/0B_b9XIivn7p3Zk5VWHktaF90T28) Mikko Uski johti FC MoJon puolustusta.\[/caption\]
+<!--\[caption id="" align="alignnone" width="216"\]![Mikko Uski johti FC MoJon puolustusta.](https://doc-0s-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/igvmf5kjgflgf5qjdsu65hrhe37c9vp3/1475085600000/08849784491103088722/*/0B_b9XIivn7p3Zk5VWHktaF90T28) Mikko Uski johti FC MoJon puolustusta.\[/caption\]-->
 
 Ottelun harvoihin valopilkkuihin kuuluivat **Tuomas Reiterä**n sooloilema kavennusosuma ja tätä seurannut hetkellinen ryhdistäytyminen, jonka aikana vihreäpaidat loivat useita hienoja vastahyökkäyksiä, jotka päätyivät kuitenkin lähimmillään vain tolppaan ja maaliviivalle.
 
@@ -25,4 +26,4 @@ MoJon valmennusjohto ei ottelun jälkeen turhia selitellyt: "Vastustaja oli tän
 
 MoPSia ottelussa edustivat Uski, Reiterä, **Ville Hyvönen**, **Patrik Lauha, Santeri Mikkonen, Paul** **Rintamäki, Risko Rikkinen**, **Amanda Pitkänen,** sekä **Samuel Laulainen**, ja Jormia Nyberg sekä **Kaarlo Somerto**. Lisäksi MoPSin vihreän pelipaidan puki päälleen vieraileva tähti **Atle Rechardt**.
 
-\[caption id="" align="alignnone" width="216"\]![Tuomas Reiterä iski FC MoJon ainoan maalin.](https://doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iln1f2bjd78svnfj7asvk78sq7mo6me7/1475085600000/08849784491103088722/*/0B_b9XIivn7p3cFk3ZVlmLWEyeXc) Tuomas Reiterä iski FC MoJon ainoan maalin.\[/caption\]
+<!--\[caption id="" align="alignnone" width="216"\]![Tuomas Reiterä iski FC MoJon ainoan maalin.](https://doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/iln1f2bjd78svnfj7asvk78sq7mo6me7/1475085600000/08849784491103088722/*/0B_b9XIivn7p3cFk3ZVlmLWEyeXc) Tuomas Reiterä iski FC MoJon ainoan maalin.\[/caption\]-->

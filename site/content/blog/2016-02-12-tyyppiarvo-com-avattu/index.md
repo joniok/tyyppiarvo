@@ -1,8 +1,10 @@
 ---
 title: "Suuri uudistus valmistui - Tyyppiarvo.com on avattu!"
 date: "2016-02-12"
-coverImage: "cover2-2.png"
+author: "Joni Oksanen"
 ---
+
+![](cover2-2.png)
 
 Eräänä joulukuisena iltapäivänä Helsingin yliopiston Kumpulan kampuksella heitettiin ilmaan ajatus: mitä, jos Tyyppiarvo alkaisi ilmestyä netissä?
 
@@ -17,10 +19,6 @@ Uusi Tyyppiarvo tarkoittaa Nevalan mukaan ajankohtaisempaa kerrontaa ja uusia es
 \- Tilastotiede on Suomessa vähän pimennossa, vaikka se mahdollistaa kaikenlaista. Tyyppiarvon tarkoitus on tuoda tilastotiede paremmin näkyville. Olisi upeaa nähdä suomenkielinen, Suomeen keskittyvä versio FiveThirtyEightista. Me emme voi olla se koko ajan, mutta meillä on potentiaalia 538-tyylisiin väläytyksiin, Nevala sanoo.
 
 \- Verkkojulkaisu mahdollistaa paitsi ajankohtaiset kuvaukset Moodin tapahtumista, myös erilaiset esitystavat. Tilastotieteen opiskelijoilla on paljon teknistä osaamista, jota on helppo hyödyntää juuri verkkosivun kautta.
-
- 
-
- 
 
 **Moodin** puheenjohtajaksi valittu **Tommi Mäklin** oli mukana päättämässä, että lehden ilmestymiskertoja harvennetaan, mutta samalla luodaan verkkoon sivusto, jonne Moodin tapahtuman ja tilastotieteen ajankohtaiset asiat päivittyvät reilusti nopeammin. Painettu Tyyppiarvo ilmestyy tästä lähtien molempien lukukausien alussa.
 

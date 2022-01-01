@@ -1,6 +1,7 @@
 ---
 title: "Työelämäblogi: Maiju Pankakoski sai nuoruuden epävarmuuden hallintaan"
 date: "2016-09-13"
+author: "Tyyppiarvo"
 ---
 
 _Kirjoittaja valmistui vuonna 2011 Valtiotieteellisestä tiedekunnasta pääaineenaan tilastotiede. Hän työskentelee tällä hetkellä Suomen Syöpärekisterin Joukkotarkarkastusrekisterissä ja tekee väitöskirjaa aiheesta "Kohdunkaulan syövän seulonnan elämänaikainen vaikuttavuus"._

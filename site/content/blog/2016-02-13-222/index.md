@@ -1,7 +1,7 @@
 ---
 title: "Miesylivoiman edessä taistellut MoPSi jatkaa tappioitta säbäsarjassa"
 date: "2016-02-13"
-coverImage: "Floorball_ball.jpg"
+author: "Krapula-Ahti"
 ---
 
 Kahden kuukauden joululomalta UniSportin salibandysarjassa palannut MoPSi sai kauden ensimmäisessä ottelussaan Kumpula Square Gardenissa vastaansa ennakkoon kovan paikallisnaapuri ViPan läheiseltä Viikin kampukselta.
@@ -16,7 +16,7 @@ Toisen erän alkuun MoPSi koki mustan hetken, kun viisikkopuolustus ei pysynyt V
 
 Kolmannessa erässä nähtiin verinen kamppailu, kun ViPa nosti karvaustaan hakien vimmatusti maaleja MoPSin taistellessa urhoollisesti vastaan ja kytätessä vastaiskuja. Viherpaidoille aukesikin lukuisia maalipaikkoja, mutta ViPan maalivahti, puolustajat ja tolpat venyivät käsittämättömällä tavalla laukausten tielle.
 
-Parhaat paikat aukesivat Veijolalle, joka hurjalla lähtönopeudellaan karkasi useammankin kerran läpiajoon. Mailataikuri harhautti maalivahdin helposti, mutta viimeistelyt lipuivat kerta toisensa jälkeen maalin ohi.
+Parhaat paikat aukesivat Veijolalle, joka hurjalla lähtönopeudellaan karkasi useammankin kerran läpiajoon. Mailataikuri harhautti maalivahdin helposti, mutta viimeistelyt lipuivat kerta toisensa jälkeen maalin ohi.
 
 Joukkueurheilun vanhan totuuden mukaan jos itse et tee maalia, niin kaveri kyllä tekee. Urheasta taistelusta huolimatta MoPSin puolustus ei kestänyt ViPan jatkuvaa vyörytystä, vaan pallo pomppi epäonnistenkin käänteiden kautta kaksi kertaa MoPSin maaliin.
 

@@ -1,6 +1,7 @@
 ---
 title: "Suomen ensimmäinen tilastotiedeaiheinen Susikoira Roi -vitsi on täällä"
 date: "2016-04-15"
+author: "Aapeli Nevala"
 ---
 
 Ennen susikoira Roi -vitsin lukemista kannattaa [perehtyä vitsien luonteeseen](http://nyt.fi/a1305906197945).
@@ -11,9 +12,7 @@ Punchline: Petteri Mäntymaa
 
 * * *
 
- 
-
-\[caption id="" align="alignnone" width="221"\]![](https://upload.wikimedia.org/wikipedia/commons/2/2b/German_Shepherd_Dog_black_and_red.jpg) Susikoira.\[/caption\]
+![Susikoira](https://upload.wikimedia.org/wikipedia/commons/2/2b/German_Shepherd_Dog_black_and_red.jpg)
 
 Usein susikoira Roin elämänvaiheista raportoidessa unohdetaan, että Roi oli aikanaan oikein meritoitunut akateemikko.
 
