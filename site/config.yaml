@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://tyyppiarvo.netlify.app/
 title: Tyyppiarvo
 canonifyurls: yes
 languagecode: fi
@@ -14,7 +14,7 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 params:
-  faviconfile: images/favicon.png
+  faviconfile: images/favicon.ico
   highlightjs: yes
   highlightjslanguages:
     - r
@@ -35,9 +35,12 @@ menu:
     - name: Tyyppiarvo
       url: /about/
       weight: 2
-    - name: Lehtiarkisto
+    - name: Lehdet
       url: /archive/
       weight: 3
+    - name: Moodi
+      url: https://blogs.helsinki.fi/moodi-ry/
+      weight: 6
     - name: GitHub
       url: https://github.com/joniok/tyyppiarvo
-      weight: 5
+      weight: 7

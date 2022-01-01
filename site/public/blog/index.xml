@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Tyyppiarvo</title>
-    <link>https://example.com/blog/</link>
+    <link>https://tyyppiarvo.netlify.app/blog/</link>
     <description>Recent content in Blog on Tyyppiarvo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
-    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tyyppiarvo.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MoPSille kultaa Kannunvalajien jalkapalloturnauksessa!</title>
-      <link>https://example.com/blog/2019-11-07-mopsille-kultaa-kannunvalajien-jalkapalloturnauksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2019-11-07-mopsille-kultaa-kannunvalajien-jalkapalloturnauksessa/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2019-11-07-mopsille-kultaa-kannunvalajien-jalkapalloturnauksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2019-11-07-mopsille-kultaa-kannunvalajien-jalkapalloturnauksessa/</guid>
       <description>Muutama vuosi sitten aktiivitoimintansa lopettanut Moodin Palloseura MoPSi teki marraskuun alussa kunniakkaan paluun pallokentille ja lähti mukaan kilvoittelemaan Valtsikan jalkapalloherruudesta Haapaniemen sateiselle kentälle. Joukkueen rungon muodostivat naftaliinista kaivetut MoPSi-legendat Risko Rikkinen, Patrik Lauha, Santeri Mikkonen, Aleksi Laiho ja Leo Nikkanen. Viisikkoa täydensivät tuoreemmat MoPSi-kasvot matemaattisten tieteiden kandiohjelmalaiset, Alex Lähdekorpi, Vikke Kilponen sekä maalivahti Veikko Laatikainen.
 Joukkueen menestyshaaveet ennen pelejä olivat maltilliset ja joukkueen kapteeni Risko Rikkinen totesikin etukäteen päätavoitteeksi &amp;ldquo;Kunhan ei ketään pahasti sattuisi, vaikka toki jatkoonpääsyynkin on olemassa nollaa suurempi todennäköisyys&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Neljä tapaa järjestää vaalit väärin</title>
-      <link>https://example.com/blog/2019-04-03-nelja-tapaa-jarjestaa-vaalit-vaarin/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2019-04-03-nelja-tapaa-jarjestaa-vaalit-vaarin/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2019-04-03-nelja-tapaa-jarjestaa-vaalit-vaarin/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2019-04-03-nelja-tapaa-jarjestaa-vaalit-vaarin/</guid>
       <description>Kirjoittaja on toisen vuoden matematiikan opiskelija ja Tyyppiarvon vieraileva kolumnisti. Petrin muihin kirjoituksiin voit tutustua hänen blogissaan Nollakohdassa.
 Mikäli ympäröivää maailmaa ja opiskelijahuone Survomon keskusteluita on uskominen, näinä aikoina järjestetään Suomessa vaalit ja pian vielä toisetkin. Kansakunnan huulilla on, ketä pitäisi äänestää, mutta vähemmälle jää, miten pitäisi äänestää. Vaalikoneiden suosittelualgoritmit ovat viime aikoina puhuttaneet erityisesti Helsingissä (HS 13.3.2019), mutta vielä enemmän tulokseen vaikuttaa algoritmi, jolla äänet lasketaan: käytössä oleva vaalitapa.</description>
     </item>
     
     <item>
       <title>Uhkapelurin tuho eli milloin on parasta lopettaa?</title>
-      <link>https://example.com/blog/2019-03-02-uhkapelurin-tuho-eli-milloin-on-parasta-lopettaa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2019-03-02-uhkapelurin-tuho-eli-milloin-on-parasta-lopettaa/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2019-03-02-uhkapelurin-tuho-eli-milloin-on-parasta-lopettaa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2019-03-02-uhkapelurin-tuho-eli-milloin-on-parasta-lopettaa/</guid>
       <description>Kirjoittaja on toisen vuoden matematiikan opiskelija ja Tyyppiarvon vieraileva kolumnisti. Petrin muihin kirjoituksiin pääset tutustumaan hänen blogissaan Nollakohdassa.
 Pari vuotta matikkablogia pitäneenä olen kirjoittanut useampaan otteeseen milloin minkäkin rahapelin kannattavuudesta. Niin paljon kuin vastaukset Googlen käyttäjiä kiinnostavatkin, loppujen lopuksi kysymys itsessään on täysin mieletön. En ajattele Veikkausta ja kumppaneita yrityksinä, jotka tuottavat arvontoja, vaan yrityksinä, jotka myyvät jännitystä — minkä Veikkaus itsekin mainoslauseissaan myöntää.
 Tässä valossa kysymykseen &amp;ldquo;milloin kannattaa lopettaa?&amp;rdquo; on hyvin yksinkertainen vastaus: sitten, kun olet saanut tarpeeksi jännitystä päivääsi.</description>
@@ -40,10 +40,10 @@ Tässä valossa kysymykseen &amp;ldquo;milloin kannattaa lopettaa?&amp;rdquo; on
     
     <item>
       <title>Tyyppiarvo korjaa! Osa 1: Maajoukkueen kapteeni</title>
-      <link>https://example.com/blog/2019-01-22-tyyppiarvo-korjaa-osa-1-maajoukkueen-kapteeni/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2019-01-22-tyyppiarvo-korjaa-osa-1-maajoukkueen-kapteeni/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2019-01-22-tyyppiarvo-korjaa-osa-1-maajoukkueen-kapteeni/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2019-01-22-tyyppiarvo-korjaa-osa-1-maajoukkueen-kapteeni/</guid>
       <description>Niin sosiaalisen kuin perinteisenkin median puolella esitetään usein karkean virheellisiä väitteitä tilastotieteeseen ja todennäköisyyslaskentaan liittyen. Alkaneen vuoden kunniaksi Tyyppiarvo alkaa julkaista uutta Tyyppiarvo korjaa! -palstaa, joka pureutuu julkisuudessa esitettyihin virheellisiin tilasto- ja todennäköisyysväitteisiin ja kertoo, miten ongelma olisi oikeasti pitänyt ratkaista. Palstan ensimmäinen aihe on todennäköisyyslaskenta, tarkemmin jalkapallojuniorin todennäköisyys päätyä maajoukkueen kapteeniksi.
 Kuvakaappaus Aleksi Valavuoren Twitter-tililtä.
 Aleksi Valavuori esitti 20. tammikuuta Twitter-tilillään laskelman, jonka mukaan Tim Sparvin ura on yksi miljoonasta, koska vain yksi miljoonasta suomalaisesta jalkapalloa harrastavasta juniorista päätyy maajoukkueen kapteeniksi.</description>
@@ -51,10 +51,10 @@ Aleksi Valavuori esitti 20. tammikuuta Twitter-tilillään laskelman, jonka muka
     
     <item>
       <title>Väistyvän opintovastaavan terveiset</title>
-      <link>https://example.com/blog/2019-01-14-vaistyvan-opintovastaavan-terveiset/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2019-01-14-vaistyvan-opintovastaavan-terveiset/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2019-01-14-vaistyvan-opintovastaavan-terveiset/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2019-01-14-vaistyvan-opintovastaavan-terveiset/</guid>
       <description>Hei kaikille, ja toivottavasti vuosi on vaihtunut iloisissa merkeissä! Opintovastaavuuteni on kirinyt tiensä päähän, ja halusin kirjoittaa siitä teille pienen yhteenvedon.
 2018 tunnelmia: Vuotta raamittaa Iso Pyörä. Moni pohtii, vaihtaako uusiin koulutusohjelmiin ja yrittää kyhätä opintokokonaisuuksia muuttuneiden kurssien joukosta. Nettisivujen uumenista kaivellaan vastaavuustaulukoita. Opinto-opportunistit käyttävät kaaosta hyväkseen ja neuvottelevat keräilemäänsä tilkkutäkkiä lakkautettujen kurssien tilalle. Uhkia ja mahdollisuuksia.
 Millaista oli olla opintovastaavana 2018 Kumpulassa?
@@ -63,39 +63,39 @@ Surullista, koska tilastotieteen opiskelu identiteettinä on hautautumassa Pyör
     
     <item>
       <title>&#34;Miksi tilastotieteilijän pitäisi äänestää HYY:n edustajistovaaleissa?&#34; - Kysyimme ehdokkailta</title>
-      <link>https://example.com/blog/2018-10-28-vaalipaneeli-2018/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-10-28-vaalipaneeli-2018/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-10-28-vaalipaneeli-2018/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-10-28-vaalipaneeli-2018/</guid>
       <description>Helsingin yliopiston ylioppilaskunnan edustajistovaalit järjestetään 31.10.–2. 11.2018 ja 5.11.-7.11.2018. Tyyppiarvon politiikan toimitus kokosi tuttuun tapaan Moodin sähköpostilistan ja reservin tykkimiehen tasoisen tiedustelun kautta kaikki tilastomieliset ja -henkiset ehdokkaat sähköiseen paneeliin. Vuoden 2016 tapaan paneelissa keskityttiin olennaiseen ja mahdollisuus jaaritteluun eliminoitiin asettamalla yhteismerkkiraja vastauksille. Vuoden 2016 kuuden twiitin (840 merkin) rajaa jouduttiin arvioimaan uudestaan, koska Twitter vuonna 2017 kaksinkertaisti yhden twiitin maksimimerkkimäärän. Tänä vuonna kokonaismerkkimäärä asetettiin neljään twiittiin eli 1120 merkkiin, joka osoittautui ehkä liiankin riittäväksi.</description>
     </item>
     
     <item>
       <title>Loimu toivottaa uudet opiskelijat tervetulleiksi!</title>
-      <link>https://example.com/blog/2018-08-29-loimu-toivottaa-uudet-opiskelijat-tervetulleiksi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-08-29-loimu-toivottaa-uudet-opiskelijat-tervetulleiksi/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-08-29-loimu-toivottaa-uudet-opiskelijat-tervetulleiksi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-08-29-loimu-toivottaa-uudet-opiskelijat-tervetulleiksi/</guid>
       <description>TERVETULOA LUONNON-, YMPÄRISTÖ- JA METSÄTIETEILIJÖIDEN ASIANTUNTIJAYHTEISÖÖN!
  Onnittelut opiskelupaikastasi ja tervetuloa opiskelijajäseneksi Luonnon-, ympäristö- ja metsätieteilijöiden liitto Loimuun! Me olemme luonnon-, ympäristö- ja metsätieteellisten alojen korkeimmin koulutettujen asiantuntijoiden yhteisö. Teemme joka päivä töitä sen eteen, että nykyinen ja tuleva työelämä tarjoaa Sinulle palkitsevia mahdollisuuksia. Ajamme asiaasi sekä isoja työntekijäryhmiä koskevissa työmarkkinaneuvotteluissa että työpaikalla eteesi tulevissa yksittäisissä tilanteissa. Tuotamme Sinulle korkealaatuisia palveluita ja tutkittua tietoa oman osaamisesi sekä ura- ja työllistymismahdollisuuksiesi kehittämiseen.</description>
     </item>
     
     <item>
       <title>Kuinka voittaa ruletissa - ainakin useimpina päivinä</title>
-      <link>https://example.com/blog/2018-06-20-kuinka-voittaa-ruletissa-ainakin-useimpina-paivina/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-06-20-kuinka-voittaa-ruletissa-ainakin-useimpina-paivina/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-06-20-kuinka-voittaa-ruletissa-ainakin-useimpina-paivina/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-06-20-kuinka-voittaa-ruletissa-ainakin-useimpina-paivina/</guid>
       <description>Viime syksynä, aikana kun Lauri Markkanen ei ollut vielä jokaisen suomalaisen uusi suosikkiurheilija, Tyyppiarvo julkaisi jutun niin kutsutun ”kuuma käsi”-ilmiön kiistellystä olemassaolosta koripallossa. Kiistanalainen oli myös jutun vastaanotto, kun allekirjoittanut joutui raivokkaasti puolustamaan skientologiselta vaikuttanutta matematiikkaa niin kasvokkain (fyysiset alterkaatiot pystyttiin pitämään asian tunnelatauksesta huolimatta vähäisinä) kuin milloin missäkin sosiaalisen median kanavassa. [sosiaaliseksi mediaksi voitaneen tässä yhteydessä laskea myös Tyyppiarvon kommenttipalsta, toim. huom.]
 Kysessä ei kuitenkaan ollut ensimmäinen kerta, kun vastaava matematiikan ja arkijärjen ilmeinen riita aiheutti hämmennystä.</description>
     </item>
     
     <item>
       <title>Poika palasi Survomoon! - MoPSi maksoi vuoden takaisen nöyryytyksen takaisin Kevätklassikossa</title>
-      <link>https://example.com/blog/2018-05-21-poika-palasi-survomoon-mopsi-maksoi-vuoden-takaisen-noyryytyksen-takaisin-kevatklassikossa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-05-21-poika-palasi-survomoon-mopsi-maksoi-vuoden-takaisen-noyryytyksen-takaisin-kevatklassikossa/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-05-21-poika-palasi-survomoon-mopsi-maksoi-vuoden-takaisen-noyryytyksen-takaisin-kevatklassikossa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-05-21-poika-palasi-survomoon-mopsi-maksoi-vuoden-takaisen-noyryytyksen-takaisin-kevatklassikossa/</guid>
       <description>MoPSi 8
 KTTO 5
  Moodin Palloseuran ja KTTO:n (Kansantaloustieteen opiskelijat) välinen perinteinen salibandymittelö Kevätklassikko käytiin Hakaniemen säbäpyhätössä viime viikon perjantaina jo kolmatta kertaa. Kummallakin joukkueella oli aiemmista kohtaamisista yksi voitto, kun KTTO oli vienyt viimeisimmän ottelun nimiinsä rumin lukemin:
@@ -105,20 +105,20 @@ Koiralauman kapteeni Risko Rikkinen ei henkilökohtaisista syistä pystynyt pela
     
     <item>
       <title>Tyyppiarvo ennustaa - näin käy Korisliigan pudotuspeleissä</title>
-      <link>https://example.com/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-04-08-tyyppiarvo-ennustaa-nain-kay-korisliigan-pudotuspeleissa/</guid>
       <description>Miesten Korisliigan runkosarja on päättynyt, ja kuten aina runkosarjan loputtua, osa pelaajista ja joukkueista jatkaa pudotuspeleihin, kun taas osan kohtaloksi jää Bayes-ennustemallien rakentelu kotona. Pudotuspelit alkavat tänään sunnuntaina, ja mestari on selvillä joskus toukokuun puolenvälin jälkeen. Tyyppiarvon urheilutoimitus odottaa kuitenkin playoffeja niin kärsimättömänä, että päätimme rakentaa tilastollisen mallin koripallo-otteluiden lopputulosten ennustamiseen jo etukäteen.
 Mallissa koripallo-ottelun lopputulos, tai tarkemmin sanottuna joukkueiden pisteiden erotus (+x pistettä jos kotijoukkue voittaa, -x jos vierasjoukkue voittaa), oletetaan normaalijakautuneeksi keskiarvolla (kotijoukkueen_taso - vierasjoukkueen_taso + kotietu) ja jollain skaalaparametrilla σ.</description>
     </item>
     
     <item>
       <title>MoPSin hegemonia Kannunvalajien sählyturnauksessa sai jatkoa</title>
-      <link>https://example.com/blog/2018-03-27-mopsin-hegemonia-kannunvalajien-sahlyturnauksessa-sai-jatkoa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-03-27-mopsin-hegemonia-kannunvalajien-sahlyturnauksessa-sai-jatkoa/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-03-27-mopsin-hegemonia-kannunvalajien-sahlyturnauksessa-sai-jatkoa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-03-27-mopsin-hegemonia-kannunvalajien-sahlyturnauksessa-sai-jatkoa/</guid>
       <description>MoPSin joukkueiden pelaajat yhteiskuvassa. Vasemmalta lukien MoPSi Akatemia: Markus Lauha, Patrik Lauha, Joni Oksanen, Santeri Mikkonen, MoPSi SKA: Heikki Hyhkö, Jussi Virtanen, Risko Rikkinen, Daniel Kari.
 Viikonloppuna perinteiseen tapaan Viikin Monitoimitalolla käyty Kannunvalajien sählyturnaus oli jälleen kerran Moodin Palloseuran juhlaa: MoPSi vei Kannun nimiinsä jo neljättä kertaa peräjälkeen. Voittajajoukkue MoPSi Akatemiassa pelasivat kolmannen voittonsa hakeneet Santeri Mikkonen, Joni Oksanen sekä Patrik ja Markus Lauha.
 MoPSin menestystä täydensi turnauksessa kolmanneksi sijoittunut Moodin hallituksen joukkue MoPSi SKA.</description>
@@ -126,10 +126,10 @@ MoPSin menestystä täydensi turnauksessa kolmanneksi sijoittunut Moodin hallitu
     
     <item>
       <title>Yllätyslöytö vedonlyöntitilastoissa - tässä on Vakioveikkauksen ihmerivi!</title>
-      <link>https://example.com/blog/2018-03-01-yllatysloyto-vedonlyontitilastoissa-tassa-on-vakioveikkauksen-ihmerivi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-03-01-yllatysloyto-vedonlyontitilastoissa-tassa-on-vakioveikkauksen-ihmerivi/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-03-01-yllatysloyto-vedonlyontitilastoissa-tassa-on-vakioveikkauksen-ihmerivi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-03-01-yllatysloyto-vedonlyontitilastoissa-tassa-on-vakioveikkauksen-ihmerivi/</guid>
       <description>Vakioveikkausta on pelattu Suomessa jo vuodesta 1940 alkaen.
 Tyyppiarvon toimitus sai taannoin haltuunsa arvokasta dataa, kun innokas harrastaja oli kerännyt talteen Vakioveikkauksen oikeat voittorivit lähes 45 vuoden ajalta! Kiireisen journalistintyön ja sivutoimisen opiskelun keskellä aineisto ehti jo hetkeksi hautautua Tyyppiarvon datadeskin pöytälaatikkoon, mutta nyt TA tuo vihdoin veikkaustulokset päivänvaloon.
 Vakioveikkaus eli Vakio on urheiluvedonlyönnin muoto, jossa veikataan tyypillisesti jalkapallo-otteluiden lopputuloksia. Yksi vakiorivi koostuu kolmestatoista kohteesta eli ottelusta, joista kullakin on kolme mahdollista arvoa: 1, X ja 2.</description>
@@ -137,10 +137,10 @@ Vakioveikkaus eli Vakio on urheiluvedonlyönnin muoto, jossa veikataan tyypillis
     
     <item>
       <title>Data Science Day Interviews: Reaktor</title>
-      <link>https://example.com/blog/2018-02-06-data-science-day-interviews-reaktor/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-02-06-data-science-day-interviews-reaktor/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-02-06-data-science-day-interviews-reaktor/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-02-06-data-science-day-interviews-reaktor/</guid>
       <description>Tyyppiarvon Data Science -päivä -haastattelusarja julkaistaan poikkeuksellisesti englanniksi, sillä itse tapahtuma on englanninkielinen.
  ”Data Science Day Interviews” -series introduces the main partners of Data Science Day. Now we introduce Jaakko Särelä, PhD, who is AI designer and Principal consultant at Reaktor.
 Tell briefly about yourself and how you ended up working for Reaktor.
@@ -149,10 +149,10 @@ I have worked on artificial intelligence and machine learning for almost 25 year
     
     <item>
       <title>Data Science Day Interviews: Solita</title>
-      <link>https://example.com/blog/2018-01-27-data-science-day-interviews-solita/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-01-27-data-science-day-interviews-solita/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-01-27-data-science-day-interviews-solita/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-01-27-data-science-day-interviews-solita/</guid>
       <description>Tyyppiarvon Data Science -päivä -haastattelusarja julkaistaan poikkeuksellisesti englanniksi, sillä itse tapahtuma on englanninkielinen.
  ”Data Science Day Interviews” -series introduces the main partners of Data Science Day. The next one in line is Data Scientist Timo Voipio from Solita.
 Tell briefly about yourself and how you ended up working for Solita.
@@ -161,10 +161,10 @@ Hi! I am Timo, a Data Scientist at Solita. My journey to Solita has wound throug
     
     <item>
       <title>Data Science Day Interviews: Accenture</title>
-      <link>https://example.com/blog/2018-01-09-data-science-day-interviews-accenture/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2018-01-09-data-science-day-interviews-accenture/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2018-01-09-data-science-day-interviews-accenture/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2018-01-09-data-science-day-interviews-accenture/</guid>
       <description>Tyyppiarvon Data Science -päivä -haastattelusarja julkaistaan poikkeuksellisesti englanniksi, sillä itse tapahtuma on englanninkielinen.
  ”Data Science Day Interviews” -series introduces the main partners of Data Science Day. The first interview was made with Marko Sysi-Aho, who works as Manager of Digital Innovation and Health and Public Services at Accenture.
 Tell briefly about yourself and how you ended up working for Accenture.
@@ -173,10 +173,10 @@ My name is Marko Sysi-Aho and I graduated already in the spring of 2002 as a M.<
     
     <item>
       <title>Työelämäblogi: Miten päästä jouhevasti työelämään?</title>
-      <link>https://example.com/blog/2017-09-26-tyoelamablogi-miten-paasta-jouhevasti-tyoelamaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-09-26-tyoelamablogi-miten-paasta-jouhevasti-tyoelamaan/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-09-26-tyoelamablogi-miten-paasta-jouhevasti-tyoelamaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-09-26-tyoelamablogi-miten-paasta-jouhevasti-tyoelamaan/</guid>
       <description>Kirjoittaja on Tilastokeskuksessa Tilastolliset menetelmät -vastuualueen esimiehenä työskentelevä entinen moodilainen, joka valmistui maisteriksi vuonna 2006.
  1. Tärkeintä ei ole mitä olet opiskellut, vaan mitä osaat!
 Potentiaalista työnantajaasi ei niinkään kiinnosta, mitä kursseja olet käynyt tai mitä arvosanoja olet saanut. Oleellisin kysymys on, mitä olet oppinut! Esimerkiksi ensimmäisen vuoden opintojen saldon voi ilmaista kahdella tavalla:
@@ -185,10 +185,10 @@ Potentiaalista työnantajaasi ei niinkään kiinnosta, mitä kursseja olet käyn
     
     <item>
       <title>Kuuma käsi koripallossa: ilmiö vai illuusio?</title>
-      <link>https://example.com/blog/2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/</guid>
       <description>kirjoittaja on niin lineaariset mallit kuin kolmosen heitotkin hallitseva todennäköisyyspuristi, joka vaikuttaa Helsingin Yliopiston lisäksi Korisliigaan hiljattain nousseen Espoo Unitedin joukkueessa
  Kuuma käsi on Stephen Currylle tuttu ilmiö. Kuva: Wikimedia Commons
 Meillä ihmisillä on hyvät aivot. Muista eliöistä poiketen osaamme hahmottaa isoja kokonaisuuksia, ajatella kriittisesti ja pahoittaa mielemme sosiaalisessa mediassa. Toisin kuin citykanit, pystymme vierailemaan avaruudessa ja tuntemaan huonoa omatuntoa lihansyönnistä. Sen sijaan satunnaisuuden ja todennäköisyyksien todellista luonnetta olemme edelleen surkeita ymmärtämään vielä kiky-uudistuksen jälkeenkin.</description>
@@ -196,20 +196,20 @@ Meillä ihmisillä on hyvät aivot. Muista eliöistä poiketen osaamme hahmottaa
     
     <item>
       <title>Valta vaihtui Moodin seitsenottelussa</title>
-      <link>https://example.com/blog/2017-07-30-valta-vaihtui-moodin-seitsenottelussa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-07-30-valta-vaihtui-moodin-seitsenottelussa/</link>
       <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-07-30-valta-vaihtui-moodin-seitsenottelussa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-07-30-valta-vaihtui-moodin-seitsenottelussa/</guid>
       <description>Moodin perinteinen seitsenottelu kisattiin viikonloppuna Eläintarhan urheilupyhätössä pitkälti ensikertalaisten voimin. Kamppailuun osallistui ilahduttavat kahdeksan atleettia, joista suurimmalle osalle ottelu oli yleisurheilu-uran ensimmäinen. Kun seitsenottelua viime vuodet hallinnut Tuomas Reiterä oli jättäytynyt pois epämääräisiin tekosyihin vedoten, eikä myöskään viime vuoden kakkonen Heikki Ritaluoma ollut paikalla, saattoi useampi keltanokkakin haaveilla jopa kirkkaimmista mitaleista.
 Viime vuoden mitalisteista paikalla oli ainoastaan Petteri Mäntymaa, joka nappasikin avauslajin voiton aitomalla 100 metriä aikaan 18.17. Mäntymaan johto ei kuitenkaan kestänyt ensimmäistä lajia pidemmälle, vaan ennusteissa kärkisijoille povattu koripallotaustainen urheiluihme Topi &amp;ldquo;Viikinki&amp;rdquo; Halme aloitti korkeushypystä alkaen näytöksen, joka kesti ottelun loppuun asti.</description>
     </item>
     
     <item>
       <title>&#34;Suutu jo!&#34; - Moodin maastavetokilpailun Nassim Taleb -trophyn nappasi yllätysnimi</title>
-      <link>https://example.com/blog/2017-05-20-suutu-jo-moodin-maastavetokilpailun-nassim-taleb-trophyn-nappasi-yllatysnimi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-05-20-suutu-jo-moodin-maastavetokilpailun-nassim-taleb-trophyn-nappasi-yllatysnimi/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-05-20-suutu-jo-moodin-maastavetokilpailun-nassim-taleb-trophyn-nappasi-yllatysnimi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-05-20-suutu-jo-moodin-maastavetokilpailun-nassim-taleb-trophyn-nappasi-yllatysnimi/</guid>
       <description>Teksti: Ville Hyvönen, editointi: Aapeli Nevala, kuvat: Petteri Mäntymaa/Aapeli Nevala
 Moodin jo ensimmäisellä kerralla perinteisen maastanostokilpailun etukäteen suurin jännitysmomentti liittyi osallistujien määrään: kova uhoaminen on jatkunut jo viikkoja, ja kisaan on ilmoittautunut niin entisiä painnonnostomestareita kuin yli 200 kilon vetäjiäkin.
 Suuri pettymys koettiin jo kisapäivää edeltävänä päivänä, kun “paljon lähempänä kahta sataa kuin sataa” oleva Savi Virolainen totesi lineaaristen mallien laskareissa saikkosmaisen lakonisesti jättävänsä kilpailun väliin, jotta “muillakin olisi mahdollisuuksia”.</description>
@@ -217,10 +217,10 @@ Suuri pettymys koettiin jo kisapäivää edeltävänä päivänä, kun “paljon
     
     <item>
       <title>Harhainen estimaatti suunnitteli Unicafélle uudet ruokalistat</title>
-      <link>https://example.com/blog/2017-05-17-harhainen-estimaatti-suunnitteli-unicafelle-uudet-ruokalistat/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-05-17-harhainen-estimaatti-suunnitteli-unicafelle-uudet-ruokalistat/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-05-17-harhainen-estimaatti-suunnitteli-unicafelle-uudet-ruokalistat/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-05-17-harhainen-estimaatti-suunnitteli-unicafelle-uudet-ruokalistat/</guid>
       <description>Viimeviikkoisen Flooran päivän myötä yliopistolla siirryttiin kesäkauteen. Opiskelijat viettävät aikansa raatamalla alipalkattuja kesätöitä, muutama onnekas myös lomailemalla tai raatamalla kohtuullisesti palkattuja kesätöitä. Edes Unicafé Exactumissa kiire ei kesälläkään hellitä, vaan matematiikan laitoksen kellarissa suunnitellaan kuumeisesti uusia ruokalajeja seuraavalle lukuvuodelle.
 Luotettavien tietojen mukaan mukana työssä on Tyyppiarvon blogisti Harhainen estimaatti, joka toivoo ruokalistoille erityisesti enemmän matematiikkavitsejä. HE paljasti Tyyppiarvolle etukäteen kymmenen ensi syksyn suosituinta annosta:
 Banach-Tarskin tuulihatut Yksi tuulihattu, josta sopivalla tavalla paloiteltuna riittää syötävää varmasti koko laitokselle.</description>
@@ -228,20 +228,20 @@ Banach-Tarskin tuulihatut Yksi tuulihattu, josta sopivalla tavalla paloiteltuna 
     
     <item>
       <title>Tyyppiarvo selvitti: Mitä jos kaikki äänestäisivät kuntavaaleissa?</title>
-      <link>https://example.com/blog/2017-04-17-tyyppiarvo-selvitti-mita-jos-kaikki-aanestaisivat-kuntavaaleissa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-04-17-tyyppiarvo-selvitti-mita-jos-kaikki-aanestaisivat-kuntavaaleissa/</link>
       <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-04-17-tyyppiarvo-selvitti-mita-jos-kaikki-aanestaisivat-kuntavaaleissa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-04-17-tyyppiarvo-selvitti-mita-jos-kaikki-aanestaisivat-kuntavaaleissa/</guid>
       <description>Sunnuntaina 9.4. Suomessa äänestettiin kuntavaaleissa, joista oli povattu tasaisinta vaalia aikoihin. Lopputulokset ovat olleet selvillä nyt viikon ajan: Kokoomus oli suurin puolue niin Helsingissä kuin koko maassakin ja vaalien suurimmaksi voittajaksi nousi Vihreät. Suurin ääniharava oli Kokoomuksen Jan Vapaavuori, joka keräsi hurjan 29 547 äänen potin.
 Helsingin äänestysprosentti oli 61,6%, mikä on muutaman prosenttiyksikön verran koko maan lukua korkeampi. Alhainen äänestysprosentti on jo pitkään huolestuttanut politiikan tutkijoita ja sen ajatellaan heikentävän demokratian toimivuutta.</description>
     </item>
     
     <item>
       <title>&#34;Turpaan tuli, henki jäi&#34; - KTTO murskasi väsyneen MoPSin kevätklassikossa</title>
-      <link>https://example.com/blog/2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/</guid>
       <description>KTTO 11
 MoPSi 3
  KTTO otti sunnuntaina revanssin Kannunvalajien sählyturnauksen finaalin nöyryytyksestä kaatamalla MoPSin perinteisessä kevätklassikossa. Voitto oli KTTO:lle kautta kevätklassikon kaksivuotisen historian ensimmäinen.
@@ -251,10 +251,10 @@ TA:n urheilutoimituksen kolme leijonaa jaettiin kaksi maalia iskeneen Markus L
     
     <item>
       <title>Luulitko tuntevasi kuntavaaliehdokkaat? - testaa tietämyksesi Tyyppiarvon haastavalla vaalivisalla</title>
-      <link>https://example.com/blog/2017-04-09-luulitko-tuntevasi-kuntavaaliehdokkaat-testaa-tietamyksesi-tyyppiarvon-haastavalla-vaalivisalla/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-04-09-luulitko-tuntevasi-kuntavaaliehdokkaat-testaa-tietamyksesi-tyyppiarvon-haastavalla-vaalivisalla/</link>
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-04-09-luulitko-tuntevasi-kuntavaaliehdokkaat-testaa-tietamyksesi-tyyppiarvon-haastavalla-vaalivisalla/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-04-09-luulitko-tuntevasi-kuntavaaliehdokkaat-testaa-tietamyksesi-tyyppiarvon-haastavalla-vaalivisalla/</guid>
       <description>Suomessa äänestetään tänään kuntavaaleissa, joissa kunnanvaltuustoihin ympäri Suomea valitaan yhteensä 8999 valtuutettua. Kovimmat vaalifanaatikot ovat viime viikkojen kampanjoinnin aikana ehtineet oppia tuntemaan suurimman osan ehdokkaista. Tyyppiarvon vaalivisassa tämä ei kuitenkaan riitä, vaan ehdokkaiden lisäksi on syytä hallita myös kreikkalaiset aakkoset. Tunnistatko seuraavat kuntavaaliehdokkaat?
 1. Tämä Paraisilta kotoisin oleva RKP:n naisehdokas on kuntavaalien keskiarvoisin ehdokas.
 VASTAUS: Åsa μrberg
@@ -263,10 +263,10 @@ VASTAUS: Åsa μrberg
     
     <item>
       <title>Ei kahta ilman kolmatta - MoPSi dominoi jälleen Kannunvalajien sählyturnausta!</title>
-      <link>https://example.com/blog/2017-04-02-ei-kahta-ilman-kolmatta-mopsi-dominoi-jalleen-kannunvalajien-sahlyturnausta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-04-02-ei-kahta-ilman-kolmatta-mopsi-dominoi-jalleen-kannunvalajien-sahlyturnausta/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-04-02-ei-kahta-ilman-kolmatta-mopsi-dominoi-jalleen-kannunvalajien-sahlyturnausta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-04-02-ei-kahta-ilman-kolmatta-mopsi-dominoi-jalleen-kannunvalajien-sahlyturnausta/</guid>
       <description>Moodin nimi kirjoitettiin perjantaina kolmatta kertaa peräkkäin Kannunvalajien sählyturnauksen palkintokannun kylkeen. Perinteinen sählyturnaus järjestettiin jälleen Viikin Monitoimitalon palloilupyhätössä, ja vihreäpaitaiset olivat mukana komeasti kahdella joukkueella.
 A-lohkossa koiria edusti viime vuoden mestari MoPSi Akatemia kokoonpanolla Joni Oksanen, Santeri Mikkonen, Patrik Lauha, Markus Lauha. B-lohkon MoPSi Jarru oli sekoitus nuoruutta ja kokemusta. Fuksi Risko Rikkisen ja tuutori Daniel Karin lisäksi joukkueessa pelasivat lajilegendat Antero Liukkonen ja Heikki &amp;ldquo;Hessu&amp;rdquo; Hyhkö.
 Välierävaiheessa nähtiin odotettu Moodin derby, kun lohkonsa voittoon marssinut Akatemia ja Jarru kohtasivat uudenuutukaisella ykköskentällä, jonka laidat eivät olleet totutun haurasta styroksia vaan raskasta muovia.</description>
@@ -274,10 +274,10 @@ Välierävaiheessa nähtiin odotettu Moodin derby, kun lohkonsa voittoon marssin
     
     <item>
       <title>Tyyppiarvon applikaatiolla valitset puolueesi kuntavaaleissa</title>
-      <link>https://example.com/blog/2017-03-30-tyyppiarvon-applikaatiolla-valitset-puolueesi-kuntavaaleissa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-03-30-tyyppiarvon-applikaatiolla-valitset-puolueesi-kuntavaaleissa/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-03-30-tyyppiarvon-applikaatiolla-valitset-puolueesi-kuntavaaleissa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-03-30-tyyppiarvon-applikaatiolla-valitset-puolueesi-kuntavaaleissa/</guid>
       <description>Suomi jakautuu kuntiin, joilla on itsehallinto. Kunnan toiminnasta ja taloudesta päättää kunnanvaltuusto, joka valitaan kuntavaaleissa neljäksi vuodeksi kerrallaan. Seuraavien kuntavaalien äänestyspäivä on 9.4.2017 ja ennakkoäänestys on jo alkanut. Tyyppiarvo kehitti nyt vaalien alla HS:n vaalikonedataan perustuvan applikaation, joka mahdollistaa laajan kuntapoliittisen tarkastelun.
  
 90-luvun lopulla kehitetyt vaalikoneet ovat nykyään yleinen tapa hakea vaalien alla sopivaa ehdokasta. Noin puolet suomalaisista käyttää vaalikoneita ja niitä suosivat etenkin nuoret aikuiset, joista esimerkiksi noin 70% käytti vaalikonetta vuoden 2015 eduskuntavaalien yhteydessä.</description>
@@ -285,20 +285,20 @@ Välierävaiheessa nähtiin odotettu Moodin derby, kun lohkonsa voittoon marssin
     
     <item>
       <title>Opintoblogi: Huono kuuluvuus ja tasaisen tappavaa pyörimistä</title>
-      <link>https://example.com/blog/2017-03-25-opintoblogi-huono-kuuluvuus-ja-tasaisen-tappavaa-pyorimista/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-03-25-opintoblogi-huono-kuuluvuus-ja-tasaisen-tappavaa-pyorimista/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-03-25-opintoblogi-huono-kuuluvuus-ja-tasaisen-tappavaa-pyorimista/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-03-25-opintoblogi-huono-kuuluvuus-ja-tasaisen-tappavaa-pyorimista/</guid>
       <description>Opintoblogissa tilastotieteen opintoasioista vastaavat henkilöt kirjoittavat ajankohtaisista opintoihin liittyvistä asioista.
  Iso pyörä -uudistus puksuttaa eteenpäin raiteellaan vakionopeudella. Tavan opiskelija on saanut lukuvuoden kolmannen periodin survottua loppuun ja viimeinen rutistus ennen kesää on vielä edessä. Vaikka Iso pyörä -linjalla on ollut toisinaan kehnompi kuuluvuus ja kaikki tieto ei ole välttämättä valunut aina langoilla eteenpäin, niin vikaa on saattanut olla myös laiskassa soittajassa. Soittaa ei jaksa, kun kerrottavaa on vähänlaisesti: työryhmätyöt etenevät kaikilla rintamilla omissa tahdeissaan ja tietoa ylätason linjauksista odotellaan ennen kuin kannattaa heittää koksia pesään, jotta energiankäyttö olisi optimaalista.</description>
     </item>
     
     <item>
       <title>MoPSi melkein kaikkialla SC Judge Dreddiä parempi!</title>
-      <link>https://example.com/blog/2017-03-17-mopsi-melkein-kaikkialla-sb-judge-dreddia-parempi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-03-17-mopsi-melkein-kaikkialla-sb-judge-dreddia-parempi/</link>
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-03-17-mopsi-melkein-kaikkialla-sb-judge-dreddia-parempi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-03-17-mopsi-melkein-kaikkialla-sb-judge-dreddia-parempi/</guid>
       <description>MoPSi 3
 SB Judge Dredd 4
  MoPSi taipui perjantaina niukasti Pykälän SC Judge Dreddille Unisportin salibandysarjassa. Otteluun vahvasti haastajan asemasta lähtenyt koiralauma tarjosi paikalla olleille katsojille kuitenkin miehekkään esityksen ja huikean jännitysnäytelmän, joka jäi vain kruunua vaille vajaaksi.
@@ -307,10 +307,10 @@ MoPSi sai otteluun terävän lähdön, kun joukkueen Condus-vahvistus Ida Lehton
     
     <item>
       <title>Opintoblogi: Hyppy liikkuvaan junaan</title>
-      <link>https://example.com/blog/2017-01-23-opintoblogi-hyppy-liikkuvaan-junaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-01-23-opintoblogi-hyppy-liikkuvaan-junaan/</link>
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-01-23-opintoblogi-hyppy-liikkuvaan-junaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-01-23-opintoblogi-hyppy-liikkuvaan-junaan/</guid>
       <description>Opintoblogissa tilastotieteen opintoasioista vastaavat henkilöt kirjoittavat ajankohtaisista opintoihin liittyvistä asioista.
  Uusi vuosi ja uudet naamat! Kaikissa työryhmissä ollaan taas saatu sopiva myllerrys aikaan ja opiskelijat kiertävät jakkaralta seuraavalle koittaen löytää istumapaikan ennen musiikin loppumista.
 Halusimme tehdä lyhyen katsauksen tulevan vuoden opintotoimintaan, jotta tiedätte ketä vetää hihasta, kun homma ei toimi. Vuonna 2017 tilastotieteen opiskelijoita edustavat yliopiston elimissä Riku Laine, Sofia Lahdensuo, Joni Oksanen, Petteri Mäntymaa ja Topias Tolonen.
@@ -319,10 +319,10 @@ Riku Laine – allekirjoittanut – toimii Moodin opintovastaavana yhdessä Sofi
     
     <item>
       <title>MoPSin huikea doubleheader huipentui… tai no, ei huipentunut</title>
-      <link>https://example.com/blog/2017-01-11-mopsin-huikea-doubleheader-huipentui-tai-no-ei-huipentunut/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2017-01-11-mopsin-huikea-doubleheader-huipentui-tai-no-ei-huipentunut/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2017-01-11-mopsin-huikea-doubleheader-huipentui-tai-no-ei-huipentunut/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2017-01-11-mopsin-huikea-doubleheader-huipentui-tai-no-ei-huipentunut/</guid>
       <description>Moodin Palloseuran vuosi 2017 alkoi erityisissä tunnelmissa: Unisport-organisaatio oli asemoinut uuden vuoden avausottelupäivälle peräti kaksi peliä (!), ensin sählyssä Maantieteen opiskelijoiden MaO Reippailijoita vastaan, sitten futsalissa Yhiksen Torspoa vastaan.
 Yhdysvaltojen baseball-sarja MLB:stä tuttu kahden ottelun formaatti herättikin kihinää monella saralla – MoPSin WhatsApp-ryhmässä puhuttiin pitkästä aikaa urheilusta, ja lisäksi jo ensimmäisessä pelissä nähtiin yksi lähihistorian kovimpia yleisömääriä kun ottelua seurasi alaraajavammastaan toipuvan Tuomas Reiterän lisäksi katsomossa muutama muukin katsoja.
 Jo ottelun alkuhetkillä oli selvää, että vaikka sählykentän pinta-ala tiedettiin ainakin sigma-äärelliseksi, ehkä jopa äärelliseksi, näkyivät jouluruuat vielä osan MoPSi-pelaajan vyötäröillä ja osa hyökkääjistä joutui ravaamaan vaihdossa jatkuvasti.</description>
@@ -330,10 +330,10 @@ Jo ottelun alkuhetkillä oli selvää, että vaikka sählykentän pinta-ala tied
     
     <item>
       <title>Vuoden 2016 tilastosivut</title>
-      <link>https://example.com/blog/2016-12-30-vuoden-2016-tilastosivut/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-12-30-vuoden-2016-tilastosivut/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-12-30-vuoden-2016-tilastosivut/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-12-30-vuoden-2016-tilastosivut/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Vuoden lopuksi listaamme nyt kaikki vuoden 2016 tilastosivut. Hyvää uutta vuotta!
  Vuosi 2016 oli ehdottomasti Data Science -vuosi. Tämä näkyi myös vahvasti Tyyppiarvon tilastosivuissa, joista suurin osa käsittelee tilastotieteen ja tietojenkäsittelyn rajapintaa. Tsekkaa alta kaikki vuoden 2016 tilastosivut!
 Helmikuu Helmikuun tilastosivu oli fivethirtyeigth.com - journalismin ja tilastotieteen pyhä yhteenliittymä. FiveThirtyEight on sivusto, joka käsittelee uutisaiheita tilastollisesta näkökulmasta. Nimi 538 tulee maan presidentinvaalien valitsijamiesten määrästä.</description>
@@ -341,10 +341,10 @@ Helmikuu Helmikuun tilastosivu oli fivethirtyeigth.com - journalismin ja tilasto
     
     <item>
       <title>Hopeakrapula vaivaa? FC MoJolle selvä tappio futsal-avauksessa</title>
-      <link>https://example.com/blog/2016-12-08-hopeakrapula-vaivaa-fc-mojolle-selva-tappio-futsal-avauksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-12-08-hopeakrapula-vaivaa-fc-mojolle-selva-tappio-futsal-avauksessa/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-12-08-hopeakrapula-vaivaa-fc-mojolle-selva-tappio-futsal-avauksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-12-08-hopeakrapula-vaivaa-fc-mojolle-selva-tappio-futsal-avauksessa/</guid>
       <description>FC Matrix 5
 FC MoJo 1
  Viime kaudella sensaatiomaisesti hopeaan yltänyt VOO:n ja Moodin yhteisjoukkue FC MoJo aloitti keskiviikkona futsal-kautensa nihkeästi häviämällä matemaatikoille luvuin 5-1.
@@ -354,10 +354,10 @@ Ensimmäisellä puoliajalla MoJon pelaajat yllättivät kuitenkin itsensä mukaa
     
     <item>
       <title>Marraskuun tilastosivu on GitHub, ohjelmistojen rakennusalusta</title>
-      <link>https://example.com/blog/2016-11-30-marraskuun-tilastosivu-on-github-ohjelmistojen-rakennusalusta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-30-marraskuun-tilastosivu-on-github-ohjelmistojen-rakennusalusta/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-30-marraskuun-tilastosivu-on-github-ohjelmistojen-rakennusalusta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-30-marraskuun-tilastosivu-on-github-ohjelmistojen-rakennusalusta/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Marraskuun sivusto on GitHub, ohjelmointiprojekteja isännöivä sivusto, joka tarjoaa avoimen graafisen käyttöliittymän Linus Torvaldsin kehittämälle Git-versionhallinnalle.
  GitHub tarjoaa kätevän graafisen käyttöliittymän Git-versionhallintaa hyödyntäville projekteille. GitHub:ssa sijaitsevat esimerkiksi yleensä R-tilasto-ohjelmiston pakettien lähdekoodit ja monet muut avoimen tieteen ja datan projektit.
 Versionhallinta on yksinkertaisimmillaan ratkaisu tilanteeseen, jossa esimerkiksi kirjoitat lopputyötäsi ja kansiosi alkaa täyttymään tiedostoista kandi_1, kandi_2 , &amp;hellip;, kandi_comments1, .. , kandi_final1, kandi_final_FINAL ja niin edelleen.</description>
@@ -365,10 +365,10 @@ Versionhallinta on yksinkertaisimmillaan ratkaisu tilanteeseen, jossa esimerkiks
     
     <item>
       <title>Täydellisyyttä hiponut MoPSi kaatoi SB Bad Teachersin salibandytrillerissä!</title>
-      <link>https://example.com/blog/2016-11-25-taydellisyytta-hiponut-mopsi-kaatoi-sb-bad-teachersin-salibandytrillerissa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-25-taydellisyytta-hiponut-mopsi-kaatoi-sb-bad-teachersin-salibandytrillerissa/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-25-taydellisyytta-hiponut-mopsi-kaatoi-sb-bad-teachersin-salibandytrillerissa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-25-taydellisyytta-hiponut-mopsi-kaatoi-sb-bad-teachersin-salibandytrillerissa/</guid>
       <description>MoPSi 3
 SB Bad Teachers 2
  Upeasti taistellut MoPSi kaatoi perjantaina SB Bad Teachersin legendaarisen jännittävässä salibandykamppailussa. MoPSi kärsi avainpelaajien poissaoloista, kun kokoonpanosta puuttuivat alaraajavamman takia kaksi viikkoa sivussa oleva Spielführer Patrik Lauha ja pahasta lorvikatarrista kärsinyt maalipyssy Sebastian Veijola. Vain kahden vaihtomiehen turvin otteluun lähtenyt MoPSi ei kuitenkaan antanut tämän häiritä, vaan paikalla ollut joukkue otti miehekkään ja ansaitun taisteluvoiton vaihtopenkillä puuskuneen kapteeninsa innoittamana.
@@ -377,20 +377,20 @@ Tyyppiarvon tilastollisen merkitsevyyden toimitus huomauttaa, ettei vielä voida
     
     <item>
       <title>Työelämäblogi: Petri Tiihonen kehoittaa olemaan työnhaussa rohkea</title>
-      <link>https://example.com/blog/2016-11-22-tyoelamablogi-petri-tiihonen-kehoittaa-olemaan-tyonhaussa-rohkea/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-22-tyoelamablogi-petri-tiihonen-kehoittaa-olemaan-tyonhaussa-rohkea/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-22-tyoelamablogi-petri-tiihonen-kehoittaa-olemaan-tyonhaussa-rohkea/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-22-tyoelamablogi-petri-tiihonen-kehoittaa-olemaan-tyonhaussa-rohkea/</guid>
       <description>Olin aina pitänyt matematiikan ja fysiikan opiskelusta, joten lukion jälkeen oli selvää millä polulla jatketaan. Aloitin teknillisen fysiikan opinnot Otaniemessä vuonna 2002, mutta se tie jäi kahden vuoden mittaiseksi. Halusin jatkaa matematiikan parissa erilaisella painotuksella, joten aloitin tilastotieteen opinnot valtsikassa syksyllä 2004. Se valinta osoittautui onnistuneeksi ja valmistuin maisteriksi hitaasti mutta varmasti joulukuussa 2013.
 Minulla ei ollut opintojeni alussa erityistä näkemystä, mihin suuntaan haluaisin tilastotieteen lukemista painottaa. Ensimmäiset biometrian kurssit olivat mielenkiintoisia, joten lopulta melkein kaikki syventävät opintoni olivat biometrian kurssipaketista.</description>
     </item>
     
     <item>
       <title>Tyyppiarvo selvitti: Onko ylipaino ylivoimaa?</title>
-      <link>https://example.com/blog/2016-11-16-tyyppiarvo-selvitti-onko-ylipaino-ylivoimaa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-16-tyyppiarvo-selvitti-onko-ylipaino-ylivoimaa/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-16-tyyppiarvo-selvitti-onko-ylipaino-ylivoimaa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-16-tyyppiarvo-selvitti-onko-ylipaino-ylivoimaa/</guid>
       <description>Paavo Ylipaino HCK:n riveissä ottelussa Vaasan Sportia vastaan 13.10.2012. Kuva: Kristian Salminen, kristian.salminen@jatkoaika.com
  &amp;ldquo;Paino on voimaa ja ylipaino on ylivoimaa&amp;rdquo;, kuuluu tuttu sanonta. Väitteen todenmukaisuutta ei kuitenkaan tiettävästi ole aiemmin kyseenalaistettu tai tieteellisesti arvioitu.
 Tyyppiarvon jääkiekkotoimitus päätti ylipainoisen päätoimittajan Aapeli Nevalan (BMI 25,8) kehotuksesta tarttua haasteeseen ja tutkia jääkiekkoliiga NHL:n kauden 2015-2016 tilastojen avulla, onko ylipaino todella ylivoimaa. Lätkätoimituksen ylipainoinen data-analyytikko Joni Oksanen (BMI 27,2) ja normaalipainoinen kynäniekka Patrik Lauha (BMI 24,4) pureutuivat syvälle tilastoihin ja kaivoivat esille yksiselitteisen selkeät tulokset: ylipaino ei ole ylivoimaa, vaan pikemminkin alivoimaa.</description>
@@ -398,10 +398,10 @@ Tyyppiarvon jääkiekkotoimitus päätti ylipainoisen päätoimittajan Aapeli Ne
     
     <item>
       <title>MoPSilla kahden tappion viikko</title>
-      <link>https://example.com/blog/2016-11-11-mopsilla-kahden-tappion-viikko/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-11-mopsilla-kahden-tappion-viikko/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-11-mopsilla-kahden-tappion-viikko/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-11-mopsilla-kahden-tappion-viikko/</guid>
       <description>MaO Reippailijat 5 ∪ 3
 MoPSi 3
  MoPSi 1
@@ -412,10 +412,10 @@ Viikon ensimmäiseen otteluun koiralauma joutui yllättäen lähtemään ilman m
     
     <item>
       <title>Suomen toinen tilastotiedeaiheinen Susikoira Roi -vitsi on täällä!</title>
-      <link>https://example.com/blog/2016-11-11-suomen-toinen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-11-suomen-toinen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-11-suomen-toinen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-11-suomen-toinen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</guid>
       <description>Kuva: Wikimedia Commons
 Kuten taannoin uutisoimme, Roi opiskeli nuorena koirana tilastotiedettä. Roi oli lahjakas ja motivoitunut tilastotieteilijä, jota kiinnosti erityisesti todennäköisyyslaskenta ja sen sovellukset.
 Pro gradu -tutkielmassaan Roi syventyi momenttigeneroivien funktioiden ominaisuuksiin, ja haaveili jopa tutkijan ammatista päästäkseen kasvattamaan osaamistaan näiden parissa. Tutkijan ura ei Roille kuitenkaan auennut, ja koira päätyi kirjanpitäjäksi tilitoimisto Gement Oy:lle. Roi ei silti luopunut todennäköisyyslaskennasta, vaan jatkoi tutkimuksia vapaa-ajallaan.
@@ -424,10 +424,10 @@ Momenttifunktioiden lisäksi Roilla oli toinenkin intohimo: impressionistinen ta
     
     <item>
       <title>Tulevaisuuden oikeustiede tarvitsee tilastollisia menetelmiä</title>
-      <link>https://example.com/blog/2016-11-07-tulevaisuuden-oikeustiede-tarvitsee-tilastollisia-menetelmia/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-07-tulevaisuuden-oikeustiede-tarvitsee-tilastollisia-menetelmia/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-07-tulevaisuuden-oikeustiede-tarvitsee-tilastollisia-menetelmia/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-07-tulevaisuuden-oikeustiede-tarvitsee-tilastollisia-menetelmia/</guid>
       <description>Itä-Suomen yliopiston Joensuun kampuksella tarkastettiin 10. kesäkuuta 2016 väitöskirja &amp;ldquo;Arbitrium an decisio – Oikeudellisen päätöksenteon yhtenäisyys yleisissä tuomioistuimissa&amp;rdquo;, joka käsitteli Suomen käräjäoikeuksien, hovioikeuksien ja korkeimman oikeuden toimintaa. Väitöstutkimus osoittaa, että suomalaisten tuomioistuinten ratkaisutoiminnassa on havaittavissa alueellisia eroja.
 Nyt väitöskirjan tekijä, tutkijatohtori Mika Sutela kertoo Tyyppiarvossa, millaisia tilastollisia menetelmiä hän väitöstutkimuksessaan käytti ja mitä tilastotieteellä olisi annettavaa oikeustieteelle ja oikeuslaitosten päätöksenteolle. Itse väitöskirjaan voi tutustua tarkemmin täällä.
  Tilastotieteilijöille oikeudellinen areena on vaikea, mutta antoisa alue.</description>
@@ -435,10 +435,10 @@ Nyt väitöskirjan tekijä, tutkijatohtori Mika Sutela kertoo Tyyppiarvossa, mil
     
     <item>
       <title>Lokakuun tilastosivu on kokoelma datatiede-podcasteja</title>
-      <link>https://example.com/blog/2016-11-01-lokakuun-tilastosivu-on-kokoelma-datatiede-podcasteja/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-11-01-lokakuun-tilastosivu-on-kokoelma-datatiede-podcasteja/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-11-01-lokakuun-tilastosivu-on-kokoelma-datatiede-podcasteja/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-11-01-lokakuun-tilastosivu-on-kokoelma-datatiede-podcasteja/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Lokakuun sivusto on Matt Fogelin kokoelma datatiede- ja koneoppimisaiheisia podcasteja.
 Datatiede ja koneoppiminen ovat kuumaa kamaa, mutta tilastotietelijällekin voi olla hankalaa pysyä mukana alan kehityksessä. Blogipostauksessaan Matt Fogel suosittelee seitsemää datatiede ja koneoppimisaiheista podcastia, jotka avaavat tieteenalan trendejä ja menetelmiä.
 Data sceptic
@@ -448,20 +448,20 @@ Data sceptic
     
     <item>
       <title>Lauri Mauranen Moodin sulkapallomestari 2016!</title>
-      <link>https://example.com/blog/2016-10-27-lauri-mauranen-moodin-sulkapallomestari-2016/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-27-lauri-mauranen-moodin-sulkapallomestari-2016/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-27-lauri-mauranen-moodin-sulkapallomestari-2016/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-27-lauri-mauranen-moodin-sulkapallomestari-2016/</guid>
       <description>Perinteinen Moodin sulkapalloturnaus kamppailtiin torstaina ensimmäistä kertaa Kumpulan sulkapallopyhätössä. Paikalle oli saapunut kunnioitettavat 12 pelaajaa kamppailemaan tilastotieteilijöiden sulkapalloherruudesta. Moodilaisten lisäksi syksyn kovimmassa mailapelitapahtumassa oli mukana kolme matemaatikkoa, sekä yksi sveitsiläinen valtiotieteilijä.
 Turnaus osoittautui vielä odotettuakin kovatasoisemmaksi ja tyhjille lehtereille ahtautuneet katsojat saivat jo alkulohkovaiheessa ihastella tasokkaita sulkapallokohtaamisia. Alkulohkopelien helmiin kuului kivenkovan B-lohkon kärkikamppailu, jossa Lauri Mauranen päihitti Keski-Euroopan sulkapalloylpeys Aron Zürcherin tiukasti lukemin 21-15, 21-18. Toinen kuohuttava taistelu koettiin A-lohkon härkien Patrik Lauhan ja Ville Hyvösen välillä.</description>
     </item>
     
     <item>
       <title>Etkö tiedä, kuka ansaitsisi äänesi? Tutustu Tyyppiarvon vaalipaneeliin!</title>
-      <link>https://example.com/blog/2016-10-24-etko-tieda-kuka-ansaitsisi-aanesi-tutustu-tyyppiarvon-vaalipaneeliin/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-24-etko-tieda-kuka-ansaitsisi-aanesi-tutustu-tyyppiarvon-vaalipaneeliin/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-24-etko-tieda-kuka-ansaitsisi-aanesi-tutustu-tyyppiarvon-vaalipaneeliin/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-24-etko-tieda-kuka-ansaitsisi-aanesi-tutustu-tyyppiarvon-vaalipaneeliin/</guid>
       <description>Haluaisitko äänestää ylioppilaskunnan edustajistovaaleissa, vaikka yhtään kaveria ei ole ehdolla, muttet jaksa erityisesti selvittää kenelle ääni pitäisi antaa? Ei hätää, sillä Tyyppiarvon edarivaalipaneeli on täällä!
 Tyypparvon politiikan toimitus kokosi yhdessä yliopiston järjestökentän sisäpiiriin kuuluvan henkilön kanssa Moodin sähköpostilistan ja puskaradion kautta tilastomieliset ehdokkaat paneeliin, jossa jokaiselle vastaajalle annettiin 840 merkin (6 twiitin) verran tilaa kertoa itsestään ehdokkaana. Paneelissa ei ole siis tilaa jaarittelulle.
 Ehdokkaiden valintakriteerinä oli lähinnä jokin suhde tilastotieteeseen sekä annetuissa aikarajoissa pysyminen.</description>
@@ -469,10 +469,10 @@ Ehdokkaiden valintakriteerinä oli lähinnä jokin suhde tilastotieteeseen sek�
     
     <item>
       <title>MoPSille kauden avausvoitto urheiluvastaavien maaleilla!</title>
-      <link>https://example.com/blog/2016-10-19-mopsille-kauden-avausvoitto-urheiluvastaavien-maaleilla/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-19-mopsille-kauden-avausvoitto-urheiluvastaavien-maaleilla/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-19-mopsille-kauden-avausvoitto-urheiluvastaavien-maaleilla/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-19-mopsille-kauden-avausvoitto-urheiluvastaavien-maaleilla/</guid>
       <description>Metsäveitikat 2
 MoPSi 4
  MoPSi nappasi kauden avausvoittonsa Unisportin urheilusarjoissa keskiviikkona kun koiralauman uhriksi jäi viime vuoden salibandyn kilpasarjan voittaja Metsäveitikat. Hallitseva mestari lähti otteluun ilman avainpelaajiaan, eikä MoPSi jättänyt mahdollisuutta käyttämättä.
@@ -481,10 +481,10 @@ Vuoden 2015 urheiluvastaava ja MoPSi Sebastian Veijola oli poikkeuksellisesti 
     
     <item>
       <title>Onko moodilaisuus sinulle jo ongelma? Tee testi ja selvitä kuinka moodilainen olet!</title>
-      <link>https://example.com/blog/2016-10-14-testaa-kuinka-moodilainen-olet/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-14-testaa-kuinka-moodilainen-olet/</link>
       <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-14-testaa-kuinka-moodilainen-olet/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-14-testaa-kuinka-moodilainen-olet/</guid>
       <description>Oletko miettinyt oman moodilaisuutesi astetta? Niin mekin, niin mekin. Onneksi tähänkin kvalitatiiviseen ongelmaan on nyt kvantitatiivinen ratkaisu, sillä:
 Tyyppiarvon toimituksen suunnittelema eksakti moodilaisuustesti on täällä!
 Laadimme 10+8+7+7+5 = 37 tiukkaa kyllä/ei kysymystä. Jokaisesta kyllä-vastauksesta saat yhden pisteen. Lopullisen tuloksen, eli moodilaisuusprosenttisi, saat selville jakamalla kyllä-vastausten määrän kysymysten määrällä. Lopussa näet, mitä tulos tarkoittaa.
@@ -497,10 +497,10 @@ Opiskelua:
     
     <item>
       <title>MoPSille tappio kivikovan salibandysarjan avauksessa</title>
-      <link>https://example.com/blog/2016-10-12-mopsille-tappio-kivikovan-salibandysarjan-avauksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-12-mopsille-tappio-kivikovan-salibandysarjan-avauksessa/</link>
       <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-12-mopsille-tappio-kivikovan-salibandysarjan-avauksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-12-mopsille-tappio-kivikovan-salibandysarjan-avauksessa/</guid>
       <description>SiVuPePa 8
 MoPSi 3
  Unisportin salibandyn yhdistetty kilpa- ja rentosarja, joka tunnettaneen siis jatkossa vain &amp;ldquo;sarjana&amp;rdquo; alkoi MoPSin osalta keskiviikkona ottelulla Siltavuorenpenkereen Palloa vastaan. KTTO:n sekä muutaman keskieurooppalaisen vaihtarin vahvistama uusi, uljas MoPSi sai heti avausottelussaan todeta, ettei kovatasoiseksi arvioidussa sarjassa saa mitään ilmaiseksi. MoPSia huomattavasti vähälukuisempi vastustaja vei ottelun selvin lukemin taktisesti ehjällä esityksellä. Noin puolet pelistä hienosti taistellut MoPSi kaatui lopulta omiin virheisiinsä, joista vastustaja rokotti armotta. Palstatilan säästämiseksi Tyyppiarvon urheilutoimitus keskittyy raportissaan koiralauman positiivisiin otteisiin kentällä.</description>
@@ -508,10 +508,10 @@ MoPSi 3
     
     <item>
       <title>Matrix kaatoi FC MoJon futissarjan loppuhuipennuksessa</title>
-      <link>https://example.com/blog/2016-10-07-matrix-kaatoi-fc-mojon-futissarjan-loppuhuipennuksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-07-matrix-kaatoi-fc-mojon-futissarjan-loppuhuipennuksessa/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-07-matrix-kaatoi-fc-mojon-futissarjan-loppuhuipennuksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-07-matrix-kaatoi-fc-mojon-futissarjan-loppuhuipennuksessa/</guid>
       <description>FC MoJo 3
 Matrix 9
  Syksyn jalkapallosarja päättyi FC MoJon osalta perjantaina ottelulla matemaatikoiden Matrixia vastaan. Ennen ottelua MoJola oli vielä teoreettiset mahdollisuudet jatkoon, mutta siihen olisi edellytetty voittoa Matrixista ja FC Puujalkojen voittoa FC Hammertimesta. Kumpikaan näistä vaadituista ja riittävistä ehdoista ei toteutunut, joten valitettavasti koiralauma seuraa pudotuspelejä katsomosta käsin.
@@ -520,10 +520,10 @@ Ottelun dramaattisin käänne nähtiin jo ennen alkuvihellystä, kun MoJon joukk
     
     <item>
       <title>Vaalitapa voi muuttaa maailmaa — valtava osa USA:n vaalien äänistä menee hukkaan</title>
-      <link>https://example.com/blog/2016-10-04-vaalitapa-voi-muuttaa-maailmaa-valtava-osa-usan-vaalien-aanista-menee-hukkaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-10-04-vaalitapa-voi-muuttaa-maailmaa-valtava-osa-usan-vaalien-aanista-menee-hukkaan/</link>
       <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-10-04-vaalitapa-voi-muuttaa-maailmaa-valtava-osa-usan-vaalien-aanista-menee-hukkaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-10-04-vaalitapa-voi-muuttaa-maailmaa-valtava-osa-usan-vaalien-aanista-menee-hukkaan/</guid>
       <description>Al Gore tuskin lukeutuu Yhdysvaltojen nykyisen vaalitavan suurimpiin faneihin. Kuva: Wikimedia Commons
  Yhdysvaltojen presidentinvaalien tulosta ei tiedä vielä kukaan, mutta yksi asia on varmaa. Valtava osa maailman vaikutusvaltaisimman henkilön vaalin äänistä menee hukkaan.
 Tätä voi käyttää helppona esimerkkinä siitä, miten matematiikka voi tehdä maailmasta hyvin erilaisen.
@@ -532,10 +532,10 @@ Yhdysvaltojen presidentinvaaleissa on käytössä vaalijärjestelmä, jossa 538 
     
     <item>
       <title>FC MoJo nappasi avauspisteet jalkapallosarjassa!</title>
-      <link>https://example.com/blog/2016-09-30-fc-mojo-nappasi-avauspisteet-jalkapallosarjassa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-30-fc-mojo-nappasi-avauspisteet-jalkapallosarjassa/</link>
       <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-30-fc-mojo-nappasi-avauspisteet-jalkapallosarjassa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-30-fc-mojo-nappasi-avauspisteet-jalkapallosarjassa/</guid>
       <description>FC MoJo 2
 FC Puujalat 2
  FC MoJo nappasi perjantaina avauspisteensä jalkapallosarjassa, kun joukkue pelasi tasan metsätieteiden opiskelijoiden FC Puujalkoja vastaan. Koiralauma lähti otteluun leveällä kokoonpanolla, kun erityisesti Jormat olivat saapuneet tavallista sankemmin joukoin paikalle. Joukkueenjohto kiittelikin uuden osallistujaennätyksen tehnyttä 13:a pelaajaa aktiivisuudesta.
@@ -545,10 +545,10 @@ Itse kentällä MoJo ei kuitenkaan saanut alusta asti hyödynnettyä lukuisia ja
     
     <item>
       <title>PoRa kylvetti FC MoJoa rumin lukemin</title>
-      <link>https://example.com/blog/2016-09-28-pora-kylvetti-fc-mojoa-rumin-lukemin/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-28-pora-kylvetti-fc-mojoa-rumin-lukemin/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-28-pora-kylvetti-fc-mojoa-rumin-lukemin/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-28-pora-kylvetti-fc-mojoa-rumin-lukemin/</guid>
       <description>PoRa 8
 FC MoJo 1
  Moodin ja VOOn futisylpeys FC MoJo sai keskiviikkona tylyn oppitunnin siitä, mitä otaniemeläinen huippujalkapallo on. Etukäteen kovaksi vastustajaksi arvioitu Polyteknikkojen Raittiusseura lunasti odotukset ja pyöritteli vihreäpaidat nurin selkein numeroin.
@@ -557,10 +557,10 @@ FC MoJo aloitti ottelun vahvasti ja onnistui horjuttamaan PoRan ryhmitystä kuri
     
     <item>
       <title>FC MoJolle kirvelevä tappio jalkapallosarjan avauksessa</title>
-      <link>https://example.com/blog/2016-09-26-fc-mojolle-kirveleva-tappio-jalkapallosarjan-avauksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-26-fc-mojolle-kirveleva-tappio-jalkapallosarjan-avauksessa/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-26-fc-mojolle-kirveleva-tappio-jalkapallosarjan-avauksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-26-fc-mojolle-kirveleva-tappio-jalkapallosarjan-avauksessa/</guid>
       <description>FC MoJo 2
 FC Hammertime 3
  Urheilufanien pitkäksi venynyt kesäloma päättyi viimein maanantaina, kun Moodin ja VOOn yhteisjoukkueen, FC MoJon, kausi käynnistyi Töölön pallokentällä ottelulla geologien FC Hammertimea vastaan. Vanhat kehäketut olivat ryömineet ulos koloistaan ja sana oli kiirinyt myös fuksien keskuudessa, minkä seurauksena paikalle oli saapunut jopa 11 pelaajaa, mikä lähentelee FC MoJon seuraennätystä.
@@ -569,10 +569,10 @@ Itse ottelun alku oli MoJolle hankala (yllätys yllätys..). Joukkueella oli pai
     
     <item>
       <title>Nyt se alkaa! - Katso MoPSin joukkue-esittely ennen kauden avausvihellystä</title>
-      <link>https://example.com/blog/2016-09-26-nyt-se-alkaa-katso-mopsin-joukkue-esittely-ennen-kauden-avausvihellysta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-26-nyt-se-alkaa-katso-mopsin-joukkue-esittely-ennen-kauden-avausvihellysta/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-26-nyt-se-alkaa-katso-mopsin-joukkue-esittely-ennen-kauden-avausvihellysta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-26-nyt-se-alkaa-katso-mopsin-joukkue-esittely-ennen-kauden-avausvihellysta/</guid>
       <description>Unisportin jalkapalloliiga pyörähtää MoPSin ja VOO:n yhteisjoukkueen FC MoJon osalta käyntiin tänään, maanantaina, ottelulla FC Hammertimea vastaan. MoPSin joukkue koostuu kaudella 2016-2017 pitkälti tutuista luottopelaajista, mutta mukana on myös reilu tukku uusia fukseja, joiden otteita pelikentillä vihreäpaitojen kuvitteelliset fanit odottavat suurella mielenkiinnolla. Tyyppiarvon urheilutoimitus esittelee MoPSin tämänhetkisen sopimustilanteen mukaiset pelaajat, jotka muodostavat koiralauman ensi kauden rungon.
 Ville Hyvönen
 Lajit MoPSissa: Jalkapallo, Futsal, Lentopallo
@@ -581,10 +581,10 @@ Suurimmat saavutukset: Legendaarisen komea vapaapotkumaali yläkulmaan kevään 
     
     <item>
       <title>Syyskuun tilastosivu on DataCamp, R-koodauksen koulu</title>
-      <link>https://example.com/blog/2016-09-26-syyskuun-tilastosivu-on-datacamp-r-koodauksen-koulu/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-26-syyskuun-tilastosivu-on-datacamp-r-koodauksen-koulu/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-26-syyskuun-tilastosivu-on-datacamp-r-koodauksen-koulu/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-26-syyskuun-tilastosivu-on-datacamp-r-koodauksen-koulu/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Syyskyyn sivusto on DataCamp, Belgiassa ja Yhdysvalloissa toimiva startup, joka on erikoistunut data science -työkalujen opetukseen.
  DataCampin ilmaisen Introduction to R -kurssin tehtäviä on tehnyt yli 230 000 opiskelijaa ympäri maailmaa. Kaikkiaan oppimisalustan kursseja on tehnyt yli 500 000 opiskelijaa.
 DataCamp tarjoaa ilmaisia ja maksullisia ohjelmointikursseja, joiden selkeänä teemana on tekemällä oppiminen. Kurssit keskittyvät data sciencen päätyökaluihin, jotka ovat R ja Python.</description>
@@ -592,10 +592,10 @@ DataCamp tarjoaa ilmaisia ja maksullisia ohjelmointikursseja, joiden selkeänä 
     
     <item>
       <title>Kuka on heistä kaikkein kaunein? Näin syntyi Tyyppiarvon kilpailun voittanut missiennustus</title>
-      <link>https://example.com/blog/2016-09-21-kuka-on-heista-kaikkein-kaunein-nain-syntyi-tyyppiarvon-kilpailun-voittanut-missiennustus/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-21-kuka-on-heista-kaikkein-kaunein-nain-syntyi-tyyppiarvon-kilpailun-voittanut-missiennustus/</link>
       <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-21-kuka-on-heista-kaikkein-kaunein-nain-syntyi-tyyppiarvon-kilpailun-voittanut-missiennustus/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-21-kuka-on-heista-kaikkein-kaunein-nain-syntyi-tyyppiarvon-kilpailun-voittanut-missiennustus/</guid>
       <description>Tyyppiarvo esitti keväällä 2016 avoimen haasteen, jossa tavoitteena oli ennustaa Miss Suomi kilpailun kolmen kärki ja voittaja. Haastetta varten tyyppiarvon toimitus keräsi kasaan kattavan missitietokannan, joka avattiin yleisöllä kahta viikkoa ennen vuoden 2016 kilpailun ratkeamista. Tämä artikkeli kertoo, kuinka haasteen voittanut ennuste rakentui.
 Tyyppiarvon missiennustushaaste tarjosi huikean tilaisuudeen päästä soveltamaan nykyaikaisia tilastollisia menetelmiä. Tarjolla oli uniikki aineisto kauneuskilpailijoiden kasvokuvia ja menneiden kilpaluiden tuloksia.
 Digitaaliset kuvat ovat yksi esimerkki kenties hieman yllättävästä numeerisen datan lähteestä.</description>
@@ -603,10 +603,10 @@ Digitaaliset kuvat ovat yksi esimerkki kenties hieman yllättävästä numeerise
     
     <item>
       <title>Työelämäblogi: Maiju Pankakoski sai nuoruuden epävarmuuden hallintaan</title>
-      <link>https://example.com/blog/2016-09-13-tyoelamablogi-maiju-pankakoski-sai-nuoruuden-epavarmuuden-hallintaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-13-tyoelamablogi-maiju-pankakoski-sai-nuoruuden-epavarmuuden-hallintaan/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-13-tyoelamablogi-maiju-pankakoski-sai-nuoruuden-epavarmuuden-hallintaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-13-tyoelamablogi-maiju-pankakoski-sai-nuoruuden-epavarmuuden-hallintaan/</guid>
       <description>Kirjoittaja valmistui vuonna 2011 Valtiotieteellisestä tiedekunnasta pääaineenaan tilastotiede. Hän työskentelee tällä hetkellä Suomen Syöpärekisterin Joukkotarkarkastusrekisterissä ja tekee väitöskirjaa aiheesta &amp;ldquo;Kohdunkaulan syövän seulonnan elämänaikainen vaikuttavuus&amp;rdquo;.
  Maiju Pankakoski
 Keväällä 2004 olin tuore ylioppilas vailla minkäänlaista visiota tulevaisuuden urastani. Hakeutuako ympäristöalalle vai sittenkin kaupalliselle? Ehkä rahkeet riittivät korkeakouluopintoihin. Musiikki toki oli aina ollut intohimo.
@@ -615,20 +615,20 @@ Kaikki vaihtoehdot tuntuivat lopulta joko epäkiinnostavilta tai epärealistisil
     
     <item>
       <title>Pääkirjoitus: Lopetetaan tilastotieteestä puhuminen</title>
-      <link>https://example.com/blog/2016-09-05-paakirjoitus-lopetetaan-tilastotieteesta-puhuminen/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-09-05-paakirjoitus-lopetetaan-tilastotieteesta-puhuminen/</link>
       <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-09-05-paakirjoitus-lopetetaan-tilastotieteesta-puhuminen/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-09-05-paakirjoitus-lopetetaan-tilastotieteesta-puhuminen/</guid>
       <description>Olin ensitöikseni Tyyppiarvon päätoimittajana juttelemassa Kimmo Vehkalahden kanssa Suomen ensimmäisestä tilastotieteen MOOC-kurssista. Keskustelu oli antoisa niin kauan, kun pysyimme poissa aiheesta. Ei siksi, että MOOC-kurssissa ei ole vikaa, mutta juttuaihe oli kamala.
 Tilastotiede on nostanut jossain määrin profiiliaan lähivuosina. Mediassa Tiede-lehden blogeista Hesarin sunnuntaisivuihin esiintyy epäsäännöllisesti spekulaatioita, miten hyödyllistä ja hauskaa tilastotiedettä ja tilastollista ajattelua pitäisi tuoda milloin lukioon, milloin peruskouluun. Päiväkodeissa pärjätään vielä toistaiseksi ilman log-uskottavuusfunktiota, mutta sekin tullee vielä muuttumaan.</description>
     </item>
     
     <item>
       <title>Harhainen estimaatti: Opettele nämä käsitteet, fuksi</title>
-      <link>https://example.com/blog/2016-08-03-harhainen-estimaatti-opettele-nama-kasitteet-fuksi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-08-03-harhainen-estimaatti-opettele-nama-kasitteet-fuksi/</link>
       <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-08-03-harhainen-estimaatti-opettele-nama-kasitteet-fuksi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-08-03-harhainen-estimaatti-opettele-nama-kasitteet-fuksi/</guid>
       <description>Syksy lähestyy ja tuutorivastaavat vääntävät fuksioppaisiinsa sanastoja, joilla uudet opiskelijat voidaan integroida tehokkaasti yliopistoyhteisön kunniakkaiksi, tuottaviksi jäseniksi. Auttaakseen tuutorivastaavia Tyyppiarvon blogaaja Harhainen estimaatti päätti luoda tilastotieteilijöille suunnatun, hyvin sisäänpäin lämpeävän fuksisanaston.
  Anal. - Peräaukko englanniksi, yleinen lyhenne fuksivuoden analyysin kursseille raja-arvot ja differentiaalilaskenta. Hauska vitsi, kerran.
 Anal.II - Yleinen lyhenne fuksivuoden analyysin kursseille integraalilaskenta ja sarjat. Joidenkin mielestä yhä hauska vitsi.
@@ -638,10 +638,10 @@ Chemicum - Rakennus Kumpulassa, jossa on ruokala ja … kemistejä?</description
     
     <item>
       <title>Moodin seitsenottelu – Ennätyksiä ja uuden veren kaipuuta</title>
-      <link>https://example.com/blog/2016-07-29-moodin-seitsenottelu-ennatyksia-ja-uuden-veren-kaipuuta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-07-29-moodin-seitsenottelu-ennatyksia-ja-uuden-veren-kaipuuta/</link>
       <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-07-29-moodin-seitsenottelu-ennatyksia-ja-uuden-veren-kaipuuta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-07-29-moodin-seitsenottelu-ennatyksia-ja-uuden-veren-kaipuuta/</guid>
       <description>Teksti: YU-Niilo_90
 Kirjoittaja on entinen yleisurheilija ja viime vuosina Moodin seitsenottelua läheltä seurannut toimija.
 Moodin seitsenottelussa kilvoiteltiin viidettätoista kertaa lauantaina 23.7. Ensimmäisen kerran vuonna 1999 järjestetty ottelu on perinteisyydessään Moodin opiskelijaurheilun vuoden kohokohta ja luultavasti koko Helsingin yliopistossa ainutlaatuinen tapahtuma.
@@ -650,10 +650,10 @@ Pelkillä perinteillä on kuitenkin vaikea ansaita paikkaa opiskelijaelämän yt
     
     <item>
       <title>Kun algoritmi korvasi käsikirjoittajan</title>
-      <link>https://example.com/blog/2016-07-04-kun-algoritmi-korvasi-kasikirjoittajan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-07-04-kun-algoritmi-korvasi-kasikirjoittajan/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-07-04-kun-algoritmi-korvasi-kasikirjoittajan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-07-04-kun-algoritmi-korvasi-kasikirjoittajan/</guid>
       <description>Ihmisten irvikuvia, katkera kolmiodraama, dialogeja jotka venyvät tajunnanvirtaisiksi monologeiksi. Kaurismäkeläistä surrealismia parhaimmillaan? Ei, kyseessä Sunspring –niminen lyhytelokuva, jonka on käsikirjoittanut – kyllä, algoritmi.
 Algoritmi, joka kutsuu itseään nimellä Benjamin on entrepreneur-teknologisti Ross Goodwinin ja elokuvantekijä Oscar Sharpin yhteistyöstä syntynyt maailman ensimmäinen automaattinen käsikirjoittaja.
 Siinä missä Tyyppiarvon sivullakin esittäyvän ja twitterissä seikkailevan Markovin ketjulla raksuttavan StubbBotin lähimuisti esikuvalleenkin uskollisesti reistailee, Benjaminin koneen alla nakuttaa monimutkaisempi algoritmi, jolle koulutuslupauksenkaan muistaminen ei olisi ongelma.</description>
@@ -661,10 +661,10 @@ Siinä missä Tyyppiarvon sivullakin esittäyvän ja twitterissä seikkailevan M
     
     <item>
       <title>Päivitetty EM-futisennuste: Islanti kuusinkertaisti mahdollisuutensa Euroopan mestariksi!</title>
-      <link>https://example.com/blog/2016-06-30-paivitetty-em-futisennuste-islanti-kuusinkertaisti-mahdollisuutensa-euroopan-mestariksi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-30-paivitetty-em-futisennuste-islanti-kuusinkertaisti-mahdollisuutensa-euroopan-mestariksi/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-30-paivitetty-em-futisennuste-islanti-kuusinkertaisti-mahdollisuutensa-euroopan-mestariksi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-30-paivitetty-em-futisennuste-islanti-kuusinkertaisti-mahdollisuutensa-euroopan-mestariksi/</guid>
       <description>teksti: Aapeli Nevala
 analyysi: Tuomo Nieminen
 Tyyppiarvon puolivälieriä varten päivitetty EM-ennuste povaa Islannille noin prosentin mahdollisuutta voittaa mestaruus.
@@ -674,10 +674,10 @@ Voitettuaan Englannin Islannin saumat kuitenkin paranivat merkittävästi: nyt T
     
     <item>
       <title>Tyyppiarvo tutki 32768 mahdollista skenaariota — Belgia-Saksa todennäköisin EM-finaali</title>
-      <link>https://example.com/blog/2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/</link>
       <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/</guid>
       <description>Teksti: Aapeli Nevala
 Analyysi: Tuomo Nieminen
 Jalkapallon EM-kisojen pudotuspelit käynnistyvät tänään kello 15:30 ottelulla Sveitsi-Puola. Kenestä kruunataan jalkapallon Euroopan mestari?
@@ -688,10 +688,10 @@ Todennäköisin finaali mallin mukaan on siis Belgia-Saksa. Saksa taas on turnau
     
     <item>
       <title>Harhainen estimaatti: Päällystämällä yrityslähtöisyyttä yliopistoon</title>
-      <link>https://example.com/blog/2016-06-21-harhainen-estimaatti-paallystamalla-yrityslahtoisyytta-yliopistoon/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-21-harhainen-estimaatti-paallystamalla-yrityslahtoisyytta-yliopistoon/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-21-harhainen-estimaatti-paallystamalla-yrityslahtoisyytta-yliopistoon/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-21-harhainen-estimaatti-paallystamalla-yrityslahtoisyytta-yliopistoon/</guid>
       <description>Muuttuvassa modernissa yhteiskunnassa yliopistoelämän pitää muuttua yrityslähtöisemmäksi ja pyrkiä jatkuvasti innovoimaan uusia business-ideoita, joita voidaan välittömästi soveltaa työelämään. Tarvitaan laatua, tehokkuutta ja vaikuttavuutta parantavia uudistuksia (Grahn-Laasonen, 2016). Tyyppiarvon blogisti Harhainen estimaatti astui pöhinäkeskukseen ja innovoi nyt Moodi ry:lle kannattavaa yritystoimintaa, jonka avulla saadaan Suomi nousuun.
 &amp;ldquo;Moodi ry aloittaa teiden rakentamisen ja yleisen infrastruktuurin ylläpitopalvelujen järjestämisen suunnittelut vuonna 2016.
 Tähän tarkoitukseen Moodi ry perustaa liiketoimintaa varten oman yrityksen, Päällystin Oy:n.
@@ -700,20 +700,20 @@ Helsingin yliopiston Iso Pyörä-koulutusuudistuksen taustalla yksi keskeinen pa
     
     <item>
       <title>Pärjääkö tilastotiede ennustajakurkulle? Me selvitimme!</title>
-      <link>https://example.com/blog/2016-06-15-parjaako-tilastotiede-ennustajakurkulle-me-selvitimme/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-15-parjaako-tilastotiede-ennustajakurkulle-me-selvitimme/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-15-parjaako-tilastotiede-ennustajakurkulle-me-selvitimme/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-15-parjaako-tilastotiede-ennustajakurkulle-me-selvitimme/</guid>
       <description>Jalkapallon EM-kisojen otteluiden tuloksia ovat tilastotieteilijöiden ja urheilutoimittajien lisäksi ennustaneet muun muassa mustekala, simpanssi ja papukaija. Vuoden 2016 kunniakkaaseen näkijöiden ammattikuntaan liittyi myös eräs Cucumis-suvun yksivuotinen ruohovartinen vihanneskasvi: suomalainen ennustajakurkku. Kurkku mallintaa pelaavien joukkueiden voittotodennäköisyyksiä pyörähtämällä akselinsa ympäri ja osoittaen punnituslapun merkitsemällä päällään kohti valitsemaansa joukkuetta. Ennustajakurkun mukaisia voimasuhteita voi seurata vihanneksen Facebook-sivulla.
 Tyyppiarvo julkaisi oman käsityksensä alkulohkojen kulusta kisojen alkaessa Ranskassa viime perjantaina ja ottelukohtaisia voimasuhteita voi seurata reaaliaikaisesti Tyyppiarvon Twitter-tilillä ennen otteluiden alkua.</description>
     </item>
     
     <item>
       <title>Jalkapallossa kannattaa laukoa: Ennustimme EM-turnauksen alkuvaiheen ottelut ja jatkoonmenijät.</title>
-      <link>https://example.com/blog/2016-06-10-jalkapallossa-kannattaa-laukoa-ennustimme-em-turnauksen-alkuvaiheen-ottelut-ja-jatkoonmenijat/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-10-jalkapallossa-kannattaa-laukoa-ennustimme-em-turnauksen-alkuvaiheen-ottelut-ja-jatkoonmenijat/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-10-jalkapallossa-kannattaa-laukoa-ennustimme-em-turnauksen-alkuvaiheen-ottelut-ja-jatkoonmenijat/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-10-jalkapallossa-kannattaa-laukoa-ennustimme-em-turnauksen-alkuvaiheen-ottelut-ja-jatkoonmenijat/</guid>
       <description>Kuvan todennäköisyydet ottelun lopputulokselle ovat kotijoukkueen näkökulmasta.
  Kuvat, teksti ja analyysit: Tuomo Nieminen
 Aineisto: Tuomo Nieminen, Aapeli Nevala
@@ -723,10 +723,10 @@ Karsintaotteluista kertyy paljon tilastoja ja edellisten lopputurnausten tulokse
     
     <item>
       <title>Oletko aina halunnut missiksi? Lähetä kuvasi Miss Moodi -kilpailuun ja voita!</title>
-      <link>https://example.com/blog/2016-06-04-oletko-aina-halunnut-missiksi-laheta-kuvasi-miss-moodi-kilpailuun-ja-voita/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-06-04-oletko-aina-halunnut-missiksi-laheta-kuvasi-miss-moodi-kilpailuun-ja-voita/</link>
       <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-06-04-oletko-aina-halunnut-missiksi-laheta-kuvasi-miss-moodi-kilpailuun-ja-voita/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-06-04-oletko-aina-halunnut-missiksi-laheta-kuvasi-miss-moodi-kilpailuun-ja-voita/</guid>
       <description>Oletko halunnut voittaa missikilpailun, mutta samalla sinusta on tuntunut siltä, että kisatuomariston subjektiivinen näkemys kauneudesta on ollut ristiriidassa oman käsityksesi kanssa?
 Nyt toive, jota et ole kehdannut kertoa edes äidillesi, toteutuu, sillä Miss Moodi on täällä! Se on missikilpailu, jonka tilastotieteilijäkin voi voittaa.
 Kilpailu toimii seuraavalla tavalla: lähetä valokuvasi osoitteeseen tyyppiarvo@gmail.com, ja olet mukana Suomen objektiivisimmassa missikilpailussa.
@@ -735,10 +735,10 @@ Emme katso siviilisäätyyn, sukupuoleen tai juuri mihinkään muuhunkaan. Aino
     
     <item>
       <title>Kumpi oli kovempi juttu: MM-kulta 1995 vai 2011? Tyyppiarvo selvitti</title>
-      <link>https://example.com/blog/2016-05-21-tyyppiarvo-selvitti-mm-jaakiekon-henkinen-finaali-pelataan-tanaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-21-tyyppiarvo-selvitti-mm-jaakiekon-henkinen-finaali-pelataan-tanaan/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-21-tyyppiarvo-selvitti-mm-jaakiekon-henkinen-finaali-pelataan-tanaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-21-tyyppiarvo-selvitti-mm-jaakiekon-henkinen-finaali-pelataan-tanaan/</guid>
       <description>Kaikki tietävät, että jääkiekon MM-kisoissa ei aina pelaa maan paras miehistö. Tämän takia MM-kisojen taso heittelee ja kisojen voittamista voidaan pitää vaikeampana joinakin vuosina. Mutta milloin jääkiekon MM-turnaus on ollut kaikkein kovimmillaan?
 Tyyppiarvon urheilutoimitus laski jokaiselle olympiamitalin Naganossa 1998 tai sen jälkeen voittaneen maan MM-miehistölle &amp;ldquo;OS&amp;rdquo; eli &amp;ldquo;Olympic Score&amp;rdquo; -lukeman, joka kertoo kyseisen vuoden MM-joukkueen kovuudesta.
 OS-score kertoo, paljonko joukkue on saanut jalkeille parhaita pelaajiaan. Parhaat pelaajat ovat tässä niitä, jotka ovat pelanneet maan olympiajoukkueessa MM-kisoja &amp;ldquo;ympäröivien&amp;rdquo; olympialaisten aikana.</description>
@@ -746,10 +746,10 @@ OS-score kertoo, paljonko joukkue on saanut jalkeille parhaita pelaajiaan. Parha
     
     <item>
       <title>Toukokuun tilastosivu on Cross Validated, vastausten foorumi</title>
-      <link>https://example.com/blog/2016-05-18-toukokuun-tilastosivu-on-cross-validated-vastausten-foorumi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-18-toukokuun-tilastosivu-on-cross-validated-vastausten-foorumi/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-18-toukokuun-tilastosivu-on-cross-validated-vastausten-foorumi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-18-toukokuun-tilastosivu-on-cross-validated-vastausten-foorumi/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Toukokuun sivusto on Cross Validated, Joel Spolskyn ja Jeff Atwoodin vuonna 2008 perustaneen kysy &amp;amp; vastaa sivuston Stack Exchangen alisivu.
  Stack Exchange on verkosto kysy &amp;amp; vastaa foorumeita, joiden suosituin edustaja on ohjelmoinnin kysymyksiin keskittyvä Stack Overflow. Stack Overflowsta copypastaaminen onkin luultavasti aloittelevan ohjelmoijan toistetuin työvaihe.
 Cross validated on tilastotieteeseen ja sen lähialoihin keskittyvä kysy &amp;amp; vastaa sivusto, josta löytyy vastauksia tilastotieteen, data-analyysin, koneoppimisen, tiedon louhinnan ja tiedon visualisoinnin kysymyksiin.</description>
@@ -757,10 +757,10 @@ Cross validated on tilastotieteeseen ja sen lähialoihin keskittyvä kysy &amp;a
     
     <item>
       <title>Tyyppiarvo ennustaa: ketkä ovat tämän illan Miss Suomi -kilpailun kärkikolmikko?</title>
-      <link>https://example.com/blog/2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/</guid>
       <description>Miss Suomi 2016 -kilpailu ratkeaa tänään. Kilpailua voi seurata neloselta 20:00 alkaen. HUOMI! Tämä juttu sisältää tilastollisia spoilereita.
 Miss Suomi 1965, Virpi Miettinen. Kuva: Wikimedia
   Noin viikko sitten julkaisimme keräämäämme aineistoon perustuvan kilpailun, jossa haasteena oli ennustaa Miss Suomi -kilpailun kärkikolmikko käyttäen hyväksi tilastollisia menetelmiä ja dataa menneistä kilpailuista.
@@ -769,10 +769,10 @@ Tehtävä ei ollut helppo; aineistossa oli suhteellisen pieni määrä havaintoj
     
     <item>
       <title>Asuuko Survomossa tikkaat?  - Me selvitimme!</title>
-      <link>https://example.com/blog/2016-05-12-asuuko-survomossa-tikkaat-me-selvitimme/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-12-asuuko-survomossa-tikkaat-me-selvitimme/</link>
       <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-12-asuuko-survomossa-tikkaat-me-selvitimme/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-12-asuuko-survomossa-tikkaat-me-selvitimme/</guid>
       <description>Tyyppiarvon saamien tietojen mukaan Moodin opiskelijahuoneessa, Survomossa, on tammi-helmikuun vaihteesta asti asustanut A-tikkaat. Lähetimme Tyyppiarvon rakennusvälinetoimittaja Joni Oksasen selvittämään asiaa.
  Hei! Kuka olet ja mitä teet Moodin huoneessa? - Olen Helsingin yliopiston A-tikkaat, ja minut hylättiin tänne jokunen kuukausi sitten.
 Hylättiin? Mitä tarkoitat? - Minut tuotiin tänne avustamaan yliopiston huoltomiestä sisäkaton kaapelointien korjaamisessa, mutta en ole nähnyt työkavereitani sitten helmikuun alun.
@@ -781,10 +781,10 @@ Samaan aikaan juuri tammikuun lopussa ilmoitettiin yliopiston irtisanomisista. O
     
     <item>
       <title>Työelämäblogi: Jussi Tervola - Puhtaasta matematiikasta kohti substanssia</title>
-      <link>https://example.com/blog/2016-05-10-tyoelamablogi-jussi-tervola-puhtaasta-matematiikasta-kohti-substanssia/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-10-tyoelamablogi-jussi-tervola-puhtaasta-matematiikasta-kohti-substanssia/</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-10-tyoelamablogi-jussi-tervola-puhtaasta-matematiikasta-kohti-substanssia/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-10-tyoelamablogi-jussi-tervola-puhtaasta-matematiikasta-kohti-substanssia/</guid>
       <description>Jussi Tervola siirtyi valtiotieteelliseen tiedekuntaan lukemaan tilastotiedettä vuonna 2007. Hän tekee väitöskirjaa maahanmuuttajista ja Suomen sosiaalipolitiikasta. Tänä keväänä Tervola on ollut vierailulla Tukholman yliopiston väestötieteen tutkimusyksikössä, missä hän tekee vertailevaa tutkimusta Suomen ja Ruotsin perhevapaajärjestelmistä maahanmuuttajien näkökulmasta.
  Minua pyydettiin kirjoittamaan työelämäblogiin tähänastisesta työ- ja opiskelijaurastani. Aluksi on hyvä kertoa, että olen vieläkin oikeastaan opiskelija, tarkemmin yhteiskuntapolitiikan jatko-opiskelija. Samalla olen töissä tutkijana Kelan tutkimusosastolla.
 Alussa oli matematiikka. Kun aloitin lukemaan matematiikkaa tuoreella Kumpulan kampuksella vuonna 2005, tiesin, että se pysäkki on hyvin todennäköisesti väliaikainen.</description>
@@ -792,10 +792,10 @@ Alussa oli matematiikka. Kun aloitin lukemaan matematiikkaa tuoreella Kumpulan k
     
     <item>
       <title>FC MoJon heikko kevätkausi jatkui murskatappiolla Pykälälle</title>
-      <link>https://example.com/blog/2016-05-06-fc-mojon-farssikausi-jatkuu/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-06-fc-mojon-farssikausi-jatkuu/</link>
       <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-06-fc-mojon-farssikausi-jatkuu/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-06-fc-mojon-farssikausi-jatkuu/</guid>
       <description>Moodin ja VOO:n yhteisjoukkueen FC MoJon koomiset esitykset kevään futissarjassa jatkuivat perjantaina, kun Pykälän salskeat oikeustieteilijät pyörittelivät tilastonörttejä ja yhtä valtio-opin opiskelijaa tylysti 9- tai 10-0.
 Jo ennen ottelun alkua tummat pilvet näyttivät kasautuvan joukkueen päälle, sillä poissaolokiintiö kasvoi taas luvattoman suureksi erinäisistä syistä, kuten &amp;ldquo;töissä&amp;rdquo;, &amp;ldquo;en pääse&amp;rdquo; ja &amp;ldquo;ei oikeastaan kiinnosta tarpeeksi&amp;rdquo;.
 Lisäksi muutama minuutti ennen pelin alkua selvisi, että korissarjassa Pykälän joukkueen lähes omatoimisesti kaatanut Topi Halme oli vielä Espoossa, sillä muisti ottelun alkavan vasta tunnin päästä.</description>
@@ -803,10 +803,10 @@ Lisäksi muutama minuutti ennen pelin alkua selvisi, että korissarjassa Pykäl�
     
     <item>
       <title>Tyyppiarvon suuri missihaaste: Ennusta vuoden 2016 voittajat</title>
-      <link>https://example.com/blog/2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/</link>
       <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/</guid>
       <description>Miss Suomi 2016 ratkeaa perjantaina 13.5.2016. Luonnollisesti Tyyppiarvo yhdessä koko Suomen kansan kanssa jännittää sitä, kuka kruunataan maan kauneimmaksi. Mutta voisiko jännitystä helpottaa ja voittajan ennustaa tilastollisten menetelmien avulla?
 16 Miss Suomi -kilpailijaa vuosilta 2007-2015
 Tyyppiarvon toimitus on yhteistyössä Itä-Suomen yliopiston tutkija Mika Sutelan kanssa kerännyt kasaan aineiston, joka sisältää vuosien 2007 - 2016 Miss Suomi -kilpailijoiden kriittiset mitat, asuinpaikat, kasvokuvatiedot ja sijoitukset kilpailussa. Aineisto on tästä päivästä alkaen vapaasti saatavilla alla olevan linkin kautta.</description>
@@ -814,10 +814,10 @@ Tyyppiarvon toimitus on yhteistyössä Itä-Suomen yliopiston tutkija Mika Sutel
     
     <item>
       <title>Tyyppiarvon toimituksen vappudrinkkivinkit</title>
-      <link>https://example.com/blog/2016-04-29-tyyppiarvon-toimituksen-vappudrinkkivinkit/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-29-tyyppiarvon-toimituksen-vappudrinkkivinkit/</link>
       <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-29-tyyppiarvon-toimituksen-vappudrinkkivinkit/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-29-tyyppiarvon-toimituksen-vappudrinkkivinkit/</guid>
       <description>Huhtikuun viimeinen viikko on käsillä, mikä tarkoittaa opiskelijapiireissä luonnollisesti vappuun virittäytymistä. Tyyppiarvon ruoka- ja drinkkitoimitus esitteleekin moodilaisten suosikkidrinkit, joiden avulla saat pientä piristystä vappuun ja elämääsi noin yleisesti.
  Epsilon-delta $\varepsilon$ cl energiajuomaa
 $\delta$ cl jägermeisteria
@@ -828,10 +828,10 @@ Tarjoillaan Survomon lämpöisenä. Totea aamuyöllä, että lämmin viina on va
     
     <item>
       <title>Suuri pettymys: Moodin pokerimestaruus lipsahti taloustieteilijälle</title>
-      <link>https://example.com/blog/2016-04-28-suuri-pettymys-moodin-pokerimestaruus-lipsahti-taloustieteilijalle/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-28-suuri-pettymys-moodin-pokerimestaruus-lipsahti-taloustieteilijalle/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-28-suuri-pettymys-moodin-pokerimestaruus-lipsahti-taloustieteilijalle/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-28-suuri-pettymys-moodin-pokerimestaruus-lipsahti-taloustieteilijalle/</guid>
       <description>Perinteisesti kovatasoinen tilastotieteilijöiden pokeriturnaus pelattiin keskiviikkona Uudella ylioppilastalolla, missä Moodi ry joutui kohtaamaan todellisen nöyryytyksen: turnauksen ja The Boss -pokaalin voitti taloustieteilijä.
 Pokeriturnaus osoittautui suosituksi ja mukana oli tilastolaisten lisäksi paljon matemaatikkoja sekä taloustieteilijöitä. Tästä voisi päätellä pokerin olevan tulevan matemaattisten tieteiden kandiohjelman miesopiskelijoita yhdistävä tekijä, yhtään naista ei turnauksessa nähty.
 23 matemaattisesti valveutuneen miehen ahtautuminen pieneen Beauvoiriin tekikin turnauksesta paitsi pelitaitoja, myös hien hajun sietokykyä mittaavan kamppailun.
@@ -840,10 +840,10 @@ Vieraskoreat moodilaiset laittoivat ykkösnyrkkinsä aloittamaan turnauksen vara
     
     <item>
       <title>FC MoJo konvergoi kohti murskavoittoa futissarjassa</title>
-      <link>https://example.com/blog/2016-04-27-fc-mojo-konvergoi-kohti-murskavoittoa-futissarjassa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-27-fc-mojo-konvergoi-kohti-murskavoittoa-futissarjassa/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-27-fc-mojo-konvergoi-kohti-murskavoittoa-futissarjassa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-27-fc-mojo-konvergoi-kohti-murskavoittoa-futissarjassa/</guid>
       <description>FC MoJo 2
 Kicking CHEmeleons 7
  FC MoJo lähti keskiviikkona hakemaan Töölön Wembleyn tekonurmelta ensimmäistä voittoaan ottelusta, jossa vastustaja todella on paikalla. Tälle kaudelle totutusti Jormien osallistujamäärä ennen ottelua noudatti sarjan $\sum_{k=0}^{\infty} (-1)^k$ summaa: vaikuttaisi olevan 0 tai 1, mutta ei ole todellisuudessa määritelty. Mopsilaisia ja mopsinmielisiä oli kuitenkin kerääntynyt paikalle kunnioitettava joukko, joten FC MoJo lähti kamppailuun vahvalla kokoonpanolla.
@@ -852,30 +852,30 @@ FC MoJo sai otteluun salama-alun kun Ilari Salomaa latasi pallon voimalla alakul
     
     <item>
       <title>Tyyppiarvo esittelee Data Science -päivän panelistit</title>
-      <link>https://example.com/blog/2016-04-26-tyyppiarvo-esittelee-data-science-paivan-panelistit/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-26-tyyppiarvo-esittelee-data-science-paivan-panelistit/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-26-tyyppiarvo-esittelee-data-science-paivan-panelistit/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-26-tyyppiarvo-esittelee-data-science-paivan-panelistit/</guid>
       <description>Moodi ry järjestää tilastotieteen opiskelijoille alan tulevaisuutta käsittelevän Data Science 2016 -päivän perjantaina 27.5.2016. Tapahtumaan on kutsuttu paikalle edustajia yritysmaailmasta, yliopistosta ja tutkimuslaitoksista. Data Science 2016 -päivän teema on nimensä mukaisesti data science nykypäivän ilmiönä. Päivän tarkoituksena on välittää nykyaikaista alan tietoa ja osaamista opiskelijoille.
 Päiväohjelma järjestetään Helsingin yliopiston Social och kommunalhögskolanin Festsalissa (Snellmaninkatu 12). Päivän aikana järjestetään kovatasoinen tilastotiedeaiheinen paneelikeskustelu, jonka osallistujat ovat alan asiantuntijoita. Lisää Data Science -päivästä</description>
     </item>
     
     <item>
       <title>FC MoJolle avauspisteet jalkapallosarjassa!</title>
-      <link>https://example.com/blog/2016-04-25-fc-mojolle-avauspisteet-jalkapallosarjassa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-25-fc-mojolle-avauspisteet-jalkapallosarjassa/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-25-fc-mojolle-avauspisteet-jalkapallosarjassa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-25-fc-mojolle-avauspisteet-jalkapallosarjassa/</guid>
       <description>Avaustappiostaan sisuuntunut FC MoJo haki keskiviikkona täyden pistepotin jalkapallosarjan toisesta ottelustaan MK:ta vastaan. Pisteet irtosivat tällä kertaa poikkeuksellisen helposti, vastustajan luovuttaessa ottelun, kun vaarallisesta matkasta Otaniemestä Töölön pallokentälle oli selvinnyt vain yksi onneton teekkari, joukkueen maalivahti. Paikalle kuvitteellisesti saapunut kuvitteellinen yleisö ei kuitenkaan joutunut pettymään, sillä kakkoskentällä nähtiin tiukka minigame MoJo vihreän ja MoJo sinisen välillä.
 Sinisen joukkueen muodostivat Jormien Veronica Nyberg ja Veikko Isotalo, sekä MoPSin Tuomas Reiterä, Ville Hyvönen, Antero Liukkonen ja Jalo Nousiainen.</description>
     </item>
     
     <item>
       <title>FC MoJolle tappio jalkapallosarjan avauksessa</title>
-      <link>https://example.com/blog/2016-04-22-fc-mojolle-tappio-jalkapallosarjan-avauksessa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-22-fc-mojolle-tappio-jalkapallosarjan-avauksessa/</link>
       <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-22-fc-mojolle-tappio-jalkapallosarjan-avauksessa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-22-fc-mojolle-tappio-jalkapallosarjan-avauksessa/</guid>
       <description>FC MoJo 3
 TF Boys 6
  Moodin ja VOO:n uuden nimen saanut yhteinen jalkapallojoukkue teki ensiesiintymisensä perjantaina Töölön Pallokentän tekonurmikolla. Molempia ainejärjestöjä kunnioittaen joukkue kantaa nimeä FC MoJo (MoPSi ja Jormat) ja pelaa tutuissa MoPSin vihreissä.
@@ -884,10 +884,10 @@ Avausottelu ei MoJolta sujunut niin kunniakkaasti kuin joukkueen arvolle olisi s
     
     <item>
       <title>Suomen ensimmäinen tilastotiedeaiheinen Susikoira Roi -vitsi on täällä</title>
-      <link>https://example.com/blog/2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/</guid>
       <description>Ennen susikoira Roi -vitsin lukemista kannattaa perehtyä vitsien luonteeseen.
 Tajunnanvirta: Aapeli Nevala
 Punchline: Petteri Mäntymaa
@@ -898,20 +898,20 @@ Roi otti aktiivisesti osaa myös koulun ulkopuoliseen toimintaan. Vikkelänä li
     
     <item>
       <title>Moodin leffailta: Das Boot (1981) - elokuva sai katsojan merisairaaksi</title>
-      <link>https://example.com/blog/2016-04-13-moodin-leffailta-das-boot-1981/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-13-moodin-leffailta-das-boot-1981/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-13-moodin-leffailta-das-boot-1981/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-13-moodin-leffailta-das-boot-1981/</guid>
       <description>Sateinen huhtikuun lauantai. Palelen sisätiloissa. Sateenvarjoa ei näy, ja olen joka tapauksessa myöhässä. Tekee mieli jäädä ihailemaan vastapäisen talon kaunista pystytiilipäällystettä ja vihreää kuparikattoa likaisesta ikkunasta, mutta ajatus ilmaisista eväistä on vastustamattoman houkutteleva. Olotila on täydellinen viiden tunnin erikoispitkän leikkauksen Wolfgang Petersenin klaustrofobisesta sukellusvenedraamasta Das Boot (1981) katsomiseen.
 Saapuessani ei lainkaan elokuvateateriksi sopivaan Domus Gaudiumin Matlu-klusterin kerhohuoneeseen huomaan olevani se viimeinen, jota muut taas odottivat. Hups. En muista pahoitella, vaan valtaan tilan parhaan paikan ja korkkaan asiaankuuluvasti saksalaisen laatulagerin käteni hakeutuessa kohti viinirypäleastiaa.</description>
     </item>
     
     <item>
       <title>Huhtikuun tilastosivu on Kaggle, data sciencen koti</title>
-      <link>https://example.com/blog/2016-04-11-kuukauden-tilastosivu-on-kaggle-data-sciencen-koti/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-11-kuukauden-tilastosivu-on-kaggle-data-sciencen-koti/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-11-kuukauden-tilastosivu-on-kaggle-data-sciencen-koti/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-11-kuukauden-tilastosivu-on-kaggle-data-sciencen-koti/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Huhtikuun sivusto on data scientisteja ja yrityksiä maailmanlaajuisesti yhdistävä, Anthony Goldbloomin vuonna 2010 perustama Kaggle.
  Kaggle on paikka, jossa ongelmat ja niiden ratkojat kohtaavat toisensa. Kaggle julkaisee ongelmia ja niihin liittyvää dataa, ja sitten kymmenet tai sadat data scientist -tiimit kilpailevat siitä, kuka ratkaisee kyseisen ongelman parhaiten.
 Kagglen kilpailujen idea on yksinkertainen. Lataa datasetti ja rakenna sen perusteella ennustava malli. Parhaiten tuntematonta dataa ennustava malli voittaa ja palkintona voittajajoukkueelle on esimerkiksi rahaa tai työpaikkoja.</description>
@@ -919,10 +919,10 @@ Kagglen kilpailujen idea on yksinkertainen. Lataa datasetti ja rakenna sen perus
     
     <item>
       <title>Illan Temptation Island -jaksossa merkittävä todennäköisyyslaskentavirhe - HUOM: Ei sisällä juonipaljastuksia</title>
-      <link>https://example.com/blog/2016-04-07-illan-temptation-island-jaksossa-merkittava-todennakoisyyslaskentavirhe-huom-ei-sisalla-juonipaljastuksia/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-07-illan-temptation-island-jaksossa-merkittava-todennakoisyyslaskentavirhe-huom-ei-sisalla-juonipaljastuksia/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-07-illan-temptation-island-jaksossa-merkittava-todennakoisyyslaskentavirhe-huom-ei-sisalla-juonipaljastuksia/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-07-illan-temptation-island-jaksossa-merkittava-todennakoisyyslaskentavirhe-huom-ei-sisalla-juonipaljastuksia/</guid>
       <description>Temptation Islandin kakkoskauden jaksossa kuusi nähdään keskeinen todennäköisyyslaskentavirhe. Jakso näytetään Nelosella tänään illalla, mutta se on ollut katsottavissa Ruutu+-palvelussa eilisestä asti.
 Sarjassa neljä pariskuntaa lähetetään Thaimaahan kahdelle &amp;ldquo;leirille&amp;rdquo;. Toisessa leirissä 10 sinkkumiestä yrittää iskeä varattuja naisia, toisessa 10 sinkkunaista varattuja miehiä. Nelonen näyttää sarjaa joka viikko kaksi jaksoa, joista toisessa nähdään jaksoparin huipennus &amp;ldquo;iltanuotio&amp;rdquo;.
 Iltanuotiolla pariskunnat katsovat leireihin asennettujen kameroiden kuvaamaa videomateriaalia oman puolisonsa humalaisesta sekoilusta intohimoisten, runsaasti tatuoitujen sinkkujen keskellä.</description>
@@ -930,10 +930,10 @@ Iltanuotiolla pariskunnat katsovat leireihin asennettujen kameroiden kuvaamaa vi
     
     <item>
       <title>Surun päivä: FC Jormat jäi hopealle futsalissa</title>
-      <link>https://example.com/blog/2016-04-01-surun-paiva-fc-jormat-jai-hopealle-futsalissa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-04-01-surun-paiva-fc-jormat-jai-hopealle-futsalissa/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-04-01-surun-paiva-fc-jormat-jai-hopealle-futsalissa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-04-01-surun-paiva-fc-jormat-jai-hopealle-futsalissa/</guid>
       <description>FC Jormat 1
 ViPa 4
  Kumpulan Signal Iduna Parkilla koettiin perjantaina suuren urheilujuhlan tuntua, kun Unisportin futsal-sarjan finaalissa yhteen iskivät Viikin Palloseura ja Moodin sekä VOO:n kauniin liiton yhteinen ylpeys FC Jormat. Kumpikin joukkue lähti kamppailuun leveällä kokoonpanolla, joten tiedossa oli vauhdikas ilta.
@@ -942,10 +942,10 @@ Kuvitteellisen katsomon kuvitteelliset katsojat eivät joutuneetkaan pettymään
     
     <item>
       <title>Tyyppiarvo selvitti: Opiskelijoiden hallituskritiikki aiheetonta - leikkaukset voivat nostaa yliopiston tasoa</title>
-      <link>https://example.com/blog/2016-03-31-tyyppiarvo-selvitti-opiskelijoiden-hallituskritiikki-aiheetonta-leikkaukset-voivat-nostaa-yliopiston-tasoa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-31-tyyppiarvo-selvitti-opiskelijoiden-hallituskritiikki-aiheetonta-leikkaukset-voivat-nostaa-yliopiston-tasoa/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-31-tyyppiarvo-selvitti-opiskelijoiden-hallituskritiikki-aiheetonta-leikkaukset-voivat-nostaa-yliopiston-tasoa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-31-tyyppiarvo-selvitti-opiskelijoiden-hallituskritiikki-aiheetonta-leikkaukset-voivat-nostaa-yliopiston-tasoa/</guid>
       <description>Tämä juttu on julkaistu aprillipäivänä 1.4.
  Helsingin yliopiston avajaisissa puhuneen Juha Sipilän hallitus on saanut runsaasti kritiikkiä yliopistoon kohdistuvista leikkaustoimista.
 Avajaispuheessaan Sipilä totesi, että niukkuudella voidaan saavuttaa yllättäviäkin tuloksia.
@@ -955,10 +955,10 @@ Näille sanoille on naureskeltu yliopistopiireissä, mediassa, sosiaalisessa med
     
     <item>
       <title>Kuu kiurusta kesään... vai onko sittenkään?</title>
-      <link>https://example.com/blog/2016-03-30-kuu-kiurusta-kesaan-vai-onko-sittenkaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-30-kuu-kiurusta-kesaan-vai-onko-sittenkaan/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-30-kuu-kiurusta-kesaan-vai-onko-sittenkaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-30-kuu-kiurusta-kesaan-vai-onko-sittenkaan/</guid>
       <description>Kuu kiurusta kesään.
 Puoli kuuta peipposesta,
 västäräkistä vähäsen,
@@ -970,10 +970,10 @@ Seuraava graafi kertoo, paljonko aikaa on jokaisena vuonna kulunut ensimmäisest
     
     <item>
       <title>Viimeinkin rankkarivoitto! - FC Jormat futsalfinaaliin</title>
-      <link>https://example.com/blog/2016-03-30-viimeinkin-rankkarivoitto-fc-jormat-futsalfinaaliin/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-30-viimeinkin-rankkarivoitto-fc-jormat-futsalfinaaliin/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-30-viimeinkin-rankkarivoitto-fc-jormat-futsalfinaaliin/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-30-viimeinkin-rankkarivoitto-fc-jormat-futsalfinaaliin/</guid>
       <description>FC Jormat 2 rl.
 YFK 1
  Lohkovoittonsa jälkeen pitkään huilannut Moodin ja VOO:n futsaljoukkue FC Jormat päästettiin keskiviikkona Kumpulan Maracanalla irti futsalsarjan välierässä farmasian opiskelijoiden YFK:ta vastaan.
@@ -983,10 +983,10 @@ Jormat aloittikin reippaasti ja dominoi ensimmäistä puoliaikaa. Ikävä kyllä
     
     <item>
       <title>RAVIEXCU - &#34;Tämän takia lähdin Moodin hallitukseen&#34;</title>
-      <link>https://example.com/blog/2016-03-25-raviexcu-taman-takia-lahin-moodin-hallitukseen/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-25-raviexcu-taman-takia-lahin-moodin-hallitukseen/</link>
       <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-25-raviexcu-taman-takia-lahin-moodin-hallitukseen/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-25-raviexcu-taman-takia-lahin-moodin-hallitukseen/</guid>
       <description>Oli ihan tavallinen pimeä arkipäivä marraskuussa 2015, kun tilastotieteen opiskelijat nauttivat kahvia ja keskustelivat ajankohtaisista aiheista. Silloin Henri Karttunen laukoi ilmaan, jotain joka tulisi jäämään historiaan; &amp;ldquo;Hei, meidän pitää tehdä excu raveihin&amp;rdquo;. Tästä alkoi matka kohti Vermoa.
 Raviexcursio muodostuikin Moodin sisällä varsin merkittäväksi tapahtumaksi.
 - Raviexcun järjestämisen varmistaminen oli yksi syy miksi lähdin Moodin hallitukseen, kommentoi Moodin nykyinen taloudenhoitaja Joni Oksanen.
@@ -995,10 +995,10 @@ Alkuperäisen suunnitelman mukaan Raviexcuun piti sisältyä kaikki mahdollinen,
     
     <item>
       <title>Automaattinen kolumnisti: Becoming Alexander Stubb</title>
-      <link>https://example.com/blog/2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/</guid>
       <description>Tyyppiarvon automaattinen kolumnisti tutustuu valtionvarainministeri Alexander Stubbin sielunelämään opettamalla itsensä tweettaamaan kokoomushenkisiä 140-merkin kirjainketjuja. Aiemmasta poiketen mallinnus tapahtuu nyt kirjain kirjaimelta edelliset kuusi merkkiä huomoiden, ja tulos on kuin suoraan Stubbin eduskuntavaalikampanjasta vuodelta 2015. Lähdeaineistona on käytetty Stubbin Twitterissä viimeisen vuoden aikana tweettaamia viestejä.
  Stubb vaatii toimenpiteitä. https://twitter.com/StubbBot/status/711891108318617600
 Pakko ottaa #birkkua. https://twitter.com/StubbBot/status/711891709169438720
@@ -1010,10 +1010,10 @@ Stubb-botin mielipiteiden kehitystä voi jatkossa seurata twitterissä.</descrip
     
     <item>
       <title>Kannanottoja ja Kokoomus-tsemppiä - tässä kaikki, mitä pitää tietää Stubbin twitteristä</title>
-      <link>https://example.com/blog/2016-03-22-kannanottoja-ja-kokoomus-tsemppia-tassa-kaikki-mita-pitaa-tietaa-stubbin-twitterista/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-22-kannanottoja-ja-kokoomus-tsemppia-tassa-kaikki-mita-pitaa-tietaa-stubbin-twitterista/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-22-kannanottoja-ja-kokoomus-tsemppia-tassa-kaikki-mita-pitaa-tietaa-stubbin-twitterista/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-22-kannanottoja-ja-kokoomus-tsemppia-tassa-kaikki-mita-pitaa-tietaa-stubbin-twitterista/</guid>
       <description>Kansikuva: Heikki Ritaluoma
 Teksti, kuvat ja analyysit: Tuomo Nieminen
 Kaikki tietävät, että Aleksander Stubb twiittaa paljon. Itseasiassa ministeri Stubbin twiitit ovat niin paljon esillä perinteisessäkin mediassa, että twitterin ulkopuolinenkin tietää jotain niiden sisällöstä.
@@ -1023,29 +1023,29 @@ En seuraa twitteriä ollenkaan, mutta halusin tietää lisää Stubbin twiiteist
     
     <item>
       <title>Opintoblogi: Iso pyörä pyörii - mutta mihin suuntaan?</title>
-      <link>https://example.com/blog/2016-03-21-opintoblogi-iso-pyora-pyorii-mutta-mihin-suuntaan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-21-opintoblogi-iso-pyora-pyorii-mutta-mihin-suuntaan/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-21-opintoblogi-iso-pyora-pyorii-mutta-mihin-suuntaan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-21-opintoblogi-iso-pyora-pyorii-mutta-mihin-suuntaan/</guid>
       <description>![](https://lh3.googleusercontent.com/-rmyVFW9K-gY/VucmdqrGWzI/AAAAAAAAE6Y/jLPFaxp2IAkb_pEXsllbceB0q4lfKygOgCCo/s678-Ic42/iso-py%25C3%25B6r%25C3%25A4.png) -- Keväällä 2015 käynnistyi koko yliopiston laajuinen koulutusuudistus, joka kulkee nimellä Iso Pyörä. Kaikki yliopiston tutkintokoulutukset tullaan organisoimaan koulutusohjelmiksi syksyyn 2017 mennessä. Käytännössä tämä tarkoittaa esimerkiksi Valtiotieteellisen tiedekunnan osalta pienempien aineiden sisäänoton yhdistämistä jonkun toisen aineen kanssa, jolloin uudessa koulutusohjelmassa on aloituspaikkoja vähintään 40.
 Iso Pyörä -uudistus aloitettiin kandivaiheen ohjelmista, joista tehtiin lopullinen päätös helmikuussa 2016, mutta uudistus käsittelee myös maisteriohjelmia. Maisterivaiheen ohjelmien määrästä tai sisällöstä ei ole vielä päätetty.</description>
     </item>
     
     <item>
       <title>MoPSi uusi Kannunvalajien sählyturnauksen mestaruuden!</title>
-      <link>https://example.com/blog/2016-03-20-mopsi-uusi-kannunvalajien-sahlyturnauksen-mestaruuden/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-20-mopsi-uusi-kannunvalajien-sahlyturnauksen-mestaruuden/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-20-mopsi-uusi-kannunvalajien-sahlyturnauksen-mestaruuden/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-20-mopsi-uusi-kannunvalajien-sahlyturnauksen-mestaruuden/</guid>
       <description>Viime vuonna Kannunvalajien sählyturnauksen voittanut MoPSi puolusti sunnuntaina Viikin Isomäen hallilla mestaruuttaan kunnioitettavalla osallistujamäärällä. Paikan päällä selvisi, että osa muiden ainejärjestöjen pelaajista oli jättänyt leikin kesken jo ennen tapahtuman alkamista ja lisäjoukkueita kaivattiin. Näin ollen MoPSi astui esille ja kaksi joukkuetta jaettiin kolmeen tasavahvaan tiimiin. A-lohkossa Moodin kunniaa puolusti nuorten lupausten MoPSi Akatemia, kivenkovassa B-lohkossa kokeneiden pelimiesten MoPSi Legendat ja C-lohkossa raudanluja MoPSi Edustus. Näin ollen pienestä koostaan huolimatta Moodi voitti Valtsikan ainejärjestöjen välisen, epävirallisen &amp;ldquo;Eniten osallistuneita joukkueita&amp;rdquo;-kilpailun.</description>
     </item>
     
     <item>
       <title>MoPSi-Basket putosi koripallosarjasta</title>
-      <link>https://example.com/blog/2016-03-19-mopsi-basket-putosi-koripallosarjasta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-19-mopsi-basket-putosi-koripallosarjasta/</link>
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-19-mopsi-basket-putosi-koripallosarjasta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-19-mopsi-basket-putosi-koripallosarjasta/</guid>
       <description>Vaikka MoPSin pelipaidoissa haisi vielä salibandysarjan pronssiottelun tappiohiki, sen ei pitänyt olla mahdollista.
 MoPSi-Basket lähti Unisportin koripallosarjan pudotuspeleihin oman konferenssinsa ykkössijoitettuna selvitettyään alkulohkon saldolla 6-0. Pari päivää sitten FiveThirtyEight oli julkaissut artikkelin NCAA:n March Madness -turnauksesta, jossa ykkössijoitetun joukkueet ovat voittaneet kaikki 124 otteluaan viimeiseltä sijalta pudotuspeleihin päässeitä joukkueita vastaan.
 Lisäksi MoPSi oli kaatanut pudotuspelien ensimmäisen kierroksen vastustajan, teekkareiden perinteikkään PUS-Basketin kakkosjoukkueen jo alkulohkossa tammikuussa. Tosin MoPSin vakiomiehistöstä vain Asmo Erjava oli ollut paikalla, ja nähtyään vastustajajoukkueen olevan juuri PUS, tämä totesikin että &amp;ldquo;hei, noi on sit oikeasti kova jengi&amp;rdquo;.</description>
@@ -1053,20 +1053,20 @@ Lisäksi MoPSi oli kaatanut pudotuspelien ensimmäisen kierroksen vastustajan, t
     
     <item>
       <title>Poissaoloista kärsinyt MoPSi taipui rankkareilla pronssiottelussa</title>
-      <link>https://example.com/blog/2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/</link>
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/</guid>
       <description>Viime viikolla Kevätklassikon voittopokaalia nostellut MoPSi joutui lähtemään salibandysarjan pronssiotteluun Kroonikoita vastaan pahasti alivoimaisena. Pois pronssiottelun kokoonpanosta olivat jääneet muun muassa seuraavat jerekaralahdet: joukkueen tehokkain pelaaja Reitsi, puolustuslinjan vakiokasvo Hessu sekä hyökkäykseen tuoreutta tuonut Make.
 Tyyppiarvo kuittaa valtamedian esittämät, muun muassa opintoihin liittyneet poissaoloperusteet säälivällä hymähdyksellä. On se nyt s&amp;mdash;&amp;ndash;a kun (puoli)ammattilaiset hävityn välierän jälkeen vetävät pään ja suonet täyteen aineita eivätkä krapulapäissään vaivaudu paikalle kauden huipentavaan otteluun. Pientä valoa urheiluvastaavan päivään toivat kuitenkin Antero Liukkosen ja Sebastian Veijolan viime hetken ilmoittautumiset, joiden seurauksena MoPSi sai kaksi vaihtomiestä otteluun.</description>
     </item>
     
     <item>
       <title>Työelämäblogi: Töitä riittää, mutta mitä voi tienata? - Eija-Leena Koponen kirjoittaa tilastotieteilijän palkkauksesta</title>
-      <link>https://example.com/blog/2016-03-14-tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-14-tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/</link>
       <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-14-tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-14-tyoelamablogi-eija-leena-koponen-kirjoittaa-tilastotieteilijan-palkkauksesta/</guid>
       <description>Tyyppiarvon työelämäblogissa vaihtuvat tilastotieteilijät kertovat, millaista elämä on Exactumin jälkeen.
 Blogin avaa Eija-Leena Koponen, joka valmistui vuonna 2012 yhteiskuntatilastotieteen-erikoistumislinjalta. Hän on työskennellyt työ- ja elinkeinoministeriössä, Accenturella ja nyt yrittäjänä. Eija-Leena on myös Moodin puheenjohtaja 2009 ja Kannuvalajien neppisskabaan useana vuonna osallistuneen Barbara RT:n luottojäsen.
  Säännöllinen kuukausipalkka ja neljän viikon palkallinen kesäloma ovat varmaan jokaisen opiskelijan kestounelmia. Näin on ainakin Valtsikassa, ja enenevässä määrin muuallakin finanssikriisin jälkimainingeissa, kun työpaikat ovat kortilla ja epävarmuus työelämässä kukoistaa.</description>
@@ -1074,10 +1074,10 @@ Blogin avaa Eija-Leena Koponen, joka valmistui vuonna 2012 yhteiskuntatilastotie
     
     <item>
       <title>Satunnaiskulku, osa 1: &#34;Päivä ennen lähtöä&#34;</title>
-      <link>https://example.com/blog/2016-03-11-satunnaiskulku-osa-1-paiva-ennen-lahtoa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-11-satunnaiskulku-osa-1-paiva-ennen-lahtoa/</link>
       <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-11-satunnaiskulku-osa-1-paiva-ennen-lahtoa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-11-satunnaiskulku-osa-1-paiva-ennen-lahtoa/</guid>
       <description>Satunnaiskulku on sumean logiikan määrittämässä toden ja epätoden välisessä maastossa kulkevan moodilaisen romanttinen matkakertomus kohti Iberian niemimaata. Mukana ei ole rahaa eikä päämäärää, mutta sitäkin enemmän epävarmuutta. Ensimmäinen osa kertoo suunnitelmasta, tai pikemminkin siitä, ettei sitä ole.
  Couchsurfing on amerikkalainen popularity contest, jossa kilpaillaan sopivan paljastavilla teennäisillä matkakuvilla ja naiiveilla mietelauseiksi kiteytetyillä esipaistetuilla elämänfilosofioilla referensseistä.
 &amp;ldquo;Tykkääköhän ne nyt musta kun laitan tälläsen kuvan mis keimailen bikineissä rannalla persoonallisesti retrofiltterin takana ja sit laitan viel et matkailu on mun intohimo ja et rakastan kokeilla kaikkee uutta.</description>
@@ -1085,10 +1085,10 @@ Blogin avaa Eija-Leena Koponen, joka valmistui vuonna 2012 yhteiskuntatilastotie
     
     <item>
       <title>MoPSille jatkoaikavoitto trilleriksi venyneessä Kevätklassikossa!</title>
-      <link>https://example.com/blog/2016-03-09-mopsille-jatkoaikavoitto-trilleriksi-venyneessa-kevatklassikossa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-09-mopsille-jatkoaikavoitto-trilleriksi-venyneessa-kevatklassikossa/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-09-mopsille-jatkoaikavoitto-trilleriksi-venyneessa-kevatklassikossa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-09-mopsille-jatkoaikavoitto-trilleriksi-venyneessa-kevatklassikossa/</guid>
       <description>Spielführer Lauha ojentaa Moodin viirin KTTO:n urheiluvastaava Antti Komulle ennen ottelun alkua.
 Kevään odotetuimman urheilutapahtuman aika koitti viimein keskiviikkona, kun Moodi ja KTTO marssittivat kovimmat pelimiehensä sekä kovimman pelinaisen Hakaniemen Isku-areenalle kamppailemaan ensimmäistä kertaa perinteisen Kevätklassikon voitosta.
 Asetelma ennen ottelua oli selkeä: MoPSilla ei ollut yhtään salibandyvoittoa tämän vuoden puolelta ja luottopelaaja Sebu oli löytänyt sisäisen rintamakarkurinsa ja jänistänyt itselleen läheisen KTTO:n kohtaamisesta. MoPSi oli kuitenkin saanut kasaan kilpailukykyisen joukkueen ja pystyi peluuttamaan jopa kahta kokonaista hyökkäysketjua.</description>
@@ -1096,10 +1096,10 @@ Asetelma ennen ottelua oli selkeä: MoPSilla ei ollut yhtään salibandyvoittoa 
     
     <item>
       <title>Maaliskuun tilastosivu on R-bloggers, R-blogosfäärin napa</title>
-      <link>https://example.com/blog/2016-03-07-maaliskuun-tilastosivu-on-r-bloggers-r-blogosfaarin-napa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-07-maaliskuun-tilastosivu-on-r-bloggers-r-blogosfaarin-napa/</link>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-07-maaliskuun-tilastosivu-on-r-bloggers-r-blogosfaarin-napa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-07-maaliskuun-tilastosivu-on-r-bloggers-r-blogosfaarin-napa/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Maaliskuun sivusto on Tal Galilin perustama R -aiheisia blogeja kokoava R-bloggers.
  R on avoimen lähdekoodin tilasto-ohjelmisto, joka on nykyään dominoivassa asemassa tilasto-ohjelmistojen kehityksen ja tilastollisen analyysin suhteen. Uusimmat ja seksikkäimmät tilastolliset menetelmät ovat nykyään nopeiten saatavilla R-paketteina.
 R on niin suuri, mahtava ja suosittu, että pelkästään R-aiheisia bloggeja on sadoittain. Voidaankin puhua R-blogosfääristä.
@@ -1109,10 +1109,10 @@ Tämän blogosfäärin yhteenkokoavana voimana on R-bloggers: sivusto, joka koko
     
     <item>
       <title>MoPSille rankkaritappio salibandyvälierissä - &#34;raain mahdollinen tapa hävitä&#34;</title>
-      <link>https://example.com/blog/2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/</guid>
       <description>1 MoPSi 2 rl. SB Condus
  Playoff-kevät avattiin perjantaina Kumpulan Barona-areenalla MoPSin ja SB Conduksen kohtaamisella. Joukkueet olivat pelanneet alkulohkossa 2-2-tasapelin, joten välierästä saattoi odottaa tiukkaa.
 MoPSi on viime aikoina kärsinyt sairastumisista ja loukkaantumisista, minkä johdosta hyökkäyspäässä nähtiin suurta vaihtuvuutta aikaisempaan kokoonpanoon verrattuna. Tämän kauden debyyttinsä MoPSi-paidassa tekivät konkari ja Moodi-ikoni Mikhael Koufos, sekä Patrik &amp;ldquo;sakukoivu&amp;rdquo; Lauhan nuorempi painos Markus &amp;ldquo;mikkokoivu&amp;rdquo; Lauha.
@@ -1121,10 +1121,10 @@ Ottelun ensimmäinen erä oli tasainen ja kumpikin joukkue perusti pelinsä vahv
     
     <item>
       <title>Tyyppiarvo paljastaa: Tältä näyttää keskimääräinen 2000-luvun Miss Suomi</title>
-      <link>https://example.com/blog/2016-03-04-tyyppiarvo-paljastaa-talta-nayttaa-keskimaarainen-2000-luvun-miss-suomi/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-03-04-tyyppiarvo-paljastaa-talta-nayttaa-keskimaarainen-2000-luvun-miss-suomi/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-03-04-tyyppiarvo-paljastaa-talta-nayttaa-keskimaarainen-2000-luvun-miss-suomi/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-03-04-tyyppiarvo-paljastaa-talta-nayttaa-keskimaarainen-2000-luvun-miss-suomi/</guid>
       <description>Tyyppiarvon toimituksen ydin kokoontui eräänä helmikuisena iltapäivänä pohtimaan vastausta mieltä raastavaan kysymykseen: Miten ennustaa missikisojen voittaja? Mikä on keskivertomoodilaisen mahdollisuus voittaa Miss Suomi -kilpailu?
 Tähän ongelmaan kehitettiin pettämättömän tieteellinen Tyyppiarvon missivertailualgoritmi, jonka sivutuotteena aikaansaatiin suomalaista mielenmaisemaa järkyttävä tulos: aito ja autenttinen kuva keskimääräisestä 2000-luvun Miss Suomesta!
 Tältä näyttää 2000-luvun keskimääräinen Miss Suomi.
@@ -1133,10 +1133,10 @@ Vertailun suorittamiseksi tarvittiin aineistonkeruu. Tilastollisesti merkittäv�
     
     <item>
       <title>MoPSi-Basketille jo viides peräkkäinen voitto - koripallosarjassa silti kaikki auki</title>
-      <link>https://example.com/blog/2016-02-27-mopsi-basketille-jo-viides-perakkainen-voitto-koripallosarjassa-silti-kaikki-auki/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-27-mopsi-basketille-jo-viides-perakkainen-voitto-koripallosarjassa-silti-kaikki-auki/</link>
       <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-27-mopsi-basketille-jo-viides-perakkainen-voitto-koripallosarjassa-silti-kaikki-auki/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-27-mopsi-basketille-jo-viides-perakkainen-voitto-koripallosarjassa-silti-kaikki-auki/</guid>
       <description>MoPSi-Basket paransi pudotuspeliasemiaan kaatamalla Aallon tietotekniikan opiskelijoista koostuvan Lenzkin Dynamon perjantaina Otaniemessä lukemin &amp;ldquo;jotain 50&amp;rdquo;-&amp;ldquo;jotain 15&amp;rdquo;.
 Etukäteen tiedettiin, että ottelun panos oli mystinen. Teoriassa MoPSi oli varmistanut paikkansa koripallosarjan pudotuspeleissä jo kauan sitten, mutta koska teekkareiden keksimässä sarjajärjestelmässä mikään ei ole koskaan varmaa, oli myös Lenzkin Dynamo käytännössä voitettava.
 Viime kaudella MoPSi nimittäin varmisti paikkansa lohkonsa neljän parhaan joukossa jo hyvissä ajoin, mutta sarjavastaavat päättivät ilmoittaa, että pudotuspeleihin pääsee sittenkin vain kaksi ryhmää lohkoa kohti, mikä pudotti moodilaiset kabinettipäätöksellä jatkosta.</description>
@@ -1144,10 +1144,10 @@ Viime kaudella MoPSi nimittäin varmisti paikkansa lohkonsa neljän parhaan jouk
     
     <item>
       <title>Tilastotieteen ilosanoma aukeni maailmalle</title>
-      <link>https://example.com/blog/2016-02-23-tilastotiede-nain-syntyi-suomen-ensimmainen-tilasto-mooc/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-23-tilastotiede-nain-syntyi-suomen-ensimmainen-tilasto-mooc/</link>
       <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-23-tilastotiede-nain-syntyi-suomen-ensimmainen-tilasto-mooc/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-23-tilastotiede-nain-syntyi-suomen-ensimmainen-tilasto-mooc/</guid>
       <description>&amp;ldquo;Käyttökelpoista, ei mielenkiintoista. Hemmetin tylsä, mutta hyödyllinen. Hyödyllistä ja ihan kiinnostavaa, itse en vain tajua&amp;rdquo;.
 Näin vastattiin vuosi sitten ilmestyneen Tyyppiarvon I/2015 toimituksen tekemissä haastatteluissa Kaisatalossa, jossa kysyttiin muiden alojen opiskelijoiden mielikuvia tilastotieteestä.
 Vielä reilut kymmenen vuotta sitten vastaukset olisivat kuitenkin voineet olla vielä tylympiä: &amp;ldquo;Turhaa kaavojen pyörittelyä ja keskiarvojen laskemista. Valhe, emävale, tilasto&amp;rdquo;. Tämä on sinänsä ymmärrettävää - tilastotiede ei tehnyt itsestään erityistä numeroa. Ja silloin harvoin, kun teki, show&amp;rsquo;n taso oli luokkaa viime lauantain Saturday Night Live.</description>
@@ -1155,20 +1155,20 @@ Vielä reilut kymmenen vuotta sitten vastaukset olisivat kuitenkin voineet olla 
     
     <item>
       <title>FC Jormat jatkaa voittokulkuaan futsalsarjassa</title>
-      <link>https://example.com/blog/2016-02-19-fc-jormat-jatkaa-voittokulkuaan-futsalsarjassa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-19-fc-jormat-jatkaa-voittokulkuaan-futsalsarjassa/</link>
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-19-fc-jormat-jatkaa-voittokulkuaan-futsalsarjassa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-19-fc-jormat-jatkaa-voittokulkuaan-futsalsarjassa/</guid>
       <description>Salibandyottelulla alkanut MoPSin sporttiperjantai jatkui klo 14 kun vaihdettiin sinistä päälle ja pelattiin taas futsalia Jormien nimellä. Tällä kertaa jakauma oli tasaisempi kun kahdeksasta kynnelle kyenneestä pelurista 5 oli moodilaisia ja 3 VOO:sta. Vastustaja oli ulkomaalaispelureista koostunut Domus Atletica.
 Asetelma otteluun oli mielenkiintoinen. FC Jormilla oli alla 3 pelistä 3 voittoa mutta jatkoonmeno ei silti ollut kirkossa kuulutettu. Alle neljän maalin tappiolla varmistettaisiin jatkoonpääsy ja yksikin piste varmistaisi lohkovoiton. Vastustajalla oli kuitenkin alla 2 voittoa 3 pelistä, joten ylimielisyyteen ei ollut varaa.</description>
     </item>
     
     <item>
       <title>MoPSille avaustappio kärkikamppailussa - vastustajakin myönsi ratkaisevan korkean mailan</title>
-      <link>https://example.com/blog/2016-02-19-mopsille-ensimmainen-tappio-tiukassa-karkikamppailussa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-19-mopsille-ensimmainen-tappio-tiukassa-karkikamppailussa/</link>
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-19-mopsille-ensimmainen-tappio-tiukassa-karkikamppailussa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-19-mopsille-ensimmainen-tappio-tiukassa-karkikamppailussa/</guid>
       <description>Moodin kruununjalokivellä MoPSilla oli perjantaina rankka tuplapelipäivä. Sporttiperjantai alkoi säbäsarjan kärkikamppailulla SiVuPePaa (SiltaVuorenPenkereen Pallo) vastaan. Ottelun panos oli valtaisa: voittaja nappaa runkosarjan voiton ja henkisen yliotteen pudotuspeleihin.
 Asetelma ottelun alussa oli myös sikäli erikoinen, että kentän kummallakin puolella pyöri suunnilleen saman verran pelaajia lämmittelemässä.
 SiVuPePa sai otteluun loistoalun, kun nopean poikittaissyöttökuvion jälkeen pallo löytyi MoPSin verkosta. Alun jälkeen kamppailu kuitenkin tasaantui ja kumpikin joukkue pääsi sisään omaan peliinsä. Vastustaja iski vielä kerran ennen kuin maaliputkeaan kahteen peliin kasvattanut Joni Oksanen rokotti puolesta kentästä löysin rantein lähetetyllä piiskalla ja kavensi pelin kahteen yhteen.</description>
@@ -1176,20 +1176,20 @@ SiVuPePa sai otteluun loistoalun, kun nopean poikittaissyöttökuvion jälkeen p
     
     <item>
       <title>Miltä Moodin synttärisitsit näyttivät laulunjohtajan silmin?</title>
-      <link>https://example.com/blog/2016-02-17-milta-moodin-synttarisitsit-nayttivat-laulunjohtajan-silmin/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-17-milta-moodin-synttarisitsit-nayttivat-laulunjohtajan-silmin/</link>
       <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-17-milta-moodin-synttarisitsit-nayttivat-laulunjohtajan-silmin/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-17-milta-moodin-synttarisitsit-nayttivat-laulunjohtajan-silmin/</guid>
       <description>Sitsit ovat pohjoismainen akateeminen pöytäjuhla, joissa syödään, lauletaan juomalauluja ja pidetään puheita. Tämä kirjoitus on laulunjohtaja Sebastian Veijolan (kuvassa) kertomus Moodi ry:n 48v synttärisitseistä. Kuvat on ottanut Tapani Linnaluoto.
  Osa 1, &amp;ldquo;The Decision&amp;rdquo; &amp;ldquo;Olin miettinyt, että laulunjohtajana toimiminen olisi siistiä. On kantava ääni ja tykkään huomiosta, muutahan ei vaadita. Viime vuoden loppupuolella ilmoitin olevani käytettävissä. Vasta joskus synttärisitsiviikolla olin yhteydessä toiseen laulunjohtajaan Pihlaan ja mietimme, pitäisikö meidän suunnitella jotenkin lauantaita.</description>
     </item>
     
     <item>
       <title>Moodi ry täytti 48 vuotta - loppuuko taival tähän?</title>
-      <link>https://example.com/blog/2016-02-17-moodi-ry-taytti-48-vuotta-loppuuko-taival-tahan/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-17-moodi-ry-taytti-48-vuotta-loppuuko-taival-tahan/</link>
       <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-17-moodi-ry-taytti-48-vuotta-loppuuko-taival-tahan/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-17-moodi-ry-taytti-48-vuotta-loppuuko-taival-tahan/</guid>
       <description>Tilastotieteilijöiden ainejärjestö Moodi ry täytti 48 vuotta viime lauantaina.
 Moodi ry perustettiin 13.2.1968 Helsingin yliopiston valtiotieteellisessä tiedekunnassa, emeritusprofessori Seppo Mustosen aloitteesta. Perustettaessa ja myös vuosia eteenpäin, oli tilastotieteen oppiaine pelkästään valtiotieteellisessä tiedekunnassa.
 Hallintorakenteet ovat sittemmin muuttuneet, ja vuodesta 2004 lähtien oppiainetta on kandidaattitasolla opetettu lähes yhteisillä tutkintovaatimuksilla myös matemaattis-luonnontieteellisessä tiedekunnassa. Nimi on tietysti pysynyt koko ajan samana: &amp;ldquo;Tilastotiede&amp;rdquo;.
@@ -1198,10 +1198,10 @@ Tämän nimen alla opiskelijaksi hakeutuminen ei kuitenkaan ole enää tulevaisu
     
     <item>
       <title>Miesylivoiman edessä taistellut MoPSi jatkaa tappioitta säbäsarjassa</title>
-      <link>https://example.com/blog/2016-02-13-222/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-13-222/</link>
       <pubDate>Sat, 13 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-13-222/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-13-222/</guid>
       <description>Kahden kuukauden joululomalta UniSportin salibandysarjassa palannut MoPSi sai kauden ensimmäisessä ottelussaan Kumpula Square Gardenissa vastaansa ennakkoon kovan paikallisnaapuri ViPan läheiseltä Viikin kampukselta.
 Peliä ennen tunnelma mopsilauman sisällä oli odottava ja innokas, joskin kentän toisella puolella joukkuejohtoista alkuverryttelyä vetänyt armeija saattoi herättää kaikissa seitsemässä mopsipelaajassa tervettä kunnioitusta vastustajaa kohtaan.
 Alivoimasta huolimatta MoPSi sai otteluun salama-alun, kun uusi Spielführer-nauha kädessään viilettänyt Patrik Lauha tarjosi toimistosta maalin takaa pallon maalin eteen ja Tuomas Reiterä niittasi mailaviidakon keskeltä MoPSin 1-0 johtoon.</description>
@@ -1209,10 +1209,10 @@ Alivoimasta huolimatta MoPSi sai otteluun salama-alun, kun uusi Spielführer-nau
     
     <item>
       <title>MoPSi-Basketille Kumpulan kampuksen koripalloherruus</title>
-      <link>https://example.com/blog/2016-02-13-mopsi-basketille-kumpulan-kampuksen-koripalloherruus/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-13-mopsi-basketille-kumpulan-kampuksen-koripalloherruus/</link>
       <pubDate>Sat, 13 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-13-mopsi-basketille-kumpulan-kampuksen-koripalloherruus/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-13-mopsi-basketille-kumpulan-kampuksen-koripalloherruus/</guid>
       <description>MoPSi-Basket kohtasi yliopistokoripallohistorian ensimmäisessä (!) Kumpulan paikallistaistelussa maantieteen opiskelijoiden joukkueen MaO Reippailijat.
 Ennen ottelun alkua tiedettiin, että MaO on hävinnyt kaikki tähänastiset ottelunsa, mutta toisaalta urheilujournalismin yleisesti hyväksyttyjen narratiivien mukaan paikallistaistelussa joukkueiden todellinen tasoero pienenee, kun molemmilla joukkueilla on tavallista palavampi halu voittaa kamppailu.
 Ottelusta oli tulossa hankala myös siksi, että MoPSi-Basket kärsi tavallista pahemmasta pelaajapulasta - paikalle oli tulossa neljä pelaajaa, ja yksi &amp;ldquo;aloitushyppyyn muutaman minuutin myöhässä&amp;rdquo;. MoPSi olikin varautunut viivyttämään ottelun alkua erinäisillä keinoilla.</description>
@@ -1220,10 +1220,10 @@ Ottelusta oli tulossa hankala myös siksi, että MoPSi-Basket kärsi tavallista 
     
     <item>
       <title>Data-analyysi on kuumimpien yritysten kuumin työkalu</title>
-      <link>https://example.com/blog/2016-02-12-data-analyysi-on-kuumimpien-yritysten-kuumin-tyokalu/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-12-data-analyysi-on-kuumimpien-yritysten-kuumin-tyokalu/</link>
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-12-data-analyysi-on-kuumimpien-yritysten-kuumin-tyokalu/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-12-data-analyysi-on-kuumimpien-yritysten-kuumin-tyokalu/</guid>
       <description>Netflix tuottaa jättimenestyneitä sarjoja hyödyntäen data-analyysia. Sen kehittämät algoritmit kykenevät ennustamaan elokuville annetut arvostelut.
 Onko kaiken luovan työn nyt syrjäyttämässä valtavia datamääriä hyödyntävät oppivat koneet? Luoko data science ennennäkemättömät mahdollisuudet ennustaa ja toteuttaa ihmisten toiveet?
 Data science on kuumaa kamaa, sillä tällä nimikkeellä perustetaan nyt laitoksia tunnetuissa yliopistoissa, kuten UC Berkeley, NYU, MIT ja Univ. of Michigan. Data science, koneoppiminen ja big data ovat myös erittäin seksikkäitä termejä nykyajan yritysmaailmassa.</description>
@@ -1231,10 +1231,10 @@ Data science on kuumaa kamaa, sillä tällä nimikkeellä perustetaan nyt laitok
     
     <item>
       <title>Helmikuun tilastosivu on fivethirtyeigth.com - journalismin ja tilastotieteen pyhä yhteenliittymä</title>
-      <link>https://example.com/blog/2016-02-12-helmikuun-tilastosivu-on-fivethirtyeigth-com/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-12-helmikuun-tilastosivu-on-fivethirtyeigth-com/</link>
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-12-helmikuun-tilastosivu-on-fivethirtyeigth-com/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-12-helmikuun-tilastosivu-on-fivethirtyeigth-com/</guid>
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Helmikuun sivusto on Nate Silverin perustama tilastoaiheinen uutissivu fivethirtyeight.com.
  Jokainen joskus internetissä käynyt tietää, miten kiinnostavaa sisältöä journalismin ja tilastotieteen välinen liitto voi parhaimmillaan synnyttää. Suomessakin datajournalismista on puhuttu paljon, mutta sitä on tehty kovin vähän.
 Median luvatussa maassa Yhdysvalloissa laadukas datajournalismi on huomattavasti pidemmällä. Yksi parhaista tässä on blogina käynnistynyt, nykyään ESPN:n omistama sivusto FiveThirtyEight.
@@ -1243,10 +1243,10 @@ FiveThirtyEight on sivusto, joka käsittelee uutisaiheita tilastollisesta näkö
     
     <item>
       <title>Suuri uudistus valmistui - Tyyppiarvo.com on avattu!</title>
-      <link>https://example.com/blog/2016-02-12-tyyppiarvo-com-avattu/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-12-tyyppiarvo-com-avattu/</link>
       <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-12-tyyppiarvo-com-avattu/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-12-tyyppiarvo-com-avattu/</guid>
       <description>Eräänä joulukuisena iltapäivänä Helsingin yliopiston Kumpulan kampuksella heitettiin ilmaan ajatus: mitä, jos Tyyppiarvo alkaisi ilmestyä netissä?
 Nyt, noin kaksi kuukautta tuon joulukuisen tiistain jälkeen, Tyyppiarvo.com on avattu.
 Tyyppiarvo.com-sivustolla jutut on jaettu neljään ryhmään: Tilastotiede-kategoriassa käsitellään tieteenalan ajankohtaisia ilmiöitä, Tyypilliset kertoo ainejärjestö Moodin tapahtumista ja Moodin Palloseuran otteluista. Henkilöt &amp;amp; Lifestyle esittelee moodilaisia ja muita tilastoihmisiä, ja Blogit-osiossa ääneen pääsevät lehden blogistit.
@@ -1255,10 +1255,10 @@ Tyyppiarvon päätoimittajaksi valittiin joulukuussa 2015 ensimmäisen vuoden t
     
     <item>
       <title>Esittelyssä Tyyppiarvon automaattinen blogisti</title>
-      <link>https://example.com/blog/2016-02-10-esittelyssa-tyyppiarvon-automaattinen-blogisti/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-10-esittelyssa-tyyppiarvon-automaattinen-blogisti/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-10-esittelyssa-tyyppiarvon-automaattinen-blogisti/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-10-esittelyssa-tyyppiarvon-automaattinen-blogisti/</guid>
       <description>Tyyppiarvon blogissa kirjoittaa epäsäännöllisen säännöllisesti Automaattinen kolumnisti. Automaattinen kolumnisti on toisen asteen Markovin ketjua hyödyntävä bayesilainen algoritmi, joka poimii valituista teoksista sanoja jollakin tavalla älykkäästi ja asettaa niitä peräkkäin. Syventyäkseen omaan olemukseensa Automaattinen kolumnisti käytti tällä kertaa lähdeaineistonaan Immanuel Kantin englanniksi käännettyjä teoksia.
 Welcome to our team, automatic blogger! How are you doing today?
 At misemployment alone that pretences. 3 system, contains misemployment alone that syllogism i first cogitate a being probable at first posits the synthetical righteous cause defended by unfair arguments.</description>
@@ -1266,10 +1266,10 @@ At misemployment alone that pretences. 3 system, contains misemployment alone th
     
     <item>
       <title>Harhainen Estimaatti: Eroon jonneista - näin jääkiekon MM-kulta 1995 mullistaa kyselytutkimuksen</title>
-      <link>https://example.com/blog/2016-02-10-eroon-jonneista-nain-jaakiekon-mm-kulta-1995-mullistaa-kyselytutkimuksen/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-10-eroon-jonneista-nain-jaakiekon-mm-kulta-1995-mullistaa-kyselytutkimuksen/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-10-eroon-jonneista-nain-jaakiekon-mm-kulta-1995-mullistaa-kyselytutkimuksen/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-10-eroon-jonneista-nain-jaakiekon-mm-kulta-1995-mullistaa-kyselytutkimuksen/</guid>
       <description>Yksi internetajan tilastotieteen vaikeimpia ongelmia on ollut trollaavat jonnet, jotka lukumääränsä ja liian vapaa-aikansa ansiosta pystyvät terrorisoimaan ihan hyvää hyvyyttään kyselevien gallup-kyselijöiden tutkimuksia.
 International Statistics Institute of Saimaan (ISIS) tuore väitöskirja &amp;ldquo;Tupu, Hupu ja Lupu - näin MM-kulta ratkaisee ongelmasi&amp;rdquo; paljastaa kuitenkin metodin, jonka avulla kiusallisista jonneista päästään eroon.
 Väitöskirjan mukaan jonnet eivät enää häiritse kyselytutkimuksia, jos näille antaa kyselyn vaihtoehdoksi valmiiksi &amp;ldquo;hauskan&amp;rdquo; vaihtoehdon. Tällöin jonnen huumorintarve saadaan täytettyä nopeasti, eikä ylimääräiselle hassuttelulle ole tarvetta.</description>
@@ -1277,10 +1277,10 @@ Väitöskirjan mukaan jonnet eivät enää häiritse kyselytutkimuksia, jos näi
     
     <item>
       <title>Lähes täysin moodilainen FC Jormat kyykytti Ihmepalloa - &#34;Miksi me edes pelataan niiden nimellä&#34;</title>
-      <link>https://example.com/blog/2016-02-03-lahes-taysin-moodilainen-fc-jormat-kyykytti-ihmepalloa-miksi-me-edes-pelataan-niiden-nimella/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-02-03-lahes-taysin-moodilainen-fc-jormat-kyykytti-ihmepalloa-miksi-me-edes-pelataan-niiden-nimella/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-02-03-lahes-taysin-moodilainen-fc-jormat-kyykytti-ihmepalloa-miksi-me-edes-pelataan-niiden-nimella/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-02-03-lahes-taysin-moodilainen-fc-jormat-kyykytti-ihmepalloa-miksi-me-edes-pelataan-niiden-nimella/</guid>
       <description>Moodin ja VOO:n yhteisjoukkue FC Jormat kaatoi keskiviikkona suomen mestarit, kun Kumpulan Camp Noulla jyrän alle joutui suomen kielen opiskelijoiden FC Ihmepallo.
 Vielä puoli tuntia ennen ottelua luultiin, ettei VOO:sta ole tulossa paikalle yhtään pelaajaa.
 - Miksi me edes pelataan Jormien nimellä? pukukopissa ihmeteltiin ennen pelin alkua.
@@ -1290,10 +1290,10 @@ Ilman vaihtomiehiä pelannut Ihmepallo lähti odotetusti matalalla prässillä j
     
     <item>
       <title>Interaktiivinen visualisaatio kertoo enemmän kuin tuhat kuvaa</title>
-      <link>https://example.com/blog/2016-01-31-interaktiivinen-visualisaatio-kertoo-enemman-kuin-tuhat-kuvaa/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-01-31-interaktiivinen-visualisaatio-kertoo-enemman-kuin-tuhat-kuvaa/</link>
       <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-01-31-interaktiivinen-visualisaatio-kertoo-enemman-kuin-tuhat-kuvaa/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-01-31-interaktiivinen-visualisaatio-kertoo-enemman-kuin-tuhat-kuvaa/</guid>
       <description>Numeerisen tiedon visualisointi sai alkunsa ranskalaisen filosofin ja matemaatikon Rene Descartesin kehittämän koordinaatiston myötä. Koordinaatiston perusteella skottilainen William Playfair kehitti tekniikoita taloudellisten numeroaineistojen visualisointiin.
 Playfair 1786
 Playfairin visualisaatiot näyttävät edelleen hyvältä ja samanlaisia kuvia piirretään nykyäänkin.
@@ -1304,10 +1304,10 @@ Uutta visualisoinnissa nykyään on se, että verkkosivut mahdollistavat interak
     
     <item>
       <title>Yliopistourheilussa on kyse kunnioituksesta</title>
-      <link>https://example.com/blog/2016-01-31-kunnioitus/</link>
+      <link>https://tyyppiarvo.netlify.app/blog/2016-01-31-kunnioitus/</link>
       <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/2016-01-31-kunnioitus/</guid>
+      <guid>https://tyyppiarvo.netlify.app/blog/2016-01-31-kunnioitus/</guid>
       <description>Unisportin urheilusarjoissa ei ole kyse aina pelkästä urheilusta, vaan jostain paljon suuremmasta: sitoutumisesta ja kunnioituksesta. Siitä, kuka jaksaa taistella joukkueelle silloinkin, kun ei huvita. Eli siitä, kuka saa kuusi pelaajaa perjantaina iltakymmeneltä sateiseen Espooseen.
 Ja juuri tässä mitattiin eilen MoPSi-Basketin taso. Kun MoPSi marssitti Otahallin palloilusalin muovimatolle peräti kuusi pelaajaa, sai vastustaja AC Niittokone paikalle vain kolme peluria. Ottelu tuomittiin jo ennen sen alkamista MoPSin 20-0-voitoksi.
 Koska pelaajia oli salissa vain yhdeksän, siirtyivät Matrix-vahvistus Ilari Saunamäki ja ottelun tuomari Niittokoneen riveihin, &amp;ldquo;jotta ei oltaisi tultu tänne ihan turhaan&amp;rdquo;.</description>
