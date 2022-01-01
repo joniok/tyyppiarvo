@@ -27,12 +27,29 @@ Ks. [blogdown: Creating Websites with R Markdown kappale 1.7](https://bookdown.o
 
 (aakkosjärjestyksessä)
 
+Faiz Alsuhail   
+Topi Halme   
+Heikki Hyhkö   
+Tuukka Kangas   
+Tuuli Kauppala   
 Daniel Kari, päätoimittaja 2019  
+Eija-Leena Koponen   
+Petri Laarne, arkistointi   
+Riku Laine   
 Patrik Lauha, päätoimittaja 2017--2018  
+Riikka Leppänen   
+Tommi Mäklin   
+Petteri Mäntymaa   
 Aapeli Nevala, päätoimittaja 2016  
 Tuomo Nieminen, päätoimittaja 2014 ja uutispäällikkö 2016  
-Joni Oksanen, ylläpitäjä 2016--2018 ja uutispäällikkö 2017--2018  
+Joni Oksanen, ylläpitäjä 2016-2018 ja uutispäällikkö 2017-2018  
+Maiju Pankakoski   
+Reijo Sund, vanhojen lehtien skannaus  
+Mika Sutela   
+Jussi Tervola   
+Petri Tiihonen    
+Sebastian Veijola   
 
-Arkistointi: Petri Laarne  
-Vanhojen lehtien skannaus: Reijo Sund  
 Logo: Heikki Ritaluoma  
+
+Painettujen lehtien tekijät löytyvät [lehtiarkistosta](https://drive.google.com/drive/folders/1qsP2Fx36gtnbIG1ZsbaMl2TW3tpzSgF1).
