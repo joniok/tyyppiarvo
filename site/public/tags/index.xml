@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tyyppiarvo</title>
-    <link>https://tyyppiarvo.netlify.app/tags/</link>
+    <link>https://tyyppiarvo.com/tags/</link>
     <description>Recent content in Tags on Tyyppiarvo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language><atom:link href="https://tyyppiarvo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fi</language><atom:link href="https://tyyppiarvo.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
