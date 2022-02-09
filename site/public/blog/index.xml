@@ -348,7 +348,7 @@ Helmikuu Helmikuun tilastosivu oli fivethirtyeigth.com - journalismin ja tilasto
       <description>FC Matrix 5
 FC MoJo 1
  Viime kaudella sensaatiomaisesti hopeaan yltänyt VOO:n ja Moodin yhteisjoukkue FC MoJo aloitti keskiviikkona futsal-kautensa nihkeästi häviämällä matemaatikoille luvuin 5-1.
-Koiralauma lähti otteluun selvänä altavastaajana, kun VOO:n edustus (yllätys, yllätys) lähestyi raja-arvoa $\lim_{n \to \infty} 1/n$. Lisäksi joukkueen kiistaton tähtipelaaja **Sebastian Veijola** saapui otteluun tapansa mukaan diivamaisesti kymmenisen minuuttia myöhässä.
+Koiralauma lähti otteluun selvänä altavastaajana, kun VOO:n edustus (yllätys, yllätys) lähestyi raja-arvoa $\lim_{n \to \infty} 1/n$. Lisäksi joukkueen kiistaton tähtipelaaja Sebastian Veijola saapui otteluun tapansa mukaan diivamaisesti kymmenisen minuuttia myöhässä.
 Ensimmäisellä puoliajalla MoJon pelaajat yllättivät kuitenkin itsensä mukaan lukien kaikki paikalla olleet pistämällä rajusti kampoihin kulunen syksyn Unisport-jalkapallon hopeajoukkueelle.</description>
     </item>
     
@@ -514,8 +514,8 @@ MoPSi 3
       <guid>https://tyyppiarvo.com/blog/2016-10-07-matrix-kaatoi-fc-mojon-futissarjan-loppuhuipennuksessa/</guid>
       <description>FC MoJo 3
 Matrix 9
- Syksyn jalkapallosarja päättyi FC MoJon osalta perjantaina ottelulla matemaatikoiden Matrixia vastaan. Ennen ottelua MoJola oli vielä teoreettiset mahdollisuudet jatkoon, mutta siihen olisi edellytetty voittoa Matrixista ja FC Puujalkojen voittoa FC Hammertimesta. Kumpikaan näistä vaadituista ja riittävistä ehdoista ei toteutunut, joten valitettavasti koiralauma seuraa pudotuspelejä katsomosta käsin.
-Ottelun dramaattisin käänne nähtiin jo ennen alkuvihellystä, kun MoJon joukkueenjohtaja Patrik Lauha oli siirtomarkkinoilla hereillä ja värväsi käytännössä koko Polyteknikkojen Raittiusseuran joukkueen vahvistamaan MoJon rivejä.</description>
+ Syksyn jalkapallosarja päättyi FC MoJon osalta perjantaina ottelulla matemaatikoiden Matrixia vastaan. Ennen ottelua MoJola oli vielä teoreettiset mahdollisuudet jatkoon, mutta siihen olisi edellytetty voittoa Matrixista ja FC Puujalkojen voittoa FC Hammertimesta. Kumpikaan näistä vaadituista ja riittävistä ehdoista ei toteutunut, joten valitettavasti koiralauma seuraa pudotuspelejä katsomosta käsin.
+Ottelun dramaattisin käänne nähtiin jo ennen alkuvihellystä, kun MoJon joukkueenjohtaja Patrik Lauha oli siirtomarkkinoilla hereillä ja värväsi käytännössä koko Polyteknikkojen Raittiusseuran joukkueen vahvistamaan MoJon rivejä.</description>
     </item>
     
     <item>
@@ -1027,7 +1027,7 @@ En seuraa twitteriä ollenkaan, mutta halusin tietää lisää Stubbin twiiteist
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tyyppiarvo.com/blog/2016-03-21-opintoblogi-iso-pyora-pyorii-mutta-mihin-suuntaan/</guid>
-      <description>![](https://lh3.googleusercontent.com/-rmyVFW9K-gY/VucmdqrGWzI/AAAAAAAAE6Y/jLPFaxp2IAkb_pEXsllbceB0q4lfKygOgCCo/s678-Ic42/iso-py%25C3%25B6r%25C3%25A4.png) -- Keväällä 2015 käynnistyi koko yliopiston laajuinen koulutusuudistus, joka kulkee nimellä Iso Pyörä. Kaikki yliopiston tutkintokoulutukset tullaan organisoimaan koulutusohjelmiksi syksyyn 2017 mennessä. Käytännössä tämä tarkoittaa esimerkiksi Valtiotieteellisen tiedekunnan osalta pienempien aineiden sisäänoton yhdistämistä jonkun toisen aineen kanssa, jolloin uudessa koulutusohjelmassa on aloituspaikkoja vähintään 40.
+      <description>![](https://lh3.googleusercontent.com/-rmyVFW9K-gY/VucmdqrGWzI/AAAAAAAAE6Y/jLPFaxp2IAkb_pEXsllbceB0q4lfKygOgCCo/s678-Ic42/iso-py%25C3%25B6r%25C3%25A4.png) --Keväällä 2015 käynnistyi koko yliopiston laajuinen koulutusuudistus, joka kulkee nimellä Iso Pyörä. Kaikki yliopiston tutkintokoulutukset tullaan organisoimaan koulutusohjelmiksi syksyyn 2017 mennessä. Käytännössä tämä tarkoittaa esimerkiksi Valtiotieteellisen tiedekunnan osalta pienempien aineiden sisäänoton yhdistämistä jonkun toisen aineen kanssa, jolloin uudessa koulutusohjelmassa on aloituspaikkoja vähintään 40.
 Iso Pyörä -uudistus aloitettiin kandivaiheen ohjelmista, joista tehtiin lopullinen päätös helmikuussa 2016, mutta uudistus käsittelee myös maisteriohjelmia. Maisterivaiheen ohjelmien määrästä tai sisällöstä ei ole vielä päätetty.</description>
     </item>
     
@@ -1103,7 +1103,7 @@ Asetelma ennen ottelua oli selkeä: MoPSilla ei ollut yhtään salibandyvoittoa 
       <description>Tyyppiarvo valitsee joka kuukausi yhden tilastoaiheisen sivuston esittelyyn. Maaliskuun sivusto on Tal Galilin perustama R -aiheisia blogeja kokoava R-bloggers.
  R on avoimen lähdekoodin tilasto-ohjelmisto, joka on nykyään dominoivassa asemassa tilasto-ohjelmistojen kehityksen ja tilastollisen analyysin suhteen. Uusimmat ja seksikkäimmät tilastolliset menetelmät ovat nykyään nopeiten saatavilla R-paketteina.
 R on niin suuri, mahtava ja suosittu, että pelkästään R-aiheisia bloggeja on sadoittain. Voidaankin puhua R-blogosfääristä.
-_R-logo: https://www.r-project.org/logo/_
+R-logo: https://www.r-project.org/logo/
 Tämän blogosfäärin yhteenkokoavana voimana on R-bloggers: sivusto, joka kokoaa yhteen 573 R-aiheisen blogin kirjoituksia.</description>
     </item>
     
