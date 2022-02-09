@@ -28,7 +28,7 @@ Tauon aikana myös Matrix-vahvistus Ilari Saunamäki donkkasi, minkä takia MoPS
 
 Taktiikka toimi sikäli, että Ilari irtosi useaan läpiajoon, joista kaksi päättyi melkein donkkiin. Pisteitä tuli ja ero kasvoi, mutta kokonaista donkkia ei Ilarille merkitty.
 
-Topi Halme kävi sen sijaan laittamassa pallon uudestaan alaspäin. Koska joukkueen donkkien lukumäärä lasketaan kaavalla $D + \displaystyle \sum_{k=1}^{n} (\frac{1}{2})^k$, missä D = oikeiden donkkien määrä" ja n = "melkein-donkkien määrä", sai MoPSi kasaan yhteensä 2,75 donkkia. Se on tämän kauden ennätys.
+Topi Halme kävi sen sijaan laittamassa pallon uudestaan alaspäin. Koska joukkueen donkkien lukumäärä lasketaan kaavalla `$D + \displaystyle \sum_{k=1}^{n} (\frac{1}{2})^k$`, missä D = oikeiden donkkien määrä" ja n = "melkein-donkkien määrä", sai MoPSi kasaan yhteensä 2,75 donkkia. Se on tämän kauden ennätys.
 
 Muuta ihmeellistä kentällä ei oikeastaan nähty. Tero Pekki heitti yhden kolmosen sisään vastustajan "antakaa sen heittää" -huudon jälkeen ja Tommi Ranta - Asmo Erjava -tutkapari löysi toisensa jatkuvasti nopeissa hyökkäyksissä.
 

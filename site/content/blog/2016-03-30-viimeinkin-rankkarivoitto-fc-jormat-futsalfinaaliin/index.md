@@ -36,11 +36,11 @@ https://twitter.com/jumalin/status/715041815385272321
 
 Joukkue ei kuitenkaan onnistunut hyödyntämään minuutin ylivoimaansa, vaan välierä ratkaistiin rankkareilla, joista moodilaisilla oli etukäteen kitkeriä kokemuksia. Niitä voi muistella seuraavista Tyyppiarvon matsiraporteista:
 
-[MoPSille rankkaritappio salibandyvälierissa - "Raain mahdollinen tapa hävitä"](../2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/index.md)
+[MoPSille rankkaritappio salibandyvälierissa - "Raain mahdollinen tapa hävitä"](../2016-03-04-mopsille-rankkaritappio-salibandyvalierissa-raain-mahdollinen-tapa-havita/)
 
-[Poissaoloista kärsinyt MoPSi taipui rankkareilla pronssiottelussa](../2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/index.md)
+[Poissaoloista kärsinyt MoPSi taipui rankkareilla pronssiottelussa](../2016-03-16-poissaoloista-karsinyt-mopsi-taipui-rankkareilla-pronssiottelussa/)
 
-**Laukojiksi** kisassa valikoituivat Veijola, Reiterä sekä pitkällisen neuvonpidon jälkeen valmennusjohdon jo kerralleen vilttiin tarjoama villi kortti Nevala.Rangaistuspotkujen hahmoksi nousi ilmiömäisesti torjunut Nyberg. Rankkarikisan torjuntaprosentin kaavalla $$\\frac{\\sum\_{i=1}^{n} l\_k}{p} $$ ($$l\_1$$ = "torjuttujen laukausten määrä", $$l\_2$$ "tolppaan osuneiden laukausten määrä" ja $$p$$ = "rangaistuspotkujen määrä") Nybergin t% oli täysi sata, mikä Tyyppiarvon selkokielisten uutisten mukaan tarkoittaa, että hän ei päästänyt maaliakaan.
+**Laukojiksi** kisassa valikoituivat Veijola, Reiterä sekä pitkällisen neuvonpidon jälkeen valmennusjohdon jo kerralleen vilttiin tarjoama villi kortti Nevala.Rangaistuspotkujen hahmoksi nousi ilmiömäisesti torjunut Nyberg. Rankkarikisan torjuntaprosentin kaavalla `$\frac{\sum_{i=1}^{n} l_k}{p}$` (`$l_1$` = "torjuttujen laukausten määrä", `$l_2$` "tolppaan osuneiden laukausten määrä" ja `$p$` = "rangaistuspotkujen määrä") Nybergin t% oli täysi sata, mikä Tyyppiarvon selkokielisten uutisten mukaan tarkoittaa, että hän ei päästänyt maaliakaan.
 
 Jormien laukojista kuumapäinen Veijola ampui nopeiden hämäysten jälkeen terävästi "pehmityslaukauksen" vastustajaveskarin nivusiin (eli ihan v----n lujaa kasseille, TA.Selk.Kiel.Uut. huom.). Jo toisella puoliajalla Veijola oli laukonut vastustajan maalivahtia täysillä päähän, joten maalivahdin ajateltiin olevan "taputeltu".
 

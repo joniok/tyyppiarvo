@@ -139,9 +139,9 @@
 <p>Ohjelman juontaja <strong>Sami Kuronen</strong> sanoo naisille: &ldquo;osa katsoo tänään videon, ja osa ei&rdquo;. Tämä tarkoittaa, että &ldquo;ainakin yksi näkee&rdquo; ja &ldquo;ainakin yksi ei näe&rdquo;.</p>
 <p>Neljästä naisesta kaksi ensimmäistä saavat katsoa videon. Virhe tulee, kun Kuronen toteaa nuotiolla kolmantena istuvalle <strong>Iidalle</strong>, että &ldquo;Iida, sulla on 50-50 mahdollisuus&rdquo;.</p>
 <p>Tämä ei pidä paikkaansa.</p>
-<p>Merkitään N=&ldquo;näkee&rdquo; ja E=&ldquo;ei näe&rdquo;. Nyt mahdollisia &ldquo;näkemiskombinaatioita&rdquo; on $2^4 = 16$: {NNNN, NNNE, NNEN, NENN, ENNN, NNEE, NENE, ENNE, ENEN, EENN, NEEN, EEEN, EENE, ENEE, NEEE ja EEEE}.</p>
-<p>Merkitään A = &ldquo;Kolmantena vuorossa oleva Iida näkee&rdquo; ja B=&ldquo;kaksi on jo nähnyt&rdquo;. Tällöin saadaan ehdollinen todennäköisyys $P(A|B)$. Koska voimme rajoittua vaihtoehtoihin, joissa kaksi ensimmäistä ovat nähneet videon, jää jäljelle joukko {NNNN, NNNE, NNEN, NNEE}. Lisäksi tapahtuma NNNN voidaan sulkea pois, sillä tiedetään, että osa ei näe videota.</p>
-<p>Jäljelle jää siis vain {NNNE, NNEN, NNEE}. Näistä sarjoista vain yhdessä Iida näkee videon, siis todellisuudessa mahdollisuus ei ole &ldquo;50-50&rdquo;, vaan pikemminkin &ldquo;33-67&rdquo;, eli $P(A|B) = \frac{1}{3}$.</p>
+<p>Merkitään N=&ldquo;näkee&rdquo; ja E=&ldquo;ei näe&rdquo;. Nyt mahdollisia &ldquo;näkemiskombinaatioita&rdquo; on <code>$2^4 = 16$</code>: {NNNN, NNNE, NNEN, NENN, ENNN, NNEE, NENE, ENNE, ENEN, EENN, NEEN, EEEN, EENE, ENEE, NEEE ja EEEE}.</p>
+<p>Merkitään A = &ldquo;Kolmantena vuorossa oleva Iida näkee&rdquo; ja B=&ldquo;kaksi on jo nähnyt&rdquo;. Tällöin saadaan ehdollinen todennäköisyys <code>$P(A|B)$</code>. Koska voimme rajoittua vaihtoehtoihin, joissa kaksi ensimmäistä ovat nähneet videon, jää jäljelle joukko {NNNN, NNNE, NNEN, NNEE}. Lisäksi tapahtuma NNNN voidaan sulkea pois, sillä tiedetään, että osa ei näe videota.</p>
+<p>Jäljelle jää siis vain {NNNE, NNEN, NNEE}. Näistä sarjoista vain yhdessä Iida näkee videon, siis todellisuudessa mahdollisuus ei ole &ldquo;50-50&rdquo;, vaan pikemminkin &ldquo;33-67&rdquo;, eli <code>$P(A|B) = \frac{1}{3}$</code>.</p>
 <p>Juonipaljastusten minimoimiseksi Tyyppiarvon viihdetoimitus ei kerro, saiko Iida lopulta katsoa videon.</p>
 <p>50-50-mahdollisuus onkin kuin suoraan klassisesta vitsistä: &ldquo;Missiltä kysyttiin, millä todennäköisyydellä voittaa lotossa. Hän vastasi: &ldquo;50%, joko voittaa tai ei voita!&rdquo;</p>
 
@@ -196,9 +196,13 @@
     
     
         
-<script src="https://tyyppiarvo.com/js/math-code.js"></script>
-<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
+
+<script src="https://tyyppiarvo.com/js/math-code.js"></script>
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
     
 </body>

@@ -8,7 +8,7 @@ author: "Tuomo Nieminen"
 
 _Tyyppiarvo esitti keväällä 2016 avoimen haasteen, jossa tavoitteena oli ennustaa Miss Suomi kilpailun kolmen kärki ja voittaja. Haastetta varten tyyppiarvon toimitus keräsi kasaan kattavan missitietokannan, joka avattiin yleisöllä kahta viikkoa ennen vuoden 2016 kilpailun ratkeamista. Tämä artikkeli kertoo, kuinka haasteen voittanut ennuste rakentui._
 
-Tyyppiarvon [missiennustushaaste](../2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/index.md) tarjosi huikean tilaisuudeen päästä soveltamaan nykyaikaisia tilastollisia menetelmiä. Tarjolla oli uniikki aineisto kauneuskilpailijoiden kasvokuvia ja menneiden kilpaluiden tuloksia.
+Tyyppiarvon [missiennustushaaste](../2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/) tarjosi huikean tilaisuudeen päästä soveltamaan nykyaikaisia tilastollisia menetelmiä. Tarjolla oli uniikki aineisto kauneuskilpailijoiden kasvokuvia ja menneiden kilpaluiden tuloksia.
 
 Digitaaliset kuvat ovat yksi esimerkki kenties hieman yllättävästä numeerisen datan lähteestä. Kuvat esitetään yleensä nelikulmiona ja ne koostuvat pienistä pisteistä. Jokaisen pisteen väri voidaan yksinkertaisimmassa tapauksissa kuvata yhdellä numerolla, värikuvan tapauksessa kolmella numerolla (RGB).
 
@@ -28,25 +28,25 @@ Yleisimmin käytössä olevat menetelmät eivät ole suunniteltu tilanteisiin, j
 
 Voisi sanoa, että se on ahneus. Käytetyimmät menetelmät on suunniteltu maksimoimaan selittämisvoima niille syötetyn havaintoaineiston suhteen. Tämä kuulostaa tietenkin lähtökohtaisesti hyvältä. Mutta silloin kun muuttujia - eli mahdollisia selittäjiä - on paljon, muodostuu ongelmaksi ylimallintaminen (overfitting).
 
-Melkein kaikki tilastolliset ennusteet perustuvat lineaarisen mallin ajatukseen: $y = x_1 \cdot w_1 + .. + x_k \cdot w_k$. Selittäjiä $x_i$ kerrotaan sopivilla painoilla $w_i$ ja muuttujien painotetusta summasta muodostuva suora kuvaa yhteyttä selitettävän muuttujan $y$ odotusarvoon.
+Melkein kaikki tilastolliset ennusteet perustuvat lineaarisen mallin ajatukseen: `$y = x_1 \cdot w_1 + .. + x_k \cdot w_k$`. Selittäjiä `$x_i$` kerrotaan sopivilla painoilla `$w_i$` ja muuttujien painotetusta summasta muodostuva suora kuvaa yhteyttä selitettävän muuttujan `$y$` odotusarvoon.
 
-Mallin etsiminen (sovittaminen) on yksinkertaisesti parhaimpien painojen $w_i$ ratkaisemista niin, että malli tekee keskimäärin mahdollisimman pieniä virheitä, eli ennustaa lähelle todellisia havaintoja $y$.
+Mallin etsiminen (sovittaminen) on yksinkertaisesti parhaimpien painojen `$w_i$` ratkaisemista niin, että malli tekee keskimäärin mahdollisimman pieniä virheitä, eli ennustaa lähelle todellisia havaintoja `$y$`.
 
-Tällaisen suoran etsiminen saattaa kuulostaa yksinkertaiselta tai rajoittavalta, mutta todellisuudessa mahdollistaa vaikka mitä, sillä yleisemmässä muodossa selittäjien $x$ tilalla voidaan käyttää mitä tahansa muunnosta $f(x)$, jolloin malli onkin selittäjien $x$ suhteen vaikka kuinka kurvikas.
+Tällaisen suoran etsiminen saattaa kuulostaa yksinkertaiselta tai rajoittavalta, mutta todellisuudessa mahdollistaa vaikka mitä, sillä yleisemmässä muodossa selittäjien `$x$` tilalla voidaan käyttää mitä tahansa muunnosta `$f(x)$`, jolloin malli onkin selittäjien `$x$` suhteen vaikka kuinka kurvikas.
 
 Tästä syystä villeimmät ja seksikkäimmätkin nykyajan tilastotieteen menetelmät, kuten vaikkapa neuroverkot, ovat loppujen lopuksi muunnelmia lineaarisesta mallista.
 
 > villeimmät ja seksikkäimmätkin nykyajan tilastotieteen menetelmät, kuten vaikkapa neuroverkot, ovat loppujen lopuksi muunnelmia lineaarisesta mallista.
 
-**Niin mikä ylimallintaminen?** Yksinkertaisin esimerkki ylimallintamisesta saadaan _polynomiregression_ avulla. Olkoon malli $y = a + x^1 \cdot b_1 + x^2 \cdot b_2 ... x^d \cdot b_d$, jossa sekä $y$, että $x$ koostuvat useasta elementistä (havainnoista ja niihin liittyvistä muuttujista).
+**Niin mikä ylimallintaminen?** Yksinkertaisin esimerkki ylimallintamisesta saadaan _polynomiregression_ avulla. Olkoon malli `$y = a + x^1 \cdot b_1 + x^2 \cdot b_2 ... x^d \cdot b_d$`, jossa sekä `$y$`, että `$x$` koostuvat useasta elementistä (havainnoista ja niihin liittyvistä muuttujista).
 
-Kun $d=1$, eli malli on $x$ suhteen suora, saadaan suora $a + x^1 \cdot b_1$ kulkemaan minkä tahansa kahden $y$ pisteen kautta valitsemalla $a$ ja $b_1$ sopivasti. Malli siis voidaan valita selittämään kahta havaintoa täydellisesti.
+Kun `$d=1$`, eli malli on `$x$` suhteen suora, saadaan suora `$a + x^1 \cdot b_1$` kulkemaan minkä tahansa kahden `$y$` pisteen kautta valitsemalla `$a$` ja `$b_1$` sopivasti. Malli siis voidaan valita selittämään kahta havaintoa täydellisesti.
 
-Kun $d=2$ saadaan taas paraabeli $a + x^1 \cdot b_1 + x^2 \cdot b_2$ kulkemaan minkä tahansa kolmen pisteen kautta valitsemalla $a, b_1$ ja $b_2$ sopivasti.
+Kun `$d=2$` saadaan taas paraabeli `$a + x^1 \cdot b_1 + x^2 \cdot b_2$` kulkemaan minkä tahansa kolmen pisteen kautta valitsemalla `$a, b_1$` ja `$b_2$` sopivasti.
 
 Vastaava pätee aina eteenpäin.
 
-Valitsemalla riittävän monimutkainen malli, kuten esimerkiksi polynomi jonka aste on yksi vähemmän kuin havaintoja, voidaan havainnot selittää täydellisesti muuttujien $x$ avulla. Havaintojen selittäminen täydellisesti on ennusteita tehtäessä yleensä aina huono asia, sillä oletuksena on, että havaintoihin liittyy satunnaisvaihtelua.
+Valitsemalla riittävän monimutkainen malli, kuten esimerkiksi polynomi jonka aste on yksi vähemmän kuin havaintoja, voidaan havainnot selittää täydellisesti muuttujien `$x$` avulla. Havaintojen selittäminen täydellisesti on ennusteita tehtäessä yleensä aina huono asia, sillä oletuksena on, että havaintoihin liittyy satunnaisvaihtelua.
 
 Ilmiötä, johon liiitty satunnaisuutta, ei lähtökohtaisesti voida täydellisesti ennustaa, joten pyrkimys luoda täydellisesti ennustava malli on tuomittu epäonnistumaan. Tästä johtuen monimutkaisempi, havaintoja yhä paremmin selittävä malli onkin jonkun rajan jälkeen huonompi, kuin yksinkertaisempi malli.
 
@@ -69,7 +69,7 @@ Edellä mainituista ongelmista johtuen menetelmää ei kuitenkaan voinut suoraan
 
 _Kuvassa Miss Suomi 2016 Shirly Karvinen esitettynä missiaineiston pääkomponenttianalyysin kautta. Viimeisessä ruudussa alkuperäinen 64x64 kuva on esitetty vain 5 numeron avulla._
 
-**Vaihe kaksi** suoritettiin sovittamalla logistinen regressiomalli käyttäen _l1-regularisaatioa_. Tässä menetelmässä sopivat painot $w$ etsitään sillä lisäyksellä, että nollasta poikkeavien painojen käytöstä rangaistaan. Täten suositaan yksinkertaisempia malleja.
+**Vaihe kaksi** suoritettiin sovittamalla logistinen regressiomalli käyttäen _l1-regularisaatioa_. Tässä menetelmässä sopivat painot `$w$` etsitään sillä lisäyksellä, että nollasta poikkeavien painojen käytöstä rangaistaan. Täten suositaan yksinkertaisempia malleja.
 
 > Ristiinvalidointi on ehkäpä yksi tärkeimmistä menetelmistä, mitä tietojenkäsittelyn puolelta on tuotu mukaan tilastotieteen piiriin.
 
@@ -77,10 +77,8 @@ _Kuvassa Miss Suomi 2016 Shirly Karvinen esitettynä missiaineiston pääkompone
 
 Yksi-pois -menetelmässä jätetään aina vuorolla yksi havainnoista pois ja arvioidaan, kuinka hyvin muiden havaintojen pohjalta etsitty malli ennustaa pois jätettyä havaintoa. Näin voidaan arvioida erilaisten mallien hyvyyttä hyvin konreettisesti.
 
-**Neljättä**, eli viimeistä vaihetta sanotaan _ensemblen_ muodostamiseksi. Yleensä tämä tarkoittaa usean erilaisen mallin tulosten yhdistämistä keskiarvoistamalla mallien ennusteet. Tässä tapauksessa keskiarvoistettiin usean samankaltaisen mallin tulokset.
+**Neljättä**, eli viimeistä vaihetta sanotaan _ensemblen_ muodostamiseksi. Yleensä tämä tarkoittaa usean erilaisen mallin tulosten yhdistämistä keskiarvoistamalla mallien ennusteet. Tässä tapauksessa keskiarvoistettiin usean samankaltaisen mallin tulokset.
 
 Lopulta näiden vaiheiden jälkeen malli ennusti kaksi top3 -kilpailijaa oikein, mitä pidän hyvänä saavutuksena. Todennäköisesti loppujen lopuksi missikilpailussa muillakin tekijöillä, kuin ulkonäöllä on merkitystä.
 
- 
-
-_Tyyppiarvon kilpailuun osallistuneiden ennusteista muodostettu ensemble [ennusti](../2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/index.md) myös kaksi top3 -kilpailijaa oikein._
+_Tyyppiarvon kilpailuun osallistuneiden ennusteista muodostettu ensemble [ennusti](../2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/) myös kaksi top3 -kilpailijaa oikein._

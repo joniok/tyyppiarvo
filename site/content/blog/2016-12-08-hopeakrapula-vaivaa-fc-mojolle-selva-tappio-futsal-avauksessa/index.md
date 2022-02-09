@@ -12,7 +12,7 @@ author: "Krapula-Ahti"
 
 Viime kaudella sensaatiomaisesti hopeaan yltänyt VOO:n ja Moodin yhteisjoukkue FC MoJo aloitti keskiviikkona futsal-kautensa nihkeästi häviämällä matemaatikoille luvuin 5-1.
 
-Koiralauma lähti otteluun selvänä altavastaajana, kun VOO:n edustus (yllätys, yllätys) lähestyi raja-arvoa $\lim_{n \to \infty} 1/n$. Lisäksi joukkueen kiistaton tähtipelaaja **Sebastian Veijola** saapui otteluun tapansa mukaan diivamaisesti kymmenisen minuuttia myöhässä.
+Koiralauma lähti otteluun selvänä altavastaajana, kun VOO:n edustus (yllätys, yllätys) lähestyi raja-arvoa `$\lim_{n \to \infty} 1/n$`. Lisäksi joukkueen kiistaton tähtipelaaja **Sebastian Veijola** saapui otteluun tapansa mukaan diivamaisesti kymmenisen minuuttia myöhässä.
 
 Ensimmäisellä puoliajalla MoJon pelaajat yllättivät kuitenkin itsensä mukaan lukien kaikki paikalla olleet pistämällä rajusti kampoihin kulunen syksyn Unisport-jalkapallon hopeajoukkueelle. Pallonhallintaluvut menivät vahvasti matemaatikoille, mutta ankarasti puolustanut ja vaarallisia vastaiskuja rakennellut MoJo kesti ja päästi puoliajalla vain yhden maalin. Joukkue rakenteli jopa hienoista yllätystä, kun Veijola vihdoin paikalle saavuttuaan tasoitti pelin sijoittamalla pallon lähietäisyydeltä tyylikkäästi verkkoon.
 
