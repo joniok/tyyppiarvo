@@ -22,11 +22,11 @@ Neljästä naisesta kaksi ensimmäistä saavat katsoa videon. Virhe tulee, kun K
 
 Tämä ei pidä paikkaansa.
 
-Merkitään N="näkee" ja E="ei näe". Nyt mahdollisia "näkemiskombinaatioita" on $2^4 = 16$: {NNNN, NNNE, NNEN, NENN, ENNN, NNEE, NENE, ENNE, ENEN, EENN, NEEN, EEEN, EENE, ENEE, NEEE ja EEEE}.
+Merkitään N="näkee" ja E="ei näe". Nyt mahdollisia "näkemiskombinaatioita" on `$2^4 = 16$`: {NNNN, NNNE, NNEN, NENN, ENNN, NNEE, NENE, ENNE, ENEN, EENN, NEEN, EEEN, EENE, ENEE, NEEE ja EEEE}.
 
-Merkitään A = "Kolmantena vuorossa oleva Iida näkee" ja B="kaksi on jo nähnyt". Tällöin saadaan ehdollinen todennäköisyys $P(A|B)$. Koska voimme rajoittua vaihtoehtoihin, joissa kaksi ensimmäistä ovat nähneet videon, jää jäljelle joukko {NNNN, NNNE, NNEN, NNEE}. Lisäksi tapahtuma NNNN voidaan sulkea pois, sillä tiedetään, että osa ei näe videota.
+Merkitään A = "Kolmantena vuorossa oleva Iida näkee" ja B="kaksi on jo nähnyt". Tällöin saadaan ehdollinen todennäköisyys `$P(A|B)$`. Koska voimme rajoittua vaihtoehtoihin, joissa kaksi ensimmäistä ovat nähneet videon, jää jäljelle joukko {NNNN, NNNE, NNEN, NNEE}. Lisäksi tapahtuma NNNN voidaan sulkea pois, sillä tiedetään, että osa ei näe videota.
 
-Jäljelle jää siis vain {NNNE, NNEN, NNEE}. Näistä sarjoista vain yhdessä Iida näkee videon, siis todellisuudessa mahdollisuus ei ole "50-50", vaan pikemminkin "33-67", eli $P(A|B) = \frac{1}{3}$.
+Jäljelle jää siis vain {NNNE, NNEN, NNEE}. Näistä sarjoista vain yhdessä Iida näkee videon, siis todellisuudessa mahdollisuus ei ole "50-50", vaan pikemminkin "33-67", eli `$P(A|B) = \frac{1}{3}$`.
 
 Juonipaljastusten minimoimiseksi Tyyppiarvon viihdetoimitus ei kerro, saiko Iida lopulta katsoa videon.
 

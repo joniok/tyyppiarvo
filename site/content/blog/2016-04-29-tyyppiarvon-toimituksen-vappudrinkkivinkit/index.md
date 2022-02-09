@@ -10,9 +10,9 @@ Huhtikuun viimeinen viikko on käsillä, mikä tarkoittaa opiskelijapiireissä l
 
 ## Epsilon-delta
 
-$\varepsilon$ cl energiajuomaa<br>$\delta$ cl jägermeisteria
+`$\varepsilon$` cl energiajuomaa<br>`$\delta$` cl jägermeisteria
 
-_Jokaista energiajuomamäärää $\varepsilon$ kohti löydetään sellainen $\delta$, että jekun alkoholi voidaan maistaa energiajuoman läpi. Valitaan $\varepsilon > 0$ ja vastaava $\delta$. Sekoitetaan._
+_Jokaista energiajuomamäärää `$\varepsilon$` kohti löydetään sellainen `$\delta$`, että jekun alkoholi voidaan maistaa energiajuoman läpi. Valitaan `$\varepsilon > 0$` ja vastaava `$\delta$`. Sekoitetaan._
 
 * * *
 
@@ -26,17 +26,17 @@ _Tarjoillaan Survomon lämpöisenä. Totea aamuyöllä, että lämmin viina on v
 
 ## Hajaantuva sarja
 
-$\infty$ määrä vodkaa<br>0,5 lasia tuoremehua
+`$\infty$` määrä vodkaa<br>0,5 lasia tuoremehua
 
-_Kaadetaan lasiin puolet vodkaa ja puolet tuoremehua. Juodaan puolet ja täytetään vodkalla. Toista $\infty$ kertaa. Sopii erityisesti vatsahuuhteluun haluaville._
+_Kaadetaan lasiin puolet vodkaa ja puolet tuoremehua. Juodaan puolet ja täytetään vodkalla. Toista `$\infty$` kertaa. Sopii erityisesti vatsahuuhteluun haluaville._
 
 * * *
 
 ## Suppeneva sarja
 
-0,5 lasia vodkaa<br>$\infty$ määrä tuoremehua.
+0,5 lasia vodkaa<br>`$\infty$` määrä tuoremehua.
 
-_Kaadetaan lasiin puolet vodkaa ja puolet tuoremehua. Juodaan puolet ja täytetään tuoremehulla. Toistetaan $\infty$ kertaa. Sopii rauhallista iltaa tavoitteleville._
+_Kaadetaan lasiin puolet vodkaa ja puolet tuoremehua. Juodaan puolet ja täytetään tuoremehulla. Toistetaan `$\infty$` kertaa. Sopii rauhallista iltaa tavoitteleville._
 
 * * *
 
