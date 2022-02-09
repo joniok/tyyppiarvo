@@ -8,7 +8,7 @@ author: "Tuomo Nieminen"
 
 _Tyyppiarvo esitti keväällä 2016 avoimen haasteen, jossa tavoitteena oli ennustaa Miss Suomi kilpailun kolmen kärki ja voittaja. Haastetta varten tyyppiarvon toimitus keräsi kasaan kattavan missitietokannan, joka avattiin yleisöllä kahta viikkoa ennen vuoden 2016 kilpailun ratkeamista. Tämä artikkeli kertoo, kuinka haasteen voittanut ennuste rakentui._
 
-Tyyppiarvon [missiennustushaaste](../2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/index.md) tarjosi huikean tilaisuudeen päästä soveltamaan nykyaikaisia tilastollisia menetelmiä. Tarjolla oli uniikki aineisto kauneuskilpailijoiden kasvokuvia ja menneiden kilpaluiden tuloksia.
+Tyyppiarvon [missiennustushaaste](../2016-05-05-tyyppiarvon-suuri-missihaaste-ennusta-vuoden-2016-voittajat/) tarjosi huikean tilaisuudeen päästä soveltamaan nykyaikaisia tilastollisia menetelmiä. Tarjolla oli uniikki aineisto kauneuskilpailijoiden kasvokuvia ja menneiden kilpaluiden tuloksia.
 
 Digitaaliset kuvat ovat yksi esimerkki kenties hieman yllättävästä numeerisen datan lähteestä. Kuvat esitetään yleensä nelikulmiona ja ne koostuvat pienistä pisteistä. Jokaisen pisteen väri voidaan yksinkertaisimmassa tapauksissa kuvata yhdellä numerolla, värikuvan tapauksessa kolmella numerolla (RGB).
 
@@ -81,4 +81,4 @@ Yksi-pois -menetelmässä jätetään aina vuorolla yksi havainnoista pois ja ar
 
 Lopulta näiden vaiheiden jälkeen malli ennusti kaksi top3 -kilpailijaa oikein, mitä pidän hyvänä saavutuksena. Todennäköisesti loppujen lopuksi missikilpailussa muillakin tekijöillä, kuin ulkonäöllä on merkitystä.
 
-_Tyyppiarvon kilpailuun osallistuneiden ennusteista muodostettu ensemble [ennusti](../2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/index.md) myös kaksi top3 -kilpailijaa oikein._
+_Tyyppiarvon kilpailuun osallistuneiden ennusteista muodostettu ensemble [ennusti](../2016-05-13-tyyppiarvo-ennustaa-ketka-ovat-taman-illan-miss-suomi-kilpailun-karkikolmikko/) myös kaksi top3 -kilpailijaa oikein._

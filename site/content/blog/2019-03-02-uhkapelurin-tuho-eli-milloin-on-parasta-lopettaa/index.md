@@ -30,7 +30,7 @@ Tietenkin lähes kaikissa peleissä häviö on viritetty vieläpä voittoa toden
 
 Ihmisen psykologia johtaa uhkapelurin tuhoon. Hyvän voittoputken myötä saatat ajatella onnen (tai pokerin tapauksessa, ehkä vielä vaarallisemmin, taidon) suosivan sinua. Tappioputki saattaa puolestaan kääntyä _ihan kohta_ menetykset korvaavaksi voitoksi, ainakin jos elokuvia on uskominen.
 
-[Kuuman käden](../2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/index.md) rahapeliversio on niin sanottu uhkapelurin harha. Harha perustuu ajatukseen, että satunnainen prosessi jotenkin korjaisi itseään: mikäli kolikko laskeutuu monta kertaa putkeen klaavalle, kruunan todennäköisyys jotenkin kasvaa. Näin ei tietenkään ole, sillä kolikot eivät harrasta orientaationsa itsetutkiskelua ja sen mukaan toimimista.
+[Kuuman käden](../2017-08-29-kuuma-kasi-koripallossa-ilmio-vai-illuusio/) rahapeliversio on niin sanottu uhkapelurin harha. Harha perustuu ajatukseen, että satunnainen prosessi jotenkin korjaisi itseään: mikäli kolikko laskeutuu monta kertaa putkeen klaavalle, kruunan todennäköisyys jotenkin kasvaa. Näin ei tietenkään ole, sillä kolikot eivät harrasta orientaationsa itsetutkiskelua ja sen mukaan toimimista.
 
 Kuitenkin tämä harhaluulo on yllättävän yleinen, kuten hiljattain [uutisiin tiensä löytänyt lottokirjailija](https://www.mtvuutiset.fi/artikkeli/lottokirjailija-opastaa-omia-voittotodennakoisyyksiaan-voi-parannella-parilla-eri-keinolla-voi-poistaa-tuhansia-vaihtoehtoja/) todistaa kirjoittaessaan, että kahdesti peräkkäin nähtyä numeroa ei kannata lotota. No, Monte Carlon ruletissa nähtiin vuonna 1913 kahdenkymmenenkuuden mustan putki.
 

@@ -8,7 +8,7 @@ author: "Krapula-Ahti"
 
 _Kuva: Wikimedia Commons_
 
-Kuten [taannoin](../2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/index.md) uutisoimme, Roi opiskeli nuorena koirana tilastotiedettä. Roi oli lahjakas ja motivoitunut tilastotieteilijä, jota kiinnosti erityisesti todennäköisyyslaskenta ja sen sovellukset.
+Kuten [taannoin](../2016-04-15-suomen-ensimmainen-tilastotiedeaiheinen-susikoira-roi-vitsi-on-taalla/) uutisoimme, Roi opiskeli nuorena koirana tilastotiedettä. Roi oli lahjakas ja motivoitunut tilastotieteilijä, jota kiinnosti erityisesti todennäköisyyslaskenta ja sen sovellukset.
 
 Pro gradu -tutkielmassaan Roi syventyi momenttigeneroivien funktioiden ominaisuuksiin, ja haaveili jopa tutkijan ammatista päästäkseen kasvattamaan osaamistaan näiden parissa. Tutkijan ura ei Roille kuitenkaan auennut, ja koira päätyi kirjanpitäjäksi tilitoimisto Gement Oy:lle. Roi ei silti luopunut todennäköisyyslaskennasta, vaan jatkoi tutkimuksia vapaa-ajallaan.
 

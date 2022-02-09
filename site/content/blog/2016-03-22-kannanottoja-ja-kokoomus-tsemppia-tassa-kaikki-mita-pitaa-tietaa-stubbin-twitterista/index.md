@@ -153,4 +153,4 @@ Analyysit suoritettiin R-ohjelmistolla ja apuna käytettiin seuraavia kirjastoja
 - Aihemallinnus: _topicmodels_
 - Kuvat: _wordcloud, RColorBrewer, ggplot2_
 
-Lisäksi: Tyyppiarvon automaattinen kolumnisti otti myös Stubb-aineiston haltuunsa ja [generoi itsestään valtiomiestason twiittaajan](../2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/index.md).
+Lisäksi: Tyyppiarvon automaattinen kolumnisti otti myös Stubb-aineiston haltuunsa ja [generoi itsestään valtiomiestason twiittaajan](../2016-03-22-automaattinen-kolumnisti-becoming-alexander-stubb/).

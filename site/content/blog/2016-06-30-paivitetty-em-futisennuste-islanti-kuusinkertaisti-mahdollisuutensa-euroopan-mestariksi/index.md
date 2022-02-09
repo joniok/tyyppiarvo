@@ -12,7 +12,7 @@ analyysi: **Tuomo Nieminen**
 
 Tyyppiarvon puolivälieriä varten päivitetty EM-ennuste povaa Islannille noin prosentin mahdollisuutta voittaa mestaruus.
 
-Jalkapallon Euroopan mestaruuskisojen avauskierroksen todellisen yllätyksen tehnyt 340 000 asukkaan Islanti sai [Tyyppiarvon avauskierroksen ennusteessa](../2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/index.md) vain 0.17% mahdollisuuden voittaa Euroopan mestaruus. Islannin avauskierroksen vastustaja Englanti oli mallissa jopa kolmanneksi suurin mestarisuosikki.
+Jalkapallon Euroopan mestaruuskisojen avauskierroksen todellisen yllätyksen tehnyt 340 000 asukkaan Islanti sai [Tyyppiarvon avauskierroksen ennusteessa](../2016-06-25-tyyppiarvo-tutki-32768-mahdollista-skenaariota-belgia-saksa-todennakoisin-em-finaali/) vain 0.17% mahdollisuuden voittaa Euroopan mestaruus. Islannin avauskierroksen vastustaja Englanti oli mallissa jopa kolmanneksi suurin mestarisuosikki.
 
 Voitettuaan Englannin Islannin saumat kuitenkin paranivat merkittävästi: nyt Tyyppiarvon malli antaa Islannin mestaruudelle 1.01 prosentin todennäköisyyden.  Saksa voittaa nyt mestaruuden peräti yli kerran kolmesta.
 

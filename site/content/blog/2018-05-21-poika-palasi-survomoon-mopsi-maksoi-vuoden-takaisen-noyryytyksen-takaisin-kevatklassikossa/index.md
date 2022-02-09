@@ -12,7 +12,7 @@ author: "Krapula-Ahti"
 
 Moodin Palloseuran ja KTTO:n (Kansantaloustieteen opiskelijat) välinen perinteinen salibandymittelö Kevätklassikko käytiin Hakaniemen säbäpyhätössä viime viikon perjantaina jo kolmatta kertaa. Kummallakin joukkueella oli aiemmista kohtaamisista yksi voitto, kun KTTO oli vienyt viimeisimmän ottelun nimiinsä rumin lukemin:
 
-["Turpaan tuli, henki jäi" - KTTO murskasi väsyneen MoPSin kevätklassikossa](../2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/index.md)
+["Turpaan tuli, henki jäi" - KTTO murskasi väsyneen MoPSin kevätklassikossa](../2017-04-10-turpaan-tuli-henki-jai-ktto-murskasi-vasyneen-mopsin-kevatklassikossa/)
 
 Koiralauman kapteeni **Risko Rikkinen** ei henkilökohtaisista syistä pystynyt pelaamaan perjantaina, mutta osoitti esimerkillistä johtajuutta motivoimalla joukkueensa tänä keväänä hurjaan iskuun. Rikkisen kerrotaan luvanneen kaikille kolmen maalin tekijöille oluen, jonka kokoa tai laatua ei ole etukäteen määritelty.
 
